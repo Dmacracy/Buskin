@@ -1,0 +1,97 @@
+{
+    "fileName":"Jonathan Swift___Gulliver's Travels.txt",
+    "numPars":222,
+    "characters":[
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[221, 30, 1558]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"my master",
+            "mentions":[
+                "My master",
+                "my master"
+            ],
+            "aliases":[
+                "my master"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[205, 30, 1826]":"make"
+                }
+            ]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "their",
+                "their"
+            ],
+            "aliases":[
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[212, 9, 352]":"forget"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[214, 0, 1]":"arrive"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[218, 14, 321]":"deceive"
+                }
+            ],
+            "patient":[
+                {
+                    "[218, 14, 321]":"deceive"
+                }
+            ]
+        }
+    ]
+}

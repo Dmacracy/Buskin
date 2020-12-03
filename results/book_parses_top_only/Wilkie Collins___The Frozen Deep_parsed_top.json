@@ -1,0 +1,147 @@
+{
+    "fileName":"Wilkie Collins___The Frozen Deep.txt",
+    "numPars":112,
+    "characters":[
+        {
+            "mainName":"frank",
+            "mentions":[
+                "Frank",
+                "Frank",
+                "Poor Frank",
+                "Frank"
+            ],
+            "aliases":[
+                "frank",
+                "poor frank"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"clara",
+            "mentions":[
+                "Clara",
+                "Clara"
+            ],
+            "aliases":[
+                "clara"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. crayford",
+            "mentions":[
+                "Mrs. Crayford",
+                "she",
+                "she",
+                "her",
+                "Mrs. Crayford",
+                "Mrs. Crayford",
+                "Mrs. Crayford",
+                "She",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "mrs. crayford",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[104, 25, 329]":"be"
+                },
+                {
+                    "[104, 26, 333]":"be"
+                },
+                {
+                    "[104, 30, 376]":"reply"
+                },
+                {
+                    "[104, 42, 477]":"venture"
+                },
+                {
+                    "[104, 44, 494]":"ask"
+                },
+                {
+                    "[104, 50, 513]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[104, 22, 297]":"look"
+                },
+                {
+                    "[104, 56, 593]":"wander"
+                },
+                {
+                    "[104, 58, 642]":"wander"
+                }
+            ]
+        },
+        {
+            "mainName":"crayford",
+            "mentions":[
+                "Crayford",
+                "Crayford",
+                "his",
+                "his",
+                "Crayford",
+                "Crayford",
+                "Crayford",
+                "his",
+                "his",
+                "Crayford",
+                "Crayford"
+            ],
+            "aliases":[
+                "crayford",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[107, 3, 37]":"catch"
+                },
+                {
+                    "[107, 4, 41]":"lay"
+                },
+                {
+                    "[107, 24, 240]":"try"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "He",
+                "himself",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[111, 0, 8]":"say"
+                },
+                {
+                    "[111, 2, 18]":"win"
+                },
+                {
+                    "[111, 3, 33]":"die"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

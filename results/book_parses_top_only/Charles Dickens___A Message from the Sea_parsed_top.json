@@ -1,0 +1,228 @@
+{
+    "fileName":"Charles Dickens___A Message from the Sea.txt",
+    "numPars":21,
+    "characters":[
+        {
+            "mainName":"the captain",
+            "mentions":[
+                "the captain",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "the captain",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[20, 3, 165]":"wave"
+                }
+            ],
+            "patient":[
+                {
+                    "[20, 3, 165]":"wave"
+                }
+            ]
+        },
+        {
+            "mainName":"kitty",
+            "mentions":[
+                "Kitty",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "kitty"
+            ],
+            "agent":[
+                {
+                    "[19, 25, 582]":"restore"
+                },
+                {
+                    "[19, 26, 658]":"go"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the captain to the young man",
+            "mentions":[
+                "the captain to the young man",
+                "himself",
+                "the captain",
+                "the captain",
+                "him",
+                "the captain",
+                "He",
+                "his",
+                "the captain",
+                "the captain",
+                "He",
+                "His",
+                "the captain",
+                "the captain",
+                "the captain",
+                "the captain",
+                "he",
+                "his",
+                "his",
+                "The young man",
+                "the captain",
+                "the captain",
+                "his",
+                "the captain",
+                "himself",
+                "he",
+                "his",
+                "the captain",
+                "his",
+                "he",
+                "the captain",
+                "the captain",
+                "the captain",
+                "he",
+                "the captain",
+                "the captain",
+                "the captain",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "the young man",
+                "the captain to the young man",
+                "the captain",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[3, 12, 407]":"say"
+                },
+                {
+                    "[3, 25, 700]":"bring"
+                },
+                {
+                    "[3, 28, 782]":"continue"
+                },
+                {
+                    "[3, 29, 801]":"ship"
+                },
+                {
+                    "[3, 30, 828]":"say"
+                },
+                {
+                    "[3, 32, 847]":"say"
+                },
+                {
+                    "[3, 33, 873]":"hold"
+                },
+                {
+                    "[3, 41, 1033]":"say"
+                },
+                {
+                    "[3, 44, 1072]":"say"
+                },
+                {
+                    "[3, 53, 1231]":"be"
+                },
+                {
+                    "[3, 56, 1249]":"rise"
+                },
+                {
+                    "[3, 57, 1314]":"say"
+                },
+                {
+                    "[3, 60, 1359]":"double"
+                },
+                {
+                    "[3, 63, 1419]":"be"
+                },
+                {
+                    "[3, 70, 1566]":"kiss"
+                },
+                {
+                    "[3, 76, 1678]":"reply"
+                },
+                {
+                    "[3, 78, 1758]":"sit"
+                },
+                {
+                    "[3, 79, 1826]":"put"
+                }
+            ],
+            "patient":[
+                {
+                    "[3, 12, 407]":"say"
+                },
+                {
+                    "[3, 18, 552]":"pursue"
+                },
+                {
+                    "[3, 50, 1152]":"cry"
+                },
+                {
+                    "[3, 60, 1359]":"double"
+                },
+                {
+                    "[3, 63, 1419]":"be"
+                },
+                {
+                    "[3, 74, 1630]":"return"
+                },
+                {
+                    "[3, 76, 1678]":"reply"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[19, 3, 70]":"make"
+                },
+                {
+                    "[19, 4, 127]":"give"
+                },
+                {
+                    "[19, 9, 190]":"be"
+                },
+                {
+                    "[19, 14, 284]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[19, 92, 1656]":"be"
+                }
+            ]
+        }
+    ]
+}

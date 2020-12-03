@@ -1,0 +1,268 @@
+{
+    "fileName":"Louisa May Alcott___Flower Fables.txt",
+    "numPars":16,
+    "characters":[
+        {
+            "mainName":"thistle",
+            "mentions":[
+                "Thistle",
+                "his",
+                "Thistle"
+            ],
+            "aliases":[
+                "his",
+                "thistle"
+            ],
+            "agent":[
+                {
+                    "[11, 6, 148]":"fall"
+                },
+                {
+                    "[11, 11, 256]":"tell"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "She",
+                "her",
+                "she",
+                "she",
+                "her",
+                "herself",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[15, 48, 1813]":"break"
+                },
+                {
+                    "[15, 49, 1896]":"say"
+                },
+                {
+                    "[15, 51, 1963]":"say"
+                },
+                {
+                    "[15, 52, 1988]":"journey"
+                },
+                {
+                    "[15, 53, 2061]":"be"
+                },
+                {
+                    "[15, 54, 2150]":"float"
+                },
+                {
+                    "[15, 56, 2206]":"say"
+                },
+                {
+                    "[15, 57, 2255]":"be"
+                },
+                {
+                    "[15, 59, 2285]":"whisper"
+                },
+                {
+                    "[15, 60, 2326]":"see"
+                },
+                {
+                    "[15, 63, 2379]":"say"
+                },
+                {
+                    "[15, 64, 2429]":"think"
+                },
+                {
+                    "[15, 65, 2451]":"float"
+                },
+                {
+                    "[15, 68, 2518]":"cry"
+                },
+                {
+                    "[15, 70, 2567]":"say"
+                },
+                {
+                    "[15, 74, 2657]":"give"
+                },
+                {
+                    "[15, 75, 2691]":"fly"
+                },
+                {
+                    "[15, 77, 2786]":"say"
+                },
+                {
+                    "[15, 78, 2813]":"say"
+                },
+                {
+                    "[15, 79, 2870]":"tell"
+                },
+                {
+                    "[15, 87, 2996]":"journey"
+                },
+                {
+                    "[15, 88, 3150]":"tell"
+                }
+            ],
+            "patient":[
+                {
+                    "[15, 51, 1963]":"say"
+                },
+                {
+                    "[15, 52, 1988]":"journey"
+                },
+                {
+                    "[15, 55, 2188]":"leave"
+                },
+                {
+                    "[15, 59, 2285]":"whisper"
+                },
+                {
+                    "[15, 60, 2326]":"see"
+                },
+                {
+                    "[15, 63, 2379]":"say"
+                },
+                {
+                    "[15, 68, 2518]":"cry"
+                },
+                {
+                    "[15, 74, 2657]":"give"
+                },
+                {
+                    "[15, 84, 2966]":"find"
+                },
+                {
+                    "[15, 88, 3150]":"tell"
+                }
+            ]
+        },
+        {
+            "mainName":"lily-bell",
+            "mentions":[
+                "Lily-Bell",
+                "Lily-Bell",
+                "Lily-Bell",
+                "him"
+            ],
+            "aliases":[
+                "lily-bell",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[11, 17, 432]":"seem"
+                },
+                {
+                    "[11, 21, 537]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[15, 207, 6881]":"feast"
+                },
+                {
+                    "[15, 211, 6944]":"dwell"
+                }
+            ],
+            "patient":[
+                {
+                    "[15, 217, 7022]":"light"
+                }
+            ]
+        }
+    ]
+}

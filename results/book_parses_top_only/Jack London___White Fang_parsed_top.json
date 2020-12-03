@@ -1,0 +1,162 @@
+{
+    "fileName":"Jack London___White Fang.txt",
+    "numPars":464,
+    "characters":[
+        {
+            "mainName":"white fang",
+            "mentions":[
+                "White Fang",
+                "him",
+                "he",
+                "his",
+                "his",
+                "him",
+                "He",
+                "him",
+                "White Fang",
+                "White Fang's",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "white fang",
+                "his",
+                "he",
+                "white fang's",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[462, 0, 2]":"look"
+                },
+                {
+                    "[462, 1, 11]":"snarl"
+                },
+                {
+                    "[462, 3, 40]":"bristle"
+                },
+                {
+                    "[462, 8, 128]":"know"
+                }
+            ],
+            "patient":[
+                {
+                    "[462, 3, 40]":"bristle"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[463, 1, 15]":"be"
+                },
+                {
+                    "[463, 2, 31]":"assert"
+                },
+                {
+                    "[463, 3, 59]":"come"
+                },
+                {
+                    "[463, 4, 94]":"betray"
+                },
+                {
+                    "[463, 5, 108]":"pass"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[459, 1, 14]":"life"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"henry",
+            "mentions":[
+                "Henry",
+                "He",
+                "his",
+                "his",
+                "His",
+                "His",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "henry",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[48, 0, 9]":"answer"
+                },
+                {
+                    "[48, 1, 13]":"jerk"
+                }
+            ],
+            "patient":[
+                {
+                    "[48, 10, 74]":"ease"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "itself"
+            ],
+            "aliases":[
+                "it",
+                "itself"
+            ],
+            "agent":[
+                {
+                    "[460, 2, 66]":"transform"
+                }
+            ],
+            "patient":[
+                {
+                    "[460, 2, 66]":"transform"
+                }
+            ]
+        }
+    ]
+}

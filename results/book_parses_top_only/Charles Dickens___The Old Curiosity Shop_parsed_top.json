@@ -1,0 +1,139 @@
+{
+    "fileName":"Charles Dickens___The Old Curiosity Shop.txt",
+    "numPars":250,
+    "characters":[
+        {
+            "mainName":"kit",
+            "mentions":[
+                "Kit",
+                "Kit",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "Kit",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "kit",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[249, 0, 11]":"be"
+                },
+                {
+                    "[249, 5, 116]":"do"
+                },
+                {
+                    "[249, 7, 198]":"use"
+                },
+                {
+                    "[249, 8, 263]":"take"
+                }
+            ],
+            "patient":[
+                {
+                    "[249, 5, 116]":"do"
+                }
+            ]
+        },
+        {
+            "mainName":"the child",
+            "mentions":[
+                "the child",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "the child",
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"mr swiveller",
+            "mentions":[
+                "Mr Swiveller",
+                "his",
+                "Mr Swiveller",
+                "his",
+                "his",
+                "he",
+                "him",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "mr swiveller",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[246, 0, 16]":"grow"
+                },
+                {
+                    "[246, 1, 52]":"suppose"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the old man",
+            "mentions":[
+                "the old man",
+                "the old man",
+                "him",
+                "the old man"
+            ],
+            "aliases":[
+                "the old man",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[239, 59, 1061]":"say"
+                },
+                {
+                    "[239, 64, 1136]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"nell",
+            "mentions":[
+                "Nell",
+                "She",
+                "her",
+                "She"
+            ],
+            "aliases":[
+                "she",
+                "nell",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[144, 10, 281]":"say"
+                },
+                {
+                    "[144, 12, 297]":"be"
+                },
+                {
+                    "[144, 16, 324]":"look"
+                }
+            ],
+            "patient":[
+                {
+                    "[144, 13, 303]":"cry"
+                }
+            ]
+        }
+    ]
+}

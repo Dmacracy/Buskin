@@ -1,0 +1,234 @@
+{
+    "fileName":"Henry James___The Altar of the Dead.txt",
+    "numPars":40,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "he",
+                "he",
+                "him",
+                "he",
+                "his",
+                "him",
+                "himself",
+                "him",
+                "he",
+                "He",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "him",
+                "he",
+                "he",
+                "him",
+                "he",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[38, 0, 4]":"look"
+                },
+                {
+                    "[38, 1, 30]":"be"
+                },
+                {
+                    "[38, 2, 58]":"rise"
+                },
+                {
+                    "[38, 3, 100]":"bow"
+                },
+                {
+                    "[38, 4, 110]":"see"
+                },
+                {
+                    "[38, 6, 179]":"see"
+                },
+                {
+                    "[38, 10, 215]":"murmur"
+                },
+                {
+                    "[38, 14, 268]":"hold"
+                }
+            ],
+            "patient":[
+                {
+                    "[38, 2, 58]":"rise"
+                },
+                {
+                    "[38, 14, 268]":"hold"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "she",
+                "She",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[39, 1, 12]":"let"
+                },
+                {
+                    "[39, 13, 166]":"look"
+                },
+                {
+                    "[39, 20, 264]":"speak"
+                },
+                {
+                    "[39, 21, 313]":"drop"
+                },
+                {
+                    "[39, 28, 403]":"wail"
+                },
+                {
+                    "[39, 30, 447]":"feel"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"stransom",
+            "mentions":[
+                "Stransom",
+                "her",
+                "him"
+            ],
+            "aliases":[
+                "stransom",
+                "him",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[37, 23, 664]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"him",
+            "mentions":[
+                "him",
+                "him",
+                "him",
+                "He",
+                "himself",
+                "he",
+                "him",
+                "his",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[39, 20, 264]":"speak"
+                },
+                {
+                    "[39, 21, 313]":"drop"
+                },
+                {
+                    "[39, 22, 336]":"remain"
+                },
+                {
+                    "[39, 25, 374]":"go"
+                },
+                {
+                    "[39, 29, 426]":"repeat"
+                },
+                {
+                    "[39, 30, 447]":"feel"
+                }
+            ],
+            "patient":[
+                {
+                    "[39, 20, 264]":"speak"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "her",
+                "She",
+                "her",
+                "her",
+                "She",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[32, 0, 1]":"challenge"
+                },
+                {
+                    "[32, 5, 105]":"let"
+                },
+                {
+                    "[32, 6, 149]":"tell"
+                },
+                {
+                    "[32, 7, 157]":"accept"
+                }
+            ],
+            "patient":[
+                {
+                    "[32, 5, 105]":"let"
+                }
+            ]
+        }
+    ]
+}

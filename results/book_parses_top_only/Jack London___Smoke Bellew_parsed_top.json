@@ -1,0 +1,125 @@
+{
+    "fileName":"Jack London___Smoke Bellew.txt",
+    "numPars":462,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "He",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[458, 0, 1]":"first"
+                },
+                {
+                    "[458, 1, 8]":"rest"
+                },
+                {
+                    "[458, 2, 27]":"hungry"
+                },
+                {
+                    "[458, 3, 41]":"cook"
+                },
+                {
+                    "[458, 4, 58]":"sleep"
+                },
+                {
+                    "[458, 5, 76]":"note"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"shorty",
+            "mentions":[
+                "Shorty",
+                "his"
+            ],
+            "aliases":[
+                "shorty",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[461, 0, 1]":"gulp"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[459, 10, 165]":"say"
+                },
+                {
+                    "[459, 16, 218]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "They",
+                "they",
+                "them",
+                "their"
+            ],
+            "aliases":[
+                "them",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[458, 22, 275]":"taste"
+                },
+                {
+                    "[458, 24, 297]":"tell"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[459, 0, 19]":"have"
+                },
+                {
+                    "[459, 2, 51]":"an"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

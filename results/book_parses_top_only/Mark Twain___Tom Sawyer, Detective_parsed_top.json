@@ -1,0 +1,192 @@
+{
+    "fileName":"Mark Twain___Tom Sawyer, Detective.txt",
+    "numPars":54,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us",
+                "we",
+                "we",
+                "We",
+                "we",
+                "we",
+                "we",
+                "us",
+                "we",
+                "we",
+                "us",
+                "us",
+                "we",
+                "we",
+                "we",
+                "us",
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[51, 7, 233]":"come"
+                },
+                {
+                    "[51, 8, 279]":"bind"
+                },
+                {
+                    "[51, 9, 339]":"think"
+                },
+                {
+                    "[51, 11, 370]":"go"
+                },
+                {
+                    "[51, 14, 409]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[51, 7, 233]":"come"
+                },
+                {
+                    "[51, 8, 279]":"bind"
+                },
+                {
+                    "[51, 9, 339]":"think"
+                },
+                {
+                    "[51, 13, 396]":"knock"
+                }
+            ]
+        },
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "Tom",
+                "his",
+                "his",
+                "he",
+                "he",
+                "Tom",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "Tom",
+                "he",
+                "he",
+                "he",
+                "he",
+                "Tom"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "tom",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[53, 41, 635]":"take"
+                },
+                {
+                    "[53, 42, 660]":"glance"
+                },
+                {
+                    "[53, 45, 693]":"say"
+                },
+                {
+                    "[53, 50, 801]":"say"
+                },
+                {
+                    "[53, 51, 817]":"kneel"
+                },
+                {
+                    "[53, 52, 891]":"look"
+                },
+                {
+                    "[53, 54, 900]":"think"
+                },
+                {
+                    "[53, 55, 947]":"take"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[53, 49, 759]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[53, 44, 682]":"be"
+                },
+                {
+                    "[53, 46, 710]":"be"
+                },
+                {
+                    "[53, 48, 747]":"want"
+                }
+            ]
+        },
+        {
+            "mainName":"uncle silas",
+            "mentions":[
+                "Uncle Silas",
+                "Uncle Silas",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "uncle silas"
+            ],
+            "agent":[
+                {
+                    "[53, 61, 1200]":"preach"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"tom sawyer",
+            "mentions":[
+                "Tom Sawyer",
+                "Tom",
+                "him"
+            ],
+            "aliases":[
+                "tom sawyer",
+                "him",
+                "tom"
+            ],
+            "agent":[
+                {
+                    "[53, 65, 1379]":"give"
+                }
+            ],
+            "patient":[
+                {
+                    "[53, 65, 1379]":"give"
+                }
+            ]
+        }
+    ]
+}

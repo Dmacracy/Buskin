@@ -1,0 +1,264 @@
+{
+    "fileName":"Henry James___The Jolly Corner.txt",
+    "numPars":45,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he",
+                "he",
+                "him",
+                "his",
+                "him",
+                "his",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[37, 0, 6]":"cross"
+                },
+                {
+                    "[37, 1, 39]":"make"
+                },
+                {
+                    "[37, 3, 146]":"start"
+                },
+                {
+                    "[37, 4, 175]":"leave"
+                },
+                {
+                    "[37, 6, 251]":"make"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "His",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[43, 8, 160]":"turn"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"him",
+            "mentions":[
+                "him",
+                "He",
+                "he",
+                "He",
+                "He",
+                "himself",
+                "he",
+                "him",
+                "his",
+                "he",
+                "himself",
+                "his",
+                "his",
+                "He",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[43, 17, 239]":"lie"
+                },
+                {
+                    "[43, 19, 281]":"come"
+                },
+                {
+                    "[43, 21, 298]":"come"
+                },
+                {
+                    "[43, 22, 310]":"have"
+                },
+                {
+                    "[43, 23, 318]":"help"
+                },
+                {
+                    "[43, 31, 425]":"declare"
+                },
+                {
+                    "[43, 34, 456]":"scowl"
+                }
+            ],
+            "patient":[
+                {
+                    "[43, 15, 222]":"say"
+                },
+                {
+                    "[43, 22, 310]":"have"
+                },
+                {
+                    "[43, 23, 318]":"help"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[43, 16, 231]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[43, 17, 239]":"lie"
+                }
+            ]
+        },
+        {
+            "mainName":"spencer brydon",
+            "mentions":[
+                "Spencer Brydon",
+                "his",
+                "him",
+                "he",
+                "him",
+                "Brydon",
+                "his",
+                "him",
+                "him",
+                "him",
+                "his",
+                "he",
+                "him",
+                "him",
+                "him",
+                "his",
+                "him",
+                "him",
+                "him",
+                "he",
+                "He",
+                "he",
+                "him",
+                "he",
+                "he",
+                "him",
+                "He",
+                "His",
+                "his",
+                "his",
+                "his",
+                "his",
+                "He",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "brydon",
+                "spencer brydon",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[44, 10, 199]":"be"
+                },
+                {
+                    "[44, 13, 217]":"sound"
+                },
+                {
+                    "[44, 17, 272]":"be"
+                },
+                {
+                    "[44, 22, 341]":"ask"
+                },
+                {
+                    "[44, 23, 356]":"say"
+                },
+                {
+                    "[44, 27, 407]":"be"
+                },
+                {
+                    "[44, 28, 421]":"make"
+                },
+                {
+                    "[44, 34, 524]":"add"
+                },
+                {
+                    "[44, 35, 530]":"have"
+                },
+                {
+                    "[44, 36, 538]":"isn't"
+                },
+                {
+                    "[44, 38, 548]":"murmur"
+                }
+            ],
+            "patient":[
+                {
+                    "[44, 7, 162]":"bring"
+                },
+                {
+                    "[44, 9, 185]":"like"
+                },
+                {
+                    "[44, 11, 206]":"accept"
+                },
+                {
+                    "[44, 16, 239]":"disown"
+                },
+                {
+                    "[44, 17, 272]":"be"
+                },
+                {
+                    "[44, 18, 287]":"please"
+                },
+                {
+                    "[44, 20, 296]":"be"
+                },
+                {
+                    "[44, 21, 332]":"pity"
+                },
+                {
+                    "[44, 23, 356]":"say"
+                },
+                {
+                    "[44, 26, 394]":"grant"
+                }
+            ]
+        }
+    ]
+}

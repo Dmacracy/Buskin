@@ -1,0 +1,110 @@
+{
+    "fileName":"Sinclair Lewis___Babbitt.txt",
+    "numPars":417,
+    "characters":[
+        {
+            "mainName":"babbitt",
+            "mentions":[
+                "Babbitt",
+                "He"
+            ],
+            "aliases":[
+                "babbitt",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[416, 0, 4]":"cross"
+                },
+                {
+                    "[416, 2, 32]":"stamp"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "yourself",
+                "young man"
+            ],
+            "aliases":[
+                "he",
+                "yourself",
+                "young man"
+            ],
+            "agent":[
+                {
+                    "[413, 9, 173]":"begin"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[410, 31, 793]":"discover"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"paul",
+            "mentions":[
+                "Paul",
+                "Paul",
+                "him",
+                "he",
+                "Paul",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "paul"
+            ],
+            "agent":[
+                {
+                    "[390, 3, 74]":"have"
+                },
+                {
+                    "[390, 6, 120]":"consider"
+                },
+                {
+                    "[390, 7, 150]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[390, 6, 120]":"consider"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[410, 32, 819]":"trust"
+                }
+            ]
+        }
+    ]
+}

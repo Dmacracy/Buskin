@@ -1,0 +1,154 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Son of Tarzan.txt",
+    "numPars":409,
+    "characters":[
+        {
+            "mainName":"korak",
+            "mentions":[
+                "Korak",
+                "Korak"
+            ],
+            "aliases":[
+                "korak"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[408, 10, 203]":"assure"
+                }
+            ]
+        },
+        {
+            "mainName":"meriem",
+            "mentions":[
+                "Meriem",
+                "Meriem",
+                "Meriem",
+                "little Meriem",
+                "Meriem",
+                "Meriem",
+                "my little Meriem",
+                "Meriem"
+            ],
+            "aliases":[
+                "meriem",
+                "my little meriem",
+                "little meriem"
+            ],
+            "agent":[
+                {
+                    "[408, 45, 941]":"enter"
+                },
+                {
+                    "[408, 61, 1167]":"summon"
+                },
+                {
+                    "[408, 62, 1206]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[408, 65, 1229]":"marry"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[408, 6, 154]":"make"
+                },
+                {
+                    "[408, 9, 183]":"do"
+                }
+            ],
+            "patient":[
+                {
+                    "[408, 10, 203]":"assure"
+                }
+            ]
+        },
+        {
+            "mainName":"the boy",
+            "mentions":[
+                "the boy",
+                "his",
+                "the boy",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "the boy"
+            ],
+            "agent":[
+                {
+                    "[321, 14, 357]":"be"
+                },
+                {
+                    "[321, 15, 428]":"bare"
+                },
+                {
+                    "[321, 16, 443]":"resume"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "She",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[408, 52, 1065]":"say"
+                },
+                {
+                    "[408, 56, 1110]":"interrupt"
+                },
+                {
+                    "[408, 59, 1140]":"cry"
+                },
+                {
+                    "[408, 65, 1229]":"marry"
+                },
+                {
+                    "[408, 66, 1266]":"say"
+                },
+                {
+                    "[408, 67, 1274]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[408, 60, 1148]":"remember"
+                }
+            ]
+        }
+    ]
+}

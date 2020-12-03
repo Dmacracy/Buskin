@@ -1,0 +1,159 @@
+{
+    "fileName":"Robert Louis Stevenson___The Merry Men.txt",
+    "numPars":253,
+    "characters":[
+        {
+            "mainName":"the doctor",
+            "mentions":[
+                "The Doctor",
+                "his",
+                "his",
+                "the stable-boy",
+                "he",
+                "The Doctor",
+                "he",
+                "he",
+                "he",
+                "His",
+                "He",
+                "the Doctor",
+                "the Doctor",
+                "the Doctor",
+                "the Doctor"
+            ],
+            "aliases":[
+                "he",
+                "the doctor",
+                "the stable-boy",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[252, 12, 191]":"wince"
+                },
+                {
+                    "[252, 15, 231]":"cry"
+                },
+                {
+                    "[252, 17, 285]":"stop"
+                },
+                {
+                    "[252, 18, 297]":"have"
+                },
+                {
+                    "[252, 19, 301]":"say"
+                },
+                {
+                    "[252, 21, 315]":"hurry"
+                },
+                {
+                    "[252, 24, 333]":"be"
+                },
+                {
+                    "[252, 32, 488]":"take"
+                }
+            ],
+            "patient":[
+                {
+                    "[252, 15, 231]":"cry"
+                },
+                {
+                    "[252, 25, 349]":"see"
+                },
+                {
+                    "[252, 34, 613]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "him",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[224, 18, 254]":"take"
+                }
+            ],
+            "patient":[
+                {
+                    "[224, 19, 264]":"give"
+                }
+            ]
+        },
+        {
+            "mainName":"my uncle",
+            "mentions":[
+                "my uncle",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "my uncle"
+            ],
+            "agent":[
+                {
+                    "[58, 3, 48]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "she",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[242, 3, 70]":"fly"
+                },
+                {
+                    "[242, 4, 83]":"suspect"
+                }
+            ],
+            "patient":[
+                {
+                    "[242, 3, 70]":"fly"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "It",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[249, 36, 463]":"come"
+                },
+                {
+                    "[249, 37, 466]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

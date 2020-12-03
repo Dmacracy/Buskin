@@ -1,0 +1,115 @@
+{
+    "fileName":"Wilkie Collins___The Two Destinies.txt",
+    "numPars":348,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "She",
+                "her",
+                "she",
+                "She",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "She",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[338, 0, 1]":"make"
+                },
+                {
+                    "[338, 3, 20]":"retreat"
+                },
+                {
+                    "[338, 4, 38]":"follow"
+                },
+                {
+                    "[338, 5, 65]":"shrink"
+                },
+                {
+                    "[338, 6, 84]":"lose"
+                },
+                {
+                    "[338, 11, 156]":"discover"
+                }
+            ],
+            "patient":[
+                {
+                    "[338, 4, 38]":"follow"
+                },
+                {
+                    "[338, 6, 84]":"lose"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[344, 6, 140]":"describe"
+                }
+            ]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "me"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"my mother",
+            "mentions":[
+                "my mother",
+                "my mother"
+            ],
+            "aliases":[
+                "my mother"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[347, 6, 108]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

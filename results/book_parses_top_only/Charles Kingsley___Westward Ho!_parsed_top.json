@@ -1,0 +1,211 @@
+{
+    "fileName":"Charles Kingsley___Westward Ho!.txt",
+    "numPars":302,
+    "characters":[
+        {
+            "mainName":"amyas",
+            "mentions":[
+                "Amyas",
+                "Amyas",
+                "himself"
+            ],
+            "aliases":[
+                "himself",
+                "amyas"
+            ],
+            "agent":[
+                {
+                    "[301, 62, 1091]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[301, 55, 966]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "His",
+                "he",
+                "he",
+                "He",
+                "his",
+                "he",
+                "he",
+                "he",
+                "He",
+                "his",
+                "he",
+                "his",
+                "him",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "He",
+                "he",
+                "he",
+                "him",
+                "him",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "He",
+                "he",
+                "He",
+                "his",
+                "his",
+                "him",
+                "he",
+                "he",
+                "himself",
+                "him",
+                "his",
+                "his",
+                "his",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[301, 1, 10]":"go"
+                },
+                {
+                    "[301, 3, 95]":"lay"
+                },
+                {
+                    "[301, 5, 151]":"know"
+                },
+                {
+                    "[301, 6, 174]":"put"
+                },
+                {
+                    "[301, 7, 353]":"think"
+                },
+                {
+                    "[301, 8, 362]":"wrong"
+                },
+                {
+                    "[301, 14, 428]":"begin"
+                },
+                {
+                    "[301, 16, 470]":"stoop"
+                },
+                {
+                    "[301, 18, 486]":"turn"
+                },
+                {
+                    "[301, 22, 560]":"become"
+                },
+                {
+                    "[301, 24, 574]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[301, 9, 371]":"punish"
+                },
+                {
+                    "[301, 24, 574]":"be"
+                },
+                {
+                    "[301, 25, 607]":"replace"
+                },
+                {
+                    "[301, 45, 786]":"taunt"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "me"
+            ],
+            "aliases":[
+                "he",
+                "me"
+            ],
+            "agent":[
+                {
+                    "[301, 50, 836]":"sit"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "We",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[299, 5, 145]":"be"
+                },
+                {
+                    "[299, 7, 172]":"answer"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "she",
+                "me",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "me",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[301, 32, 675]":"say"
+                },
+                {
+                    "[301, 34, 715]":"be"
+                },
+                {
+                    "[301, 42, 765]":"clutch"
+                },
+                {
+                    "[301, 49, 819]":"burst"
+                }
+            ],
+            "patient":[
+                {
+                    "[301, 61, 1072]":"be"
+                }
+            ]
+        }
+    ]
+}

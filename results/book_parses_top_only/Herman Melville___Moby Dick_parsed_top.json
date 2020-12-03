@@ -1,0 +1,99 @@
+{
+    "fileName":"Herman Melville___Moby Dick.txt",
+    "numPars":485,
+    "characters":[
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"ahab",
+            "mentions":[
+                "Ahab",
+                "he",
+                "him",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "ahab",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[475, 24, 502]":"clear"
+                }
+            ],
+            "patient":[
+                {
+                    "[475, 24, 502]":"clear"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "himself",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[483, 136, 1946]":"parry"
+                }
+            ],
+            "patient":[
+                {
+                    "[483, 136, 1946]":"parry"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[474, 29, 620]":"roll"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"him",
+            "mentions":[
+                "him",
+                "him",
+                "HIS"
+            ],
+            "aliases":[
+                "him",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[483, 144, 2082]":"fall"
+                }
+            ]
+        }
+    ]
+}

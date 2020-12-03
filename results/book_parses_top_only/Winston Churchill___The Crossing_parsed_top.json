@@ -1,0 +1,157 @@
+{
+    "fileName":"Winston Churchill___The Crossing.txt",
+    "numPars":813,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "our",
+                "we",
+                "We",
+                "we",
+                "We",
+                "We",
+                "us",
+                "us",
+                "our",
+                "our",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[808, 0, 1]":"cross"
+                },
+                {
+                    "[808, 4, 70]":"climb"
+                },
+                {
+                    "[808, 6, 114]":"gather"
+                },
+                {
+                    "[808, 8, 134]":"pass"
+                },
+                {
+                    "[808, 9, 153]":"come"
+                }
+            ],
+            "patient":[
+                {
+                    "[808, 9, 153]":"come"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "He",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[807, 2, 61]":"set"
+                },
+                {
+                    "[807, 5, 110]":"save"
+                },
+                {
+                    "[807, 9, 196]":"measure"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"nick",
+            "mentions":[
+                "Nick",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "nick"
+            ],
+            "agent":[
+                {
+                    "[789, 6, 160]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[789, 6, 160]":"find"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "She",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[806, 2, 63]":"pass"
+                },
+                {
+                    "[806, 4, 109]":"hear"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "Tom",
+                "Tom himself",
+                "he",
+                "little Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "he"
+            ],
+            "aliases":[
+                "tom himself",
+                "he",
+                "little tom",
+                "tom"
+            ],
+            "agent":[
+                {
+                    "[430, 14, 242]":"cry"
+                },
+                {
+                    "[430, 15, 276]":"forget"
+                },
+                {
+                    "[430, 16, 317]":"leap"
+                },
+                {
+                    "[430, 21, 445]":"say"
+                },
+                {
+                    "[430, 23, 496]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

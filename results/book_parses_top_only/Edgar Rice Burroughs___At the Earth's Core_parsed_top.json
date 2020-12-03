@@ -1,0 +1,130 @@
+{
+    "fileName":"Edgar Rice Burroughs___At the Earth's Core.txt",
+    "numPars":96,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us",
+                "us",
+                "we"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[95, 2, 27]":"realize"
+                },
+                {
+                    "[95, 17, 290]":"because"
+                }
+            ],
+            "patient":[
+                {
+                    "[95, 3, 76]":"bring"
+                },
+                {
+                    "[95, 16, 270]":"vary"
+                }
+            ]
+        },
+        {
+            "mainName":"perry",
+            "mentions":[
+                "Perry",
+                "Perry",
+                "Perry",
+                "Perry",
+                "Perry",
+                "his",
+                "Perry",
+                "He",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "perry"
+            ],
+            "agent":[
+                {
+                    "[92, 70, 2075]":"be"
+                },
+                {
+                    "[92, 74, 2158]":"say"
+                },
+                {
+                    "[92, 79, 2335]":"march"
+                },
+                {
+                    "[92, 80, 2361]":"go"
+                },
+                {
+                    "[92, 81, 2370]":"replenish"
+                }
+            ],
+            "patient":[
+                {
+                    "[92, 50, 1533]":"find"
+                }
+            ]
+        },
+        {
+            "mainName":"dian",
+            "mentions":[
+                "Dian",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "dian",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[95, 6, 108]":"sit"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me",
+                "he",
+                "he",
+                "he",
+                "me"
+            ],
+            "aliases":[
+                "he",
+                "me"
+            ],
+            "agent":[
+                {
+                    "[95, 48, 1129]":"think"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "our",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "us"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

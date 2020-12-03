@@ -1,0 +1,157 @@
+{
+    "fileName":"Joseph Conrad___Falk.txt",
+    "numPars":159,
+    "characters":[
+        {
+            "mainName":"falk",
+            "mentions":[
+                "Falk",
+                "his"
+            ],
+            "aliases":[
+                "his",
+                "falk"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[158, 7, 129]":"wonder"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[157, 5, 100]":"seem"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"hermann",
+            "mentions":[
+                "Hermann",
+                "his",
+                "Mrs. Hermann",
+                "Falk"
+            ],
+            "aliases":[
+                "mrs. hermann",
+                "falk",
+                "hermann",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[156, 1, 21]":"sit"
+                },
+                {
+                    "[156, 2, 40]":"sew"
+                },
+                {
+                    "[156, 3, 69]":"glide"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[157, 1, 10]":"hold"
+                },
+                {
+                    "[157, 4, 79]":"be"
+                },
+                {
+                    "[157, 5, 100]":"seem"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "He",
+                "his",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "His",
+                "He",
+                "he",
+                "himself",
+                "he",
+                "his",
+                "his",
+                "he",
+                "himself",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[129, 2, 62]":"make"
+                },
+                {
+                    "[129, 3, 73]":"suffer"
+                },
+                {
+                    "[129, 5, 99]":"make"
+                },
+                {
+                    "[129, 7, 161]":"say"
+                },
+                {
+                    "[129, 9, 227]":"witness"
+                },
+                {
+                    "[129, 11, 299]":"try"
+                }
+            ],
+            "patient":[
+                {
+                    "[129, 11, 299]":"try"
+                }
+            ]
+        }
+    ]
+}

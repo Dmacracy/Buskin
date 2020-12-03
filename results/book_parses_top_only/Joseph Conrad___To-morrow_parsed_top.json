@@ -1,0 +1,209 @@
+{
+    "fileName":"Joseph Conrad___To-morrow.txt",
+    "numPars":54,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "him",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[53, 0, 1]":"begin"
+                }
+            ],
+            "patient":[
+                {
+                    "[53, 1, 10]":"frighten"
+                },
+                {
+                    "[53, 10, 84]":"hear"
+                }
+            ]
+        },
+        {
+            "mainName":"captain hagberd",
+            "mentions":[
+                "Captain Hagberd",
+                "himself",
+                "him",
+                "He",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "he",
+                "captain hagberd",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[53, 12, 137]":"work"
+                },
+                {
+                    "[53, 16, 168]":"rebel"
+                }
+            ],
+            "patient":[
+                {
+                    "[53, 12, 137]":"work"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "herself",
+                "Her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "She",
+                "her",
+                "she",
+                "she",
+                "her",
+                "She",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "herself"
+            ],
+            "agent":[
+                {
+                    "[52, 0, 1]":"set"
+                },
+                {
+                    "[52, 4, 138]":"stagger"
+                },
+                {
+                    "[52, 5, 165]":"open"
+                },
+                {
+                    "[52, 6, 200]":"dart"
+                },
+                {
+                    "[52, 8, 217]":"shout"
+                },
+                {
+                    "[52, 10, 238]":"tell"
+                },
+                {
+                    "[52, 11, 263]":"grow"
+                },
+                {
+                    "[52, 13, 293]":"call"
+                },
+                {
+                    "[52, 17, 336]":"be"
+                },
+                {
+                    "[52, 23, 451]":"burst"
+                },
+                {
+                    "[52, 28, 472]":"sob"
+                }
+            ],
+            "patient":[
+                {
+                    "[52, 4, 138]":"stagger"
+                }
+            ]
+        },
+        {
+            "mainName":"the old man",
+            "mentions":[
+                "The old man",
+                "himself",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "the old man"
+            ],
+            "agent":[
+                {
+                    "[47, 9, 96]":"fidget"
+                },
+                {
+                    "[47, 10, 107]":"cry"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "She",
+                "her",
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "She",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[51, 2, 31]":"resist"
+                },
+                {
+                    "[51, 3, 34]":"let"
+                },
+                {
+                    "[51, 6, 65]":"nod"
+                },
+                {
+                    "[51, 9, 107]":"whisper"
+                },
+                {
+                    "[51, 22, 235]":"stand"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

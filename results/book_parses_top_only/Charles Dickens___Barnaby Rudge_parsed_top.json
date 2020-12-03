@@ -1,0 +1,227 @@
+{
+    "fileName":"Charles Dickens___Barnaby Rudge.txt",
+    "numPars":372,
+    "characters":[
+        {
+            "mainName":"barnaby",
+            "mentions":[
+                "Barnaby",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "he",
+                "his",
+                "He",
+                "his",
+                "him",
+                "He",
+                "his",
+                "his",
+                "He",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "himself",
+                "him",
+                "his",
+                "he",
+                "him",
+                "he",
+                "he",
+                "himself",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "barnaby",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[371, 8, 288]":"time"
+                },
+                {
+                    "[371, 9, 312]":"recover"
+                },
+                {
+                    "[371, 10, 335]":"become"
+                },
+                {
+                    "[371, 11, 353]":"have"
+                },
+                {
+                    "[371, 12, 379]":"be"
+                },
+                {
+                    "[371, 13, 415]":"live"
+                },
+                {
+                    "[371, 15, 464]":"be"
+                },
+                {
+                    "[371, 16, 516]":"be"
+                },
+                {
+                    "[371, 17, 556]":"be"
+                },
+                {
+                    "[371, 18, 604]":"visit"
+                },
+                {
+                    "[371, 20, 664]":"be"
+                },
+                {
+                    "[371, 21, 702]":"be"
+                },
+                {
+                    "[371, 22, 767]":"mention"
+                },
+                {
+                    "[371, 24, 868]":"practise"
+                }
+            ],
+            "patient":[
+                {
+                    "[371, 14, 445]":"know"
+                },
+                {
+                    "[371, 16, 516]":"be"
+                },
+                {
+                    "[371, 18, 604]":"visit"
+                },
+                {
+                    "[371, 22, 767]":"mention"
+                },
+                {
+                    "[371, 24, 868]":"practise"
+                }
+            ]
+        },
+        {
+            "mainName":"hugh",
+            "mentions":[
+                "Hugh",
+                "Hugh",
+                "his"
+            ],
+            "aliases":[
+                "hugh",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[351, 12, 227]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[351, 21, 392]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "him",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[371, 0, 2]":"recover"
+                }
+            ],
+            "patient":[
+                {
+                    "[371, 0, 2]":"recover"
+                },
+                {
+                    "[371, 1, 28]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "It"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[370, 12, 578]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[369, 2, 145]":"make"
+                },
+                {
+                    "[369, 4, 197]":"make"
+                },
+                {
+                    "[369, 5, 230]":"increase"
+                },
+                {
+                    "[369, 6, 278]":"live"
+                }
+            ],
+            "patient":[
+                {
+                    "[369, 3, 171]":"establish"
+                }
+            ]
+        }
+    ]
+}

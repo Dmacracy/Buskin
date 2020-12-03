@@ -1,0 +1,130 @@
+{
+    "fileName":"Joseph Conrad___Youth.txt",
+    "numPars":73,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[67, 12, 212]":"come"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "she",
+                "she",
+                "she",
+                "her",
+                "Her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[66, 2, 40]":"enter"
+                },
+                {
+                    "[66, 3, 55]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "our",
+                "we",
+                "we",
+                "us",
+                "We",
+                "we",
+                "We",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[51, 0, 4]":"warn"
+                },
+                {
+                    "[51, 1, 39]":"go"
+                },
+                {
+                    "[51, 2, 56]":"lug"
+                },
+                {
+                    "[51, 3, 67]":"save"
+                },
+                {
+                    "[51, 10, 196]":"say"
+                },
+                {
+                    "[51, 12, 248]":"order"
+                }
+            ],
+            "patient":[
+                {
+                    "[51, 0, 4]":"warn"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[61, 3, 83]":"see"
+                }
+            ],
+            "patient":[
+                {
+                    "[61, 2, 56]":"do"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[72, 3, 89]":"come"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

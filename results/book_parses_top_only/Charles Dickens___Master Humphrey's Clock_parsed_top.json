@@ -1,0 +1,170 @@
+{
+    "fileName":"Charles Dickens___Master Humphrey's Clock.txt",
+    "numPars":91,
+    "characters":[
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "him",
+                "His",
+                "He",
+                "him",
+                "him",
+                "He",
+                "his",
+                "he",
+                "His",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[89, 3, 89]":"speak"
+                },
+                {
+                    "[89, 4, 120]":"trust"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[89, 8, 279]":"express"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. pickwick",
+            "mentions":[
+                "Mr. Pickwick",
+                "Mr. Pickwick",
+                "Mr. Pickwick"
+            ],
+            "aliases":[
+                "mr. pickwick"
+            ],
+            "agent":[
+                {
+                    "[71, 0, 2]":"act"
+                },
+                {
+                    "[71, 1, 48]":"produce"
+                },
+                {
+                    "[71, 3, 94]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"joe toddyhigh",
+            "mentions":[
+                "Joe Toddyhigh",
+                "He",
+                "his",
+                "he",
+                "his",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he",
+                "himself",
+                "He",
+                "he",
+                "he",
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "joe toddyhigh",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[23, 1, 31]":"glance"
+                },
+                {
+                    "[23, 2, 50]":"turn"
+                },
+                {
+                    "[23, 4, 79]":"go"
+                },
+                {
+                    "[23, 5, 127]":"yield"
+                },
+                {
+                    "[23, 6, 154]":"be"
+                },
+                {
+                    "[23, 7, 199]":"walk"
+                },
+                {
+                    "[23, 8, 234]":"recollect"
+                },
+                {
+                    "[23, 9, 264]":"assure"
+                },
+                {
+                    "[23, 10, 308]":"resolve"
+                }
+            ],
+            "patient":[
+                {
+                    "[23, 5, 127]":"yield"
+                },
+                {
+                    "[23, 9, 264]":"assure"
+                },
+                {
+                    "[23, 10, 308]":"resolve"
+                }
+            ]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[90, 9, 255]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

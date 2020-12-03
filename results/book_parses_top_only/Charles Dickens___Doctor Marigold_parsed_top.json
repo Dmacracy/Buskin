@@ -1,0 +1,104 @@
+{
+    "fileName":"Charles Dickens___Doctor Marigold.txt",
+    "numPars":34,
+    "characters":[
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[29, 0, 1]":"put"
+                },
+                {
+                    "[29, 1, 11]":"mean"
+                },
+                {
+                    "[29, 2, 18]":"foreboded"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[31, 0, 2]":"turn"
+                },
+                {
+                    "[31, 2, 66]":"confess"
+                }
+            ],
+            "patient":[
+                {
+                    "[31, 0, 2]":"turn"
+                }
+            ]
+        },
+        {
+            "mainName":"a man",
+            "mentions":[
+                "a man",
+                "his"
+            ],
+            "aliases":[
+                "a man",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[33, 16, 363]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "him",
+                "He",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[27, 4, 154]":"add"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

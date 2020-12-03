@@ -1,0 +1,150 @@
+{
+    "fileName":"Mark Twain___The Tragedy of Pudd'nhead Wilson.txt",
+    "numPars":134,
+    "characters":[
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "Tom",
+                "Tom",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "tom"
+            ],
+            "agent":[
+                {
+                    "[126, 4, 197]":"lie"
+                },
+                {
+                    "[126, 6, 213]":"grant"
+                }
+            ],
+            "patient":[
+                {
+                    "[126, 7, 266]":"pardon"
+                }
+            ]
+        },
+        {
+            "mainName":"wilson",
+            "mentions":[
+                "Wilson",
+                "Wilson",
+                "Wilson",
+                "Wilson",
+                "He",
+                "Wilson",
+                "Wilson",
+                "Wilson",
+                "his",
+                "his",
+                "His",
+                "he",
+                "his",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "wilson",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[124, 2, 41]":"do"
+                },
+                {
+                    "[124, 10, 156]":"resume"
+                },
+                {
+                    "[124, 19, 280]":"say"
+                },
+                {
+                    "[124, 22, 375]":"be"
+                },
+                {
+                    "[124, 23, 381]":"confess"
+                },
+                {
+                    "[124, 38, 588]":"be"
+                },
+                {
+                    "[124, 41, 644]":"resign"
+                }
+            ],
+            "patient":[
+                {
+                    "[124, 37, 540]":"come"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[113, 30, 709]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[131, 7, 132]":"grieve"
+                },
+                {
+                    "[131, 9, 178]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[131, 7, 132]":"grieve"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[128, 11, 332]":"let"
+                }
+            ],
+            "patient":[
+                {
+                    "[128, 11, 332]":"let"
+                }
+            ]
+        }
+    ]
+}

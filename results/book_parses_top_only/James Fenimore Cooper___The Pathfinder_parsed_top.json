@@ -1,0 +1,93 @@
+{
+    "fileName":"James Fenimore Cooper___The Pathfinder.txt",
+    "numPars":241,
+    "characters":[
+        {
+            "mainName":"mabel",
+            "mentions":[
+                "Mabel",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "mabel"
+            ],
+            "agent":[
+                {
+                    "[239, 3, 76]":"watch"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"jasper",
+            "mentions":[
+                "Jasper",
+                "her",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "jasper",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[237, 0, 2]":"lead"
+                },
+                {
+                    "[237, 2, 41]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[234, 15, 312]":"depart"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"cap",
+            "mentions":[
+                "Cap",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "cap"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[240, 1, 12]":"remain"
+                }
+            ]
+        }
+    ]
+}

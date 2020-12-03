@@ -1,0 +1,127 @@
+{
+    "fileName":"Jane Austen___Sense and Sensibility.txt",
+    "numPars":296,
+    "characters":[
+        {
+            "mainName":"elinor",
+            "mentions":[
+                "Elinor",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "elinor",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[288, 32, 1278]":"be"
+                },
+                {
+                    "[288, 33, 1335]":"appear"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"marianne",
+            "mentions":[
+                "Marianne",
+                "Marianne",
+                "Marianne"
+            ],
+            "aliases":[
+                "marianne"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[295, 6, 298]":"reach"
+                }
+            ]
+        },
+        {
+            "mainName":"edward",
+            "mentions":[
+                "Edward",
+                "Edward",
+                "his",
+                "his",
+                "his",
+                "himself",
+                "Edward",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "edward",
+                "he",
+                "himself",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[293, 15, 635]":"puzzle"
+                },
+                {
+                    "[293, 16, 681]":"appear"
+                }
+            ],
+            "patient":[
+                {
+                    "[293, 12, 481]":"become"
+                },
+                {
+                    "[293, 16, 681]":"appear"
+                }
+            ]
+        },
+        {
+            "mainName":"mrs. jennings",
+            "mentions":[
+                "Mrs. Jennings",
+                "she",
+                "she",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "mrs. jennings",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[291, 34, 1404]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "its",
+                "its"
+            ],
+            "aliases":[
+                "its",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[293, 16, 681]":"appear"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

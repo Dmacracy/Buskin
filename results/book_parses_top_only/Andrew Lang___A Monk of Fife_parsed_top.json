@@ -1,0 +1,136 @@
+{
+    "fileName":"Andrew Lang___A Monk of Fife.txt",
+    "numPars":256,
+    "characters":[
+        {
+            "mainName":"the maid",
+            "mentions":[
+                "the Maid",
+                "her",
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "the maid",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[251, 15, 489]":"mind"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[251, 1, 31]":"wed"
+                }
+            ],
+            "patient":[
+                {
+                    "[251, 1, 31]":"wed"
+                }
+            ]
+        },
+        {
+            "mainName":"elliot",
+            "mentions":[
+                "Elliot",
+                "Elliot",
+                "Elliot",
+                "Elliot",
+                "Elliot",
+                "Elliot",
+                "Elliot",
+                "her",
+                "she",
+                "Elliot",
+                "Elliot",
+                "Elliot"
+            ],
+            "aliases":[
+                "elliot",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[238, 107, 2824]":"say"
+                },
+                {
+                    "[238, 111, 2924]":"be"
+                },
+                {
+                    "[238, 114, 2952]":"say"
+                },
+                {
+                    "[238, 125, 3238]":"speak"
+                },
+                {
+                    "[238, 132, 3409]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[249, 1, 16]":"follow"
+                },
+                {
+                    "[249, 2, 38]":"write"
+                }
+            ],
+            "patient":[
+                {
+                    "[249, 2, 38]":"write"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[252, 5, 128]":"fill"
+                }
+            ],
+            "patient":[
+                {
+                    "[252, 7, 162]":"look"
+                }
+            ]
+        }
+    ]
+}

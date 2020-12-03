@@ -1,0 +1,171 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Return of Tarzan.txt",
+    "numPars":229,
+    "characters":[
+        {
+            "mainName":"tarzan",
+            "mentions":[
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "he",
+                "he",
+                "him",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his",
+                "tarzan"
+            ],
+            "agent":[
+                {
+                    "[228, 10, 232]":"rush"
+                },
+                {
+                    "[228, 13, 309]":"ask"
+                },
+                {
+                    "[228, 15, 359]":"join"
+                },
+                {
+                    "[228, 24, 578]":"ask"
+                },
+                {
+                    "[228, 25, 665]":"decline"
+                }
+            ],
+            "patient":[
+                {
+                    "[228, 15, 359]":"join"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "he",
+                "He",
+                "him",
+                "he",
+                "he",
+                "he",
+                "He",
+                "his",
+                "his",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[226, 0, 5]":"whisper"
+                },
+                {
+                    "[226, 2, 32]":"nod"
+                },
+                {
+                    "[226, 7, 98]":"fumble"
+                },
+                {
+                    "[226, 8, 126]":"find"
+                },
+                {
+                    "[226, 9, 138]":"hand"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the ape-man",
+            "mentions":[
+                "the ape-man",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "the ape-man",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[228, 25, 665]":"decline"
+                },
+                {
+                    "[228, 26, 693]":"explain"
+                },
+                {
+                    "[228, 27, 722]":"return"
+                },
+                {
+                    "[228, 28, 788]":"add"
+                },
+                {
+                    "[228, 31, 816]":"suppose"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"clayton",
+            "mentions":[
+                "Clayton",
+                "Clayton",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "clayton",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[225, 12, 181]":"lie"
+                },
+                {
+                    "[225, 14, 216]":"arouse"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "their",
+                "their",
+                "their"
+            ],
+            "aliases":[
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[228, 41, 1039]":"sail"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

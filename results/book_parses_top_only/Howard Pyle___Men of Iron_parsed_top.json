@@ -1,0 +1,119 @@
+{
+    "fileName":"Howard Pyle___Men of Iron.txt",
+    "numPars":102,
+    "characters":[
+        {
+            "mainName":"myles",
+            "mentions":[
+                "Myles",
+                "his",
+                "his",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "myles"
+            ],
+            "agent":[
+                {
+                    "[101, 63, 1510]":"smile"
+                },
+                {
+                    "[101, 64, 1535]":"slip"
+                },
+                {
+                    "[101, 65, 1551]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the earl",
+            "mentions":[
+                "the Earl",
+                "the Earl"
+            ],
+            "aliases":[
+                "the earl"
+            ],
+            "agent":[
+                {
+                    "[100, 5, 134]":"then"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"sir james",
+            "mentions":[
+                "Sir James",
+                "Sir James",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "sir james",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[75, 12, 343]":"take"
+                },
+                {
+                    "[75, 18, 492]":"say"
+                },
+                {
+                    "[75, 19, 500]":"meaneth"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[100, 0, 29]":"center"
+                },
+                {
+                    "[100, 1, 39]":"feel"
+                },
+                {
+                    "[100, 2, 75]":"give"
+                },
+                {
+                    "[100, 3, 108]":"strike"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

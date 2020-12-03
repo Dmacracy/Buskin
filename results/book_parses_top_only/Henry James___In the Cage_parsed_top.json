@@ -1,0 +1,195 @@
+{
+    "fileName":"Henry James___In the Cage.txt",
+    "numPars":111,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "she",
+                "the girl",
+                "her"
+            ],
+            "aliases":[
+                "the girl",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[94, 1, 59]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[94, 1, 59]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "She",
+                "she",
+                "she",
+                "her",
+                "she",
+                "She",
+                "she",
+                "her",
+                "she",
+                "She",
+                "she",
+                "she",
+                "She",
+                "her",
+                "she",
+                "she",
+                "herself",
+                "herself"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[88, 8, 153]":"manage"
+                },
+                {
+                    "[88, 12, 203]":"keep"
+                },
+                {
+                    "[88, 14, 239]":"quiver"
+                },
+                {
+                    "[88, 15, 265]":"range"
+                },
+                {
+                    "[88, 18, 288]":"reply"
+                },
+                {
+                    "[88, 21, 343]":"answer"
+                },
+                {
+                    "[88, 27, 412]":"dangle"
+                },
+                {
+                    "[88, 29, 430]":"put"
+                },
+                {
+                    "[88, 32, 476]":"dangle"
+                },
+                {
+                    "[88, 33, 502]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[88, 33, 502]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "His",
+                "His",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[106, 3, 38]":"bring"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. jordan",
+            "mentions":[
+                "Mrs. Jordan",
+                "her",
+                "she",
+                "she",
+                "Mrs. Jordan",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "Mrs. Jordan",
+                "The girl",
+                "she",
+                "she",
+                "She"
+            ],
+            "aliases":[
+                "the girl",
+                "she",
+                "mrs. jordan",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[109, 2, 18]":"embrace"
+                },
+                {
+                    "[109, 4, 75]":"mean"
+                },
+                {
+                    "[109, 6, 127]":"take"
+                },
+                {
+                    "[109, 12, 196]":"\""
+                },
+                {
+                    "[109, 15, 223]":"hesitate"
+                },
+                {
+                    "[109, 18, 251]":"think"
+                },
+                {
+                    "[109, 19, 263]":"nail"
+                },
+                {
+                    "[109, 20, 270]":"nail"
+                }
+            ],
+            "patient":[
+                {
+                    "[109, 8, 159]":"do"
+                },
+                {
+                    "[109, 10, 175]":"marry"
+                },
+                {
+                    "[109, 13, 208]":"pull"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "fileName":"Virginia Woolf___The Voyage Out.txt",
+    "numPars":502,
+    "characters":[
+        {
+            "mainName":"rachel",
+            "mentions":[
+                "Rachel",
+                "Rachel"
+            ],
+            "aliases":[
+                "rachel"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[476, 4, 123]":"see"
+                }
+            ]
+        },
+        {
+            "mainName":"helen",
+            "mentions":[
+                "Helen",
+                "Helen",
+                "her"
+            ],
+            "aliases":[
+                "helen",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[462, 3, 52]":"open"
+                },
+                {
+                    "[462, 6, 103]":"rise"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "She",
+                "herself",
+                "she",
+                "she",
+                "her",
+                "her",
+                "Mr. Flushing",
+                "he",
+                "He",
+                "Mrs. Flushing",
+                "Mrs. Flushing",
+                "Mrs. Flushing",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "mr. flushing",
+                "he",
+                "mrs. flushing",
+                "herself",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[495, 0, 9]":"say"
+                },
+                {
+                    "[495, 2, 25]":"be"
+                },
+                {
+                    "[495, 3, 50]":"prevent"
+                },
+                {
+                    "[495, 6, 120]":"explain"
+                },
+                {
+                    "[495, 7, 141]":"say"
+                },
+                {
+                    "[495, 11, 196]":"slide"
+                },
+                {
+                    "[495, 17, 279]":"demand"
+                },
+                {
+                    "[495, 19, 314]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[495, 2, 25]":"be"
+                },
+                {
+                    "[495, 3, 50]":"prevent"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[494, 1, 6]":"be"
+                },
+                {
+                    "[494, 6, 60]":"give"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "they"
+            ],
+            "agent":[
+                {
+                    "[490, 8, 197]":"finish"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

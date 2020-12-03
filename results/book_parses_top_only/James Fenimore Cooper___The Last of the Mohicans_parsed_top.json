@@ -1,0 +1,167 @@
+{
+    "fileName":"James Fenimore Cooper___The Last of the Mohicans.txt",
+    "numPars":274,
+    "characters":[
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "him",
+                "He",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[264, 2, 47]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[264, 1, 23]":"return"
+                }
+            ]
+        },
+        {
+            "mainName":"duncan",
+            "mentions":[
+                "Duncan",
+                "he",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "duncan",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[251, 5, 162]":"say"
+                },
+                {
+                    "[251, 7, 186]":"let"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"heyward",
+            "mentions":[
+                "Heyward",
+                "he",
+                "his",
+                "him",
+                "his",
+                "he",
+                "himself",
+                "he",
+                "his",
+                "Heyward"
+            ],
+            "aliases":[
+                "heyward",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[263, 47, 1575]":"obey"
+                },
+                {
+                    "[263, 48, 1610]":"find"
+                },
+                {
+                    "[263, 49, 1652]":"spur"
+                },
+                {
+                    "[263, 50, 1683]":"drop"
+                }
+            ],
+            "patient":[
+                {
+                    "[263, 47, 1575]":"obey"
+                },
+                {
+                    "[263, 49, 1652]":"spur"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "the author"
+            ],
+            "aliases":[
+                "he",
+                "the author",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[266, 11, 209]":"2"
+                },
+                {
+                    "[266, 13, 276]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[266, 12, 257]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"magua",
+            "mentions":[
+                "Magua",
+                "his",
+                "he",
+                "him",
+                "him",
+                "his",
+                "his",
+                "he",
+                "Magua"
+            ],
+            "aliases":[
+                "he",
+                "magua",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[257, 3, 119]":"leap"
+                },
+                {
+                    "[257, 5, 179]":"shouted,--"
+                },
+                {
+                    "[257, 8, 193]":"leave"
+                }
+            ],
+            "patient":[
+                {
+                    "[257, 3, 119]":"leap"
+                },
+                {
+                    "[257, 4, 145]":"carry"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "fileName":"Edgar Rice Burroughs___Tarzan of the Apes.txt",
+    "numPars":30,
+    "characters":[
+        {
+            "mainName":"tarzan",
+            "mentions":[
+                "Tarzan",
+                "Tarzan",
+                "he",
+                "he",
+                "His",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan",
+                "Tarzan"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "tarzan"
+            ],
+            "agent":[
+                {
+                    "[29, 4, 80]":"enter"
+                },
+                {
+                    "[29, 5, 100]":"see"
+                },
+                {
+                    "[29, 12, 253]":"take"
+                },
+                {
+                    "[29, 17, 290]":"enter"
+                },
+                {
+                    "[29, 18, 300]":"be"
+                },
+                {
+                    "[29, 26, 484]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[29, 18, 300]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"jane",
+            "mentions":[
+                "Jane",
+                "she",
+                "Jane",
+                "Jane",
+                "Jane",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "herself",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "jane",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[28, 62, 1167]":"whisper"
+                },
+                {
+                    "[28, 66, 1273]":"know"
+                },
+                {
+                    "[28, 68, 1290]":"realize"
+                },
+                {
+                    "[28, 69, 1320]":"bury"
+                },
+                {
+                    "[28, 70, 1330]":"do"
+                },
+                {
+                    "[28, 71, 1370]":"make"
+                },
+                {
+                    "[28, 72, 1378]":"tell"
+                }
+            ],
+            "patient":[
+                {
+                    "[28, 63, 1180]":"catch"
+                },
+                {
+                    "[28, 72, 1378]":"tell"
+                }
+            ]
+        },
+        {
+            "mainName":"kala",
+            "mentions":[
+                "Kala",
+                "her"
+            ],
+            "aliases":[
+                "kala",
+                "her"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[17, 26, 476]":"reply"
+                }
+            ]
+        },
+        {
+            "mainName":"clayton",
+            "mentions":[
+                "Clayton",
+                "him",
+                "his",
+                "his",
+                "his",
+                "Clayton"
+            ],
+            "aliases":[
+                "him",
+                "clayton",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[29, 17, 290]":"enter"
+                },
+                {
+                    "[29, 21, 381]":"cry"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"john clayton",
+            "mentions":[
+                "John Clayton",
+                "John Clayton"
+            ],
+            "aliases":[
+                "john clayton"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

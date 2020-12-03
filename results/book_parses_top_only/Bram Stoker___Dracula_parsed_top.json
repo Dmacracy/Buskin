@@ -1,0 +1,135 @@
+{
+    "fileName":"Bram Stoker___Dracula.txt",
+    "numPars":719,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "we",
+                "our",
+                "We",
+                "We",
+                "we",
+                "our",
+                "We",
+                "We",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[718, 0, 6]":"talk"
+                },
+                {
+                    "[718, 4, 116]":"wish"
+                },
+                {
+                    "[718, 6, 150]":"want"
+                },
+                {
+                    "[718, 7, 156]":"ask"
+                }
+            ],
+            "patient":[
+                {
+                    "[718, 2, 54]":"strike"
+                },
+                {
+                    "[718, 7, 156]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "Him",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[681, 3, 31]":"know"
+                }
+            ],
+            "patient":[
+                {
+                    "[681, 3, 31]":"know"
+                }
+            ]
+        },
+        {
+            "mainName":"lucy",
+            "mentions":[
+                "Lucy",
+                "She",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her",
+                "lucy"
+            ],
+            "agent":[
+                {
+                    "[606, 9, 187]":"stop"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"van helsing",
+            "mentions":[
+                "Van Helsing",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "van helsing"
+            ],
+            "agent":[
+                {
+                    "[683, 6, 78]":"hypnotize"
+                },
+                {
+                    "[683, 7, 83]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the professor",
+            "mentions":[
+                "the Professor",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "the professor",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[709, 15, 163]":"shout"
+                }
+            ],
+            "patient":[
+                {
+                    "[709, 15, 163]":"shout"
+                }
+            ]
+        }
+    ]
+}

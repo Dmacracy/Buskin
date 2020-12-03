@@ -1,0 +1,119 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Gods of Mars.txt",
+    "numPars":115,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[114, 27, 494]":"hasten"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "we",
+                "us",
+                "us",
+                "we",
+                "we",
+                "we",
+                "us",
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[111, 6, 189]":"lead"
+                },
+                {
+                    "[111, 7, 224]":"rise"
+                },
+                {
+                    "[111, 10, 309]":"hear"
+                },
+                {
+                    "[111, 14, 391]":"\""
+                }
+            ],
+            "patient":[
+                {
+                    "[111, 6, 189]":"lead"
+                },
+                {
+                    "[111, 9, 278]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "Our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[114, 4, 72]":"reach"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[111, 11, 366]":"cry"
+                },
+                {
+                    "[111, 14, 391]":"\""
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"xodar",
+            "mentions":[
+                "Xodar",
+                "Xodar"
+            ],
+            "aliases":[
+                "xodar"
+            ],
+            "agent":[
+                {
+                    "[114, 0, 10]":"cry"
+                },
+                {
+                    "[114, 8, 141]":"toss"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "fileName":"Henry James___The Lesson of the Master.txt",
+    "numPars":76,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "she"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[74, 0, 5]":"will"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"paul",
+            "mentions":[
+                "Paul",
+                "him",
+                "he",
+                "him",
+                "his",
+                "his",
+                "him",
+                "his",
+                "his",
+                "he",
+                "he",
+                "He",
+                "his",
+                "He",
+                "He",
+                "His",
+                "he",
+                "himself",
+                "his",
+                "He",
+                "himself",
+                "him",
+                "he",
+                "his",
+                "he",
+                "himself",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "Paul",
+                "him",
+                "he",
+                "His",
+                "his",
+                "he",
+                "he",
+                "he",
+                "his",
+                "Paul",
+                "him",
+                "he",
+                "him"
+            ],
+            "aliases":[
+                "paul",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[75, 1, 15]":"turn"
+                },
+                {
+                    "[75, 4, 100]":"be"
+                },
+                {
+                    "[75, 5, 131]":"quit"
+                },
+                {
+                    "[75, 6, 137]":"be"
+                },
+                {
+                    "[75, 7, 162]":"walk"
+                },
+                {
+                    "[75, 8, 177]":"think"
+                },
+                {
+                    "[75, 9, 187]":"recover"
+                },
+                {
+                    "[75, 10, 215]":"linger"
+                },
+                {
+                    "[75, 11, 262]":"say"
+                },
+                {
+                    "[75, 13, 337]":"seem"
+                },
+                {
+                    "[75, 15, 371]":"be"
+                },
+                {
+                    "[75, 16, 379]":"have"
+                },
+                {
+                    "[75, 22, 466]":"publish"
+                },
+                {
+                    "[75, 23, 480]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[75, 9, 187]":"recover"
+                },
+                {
+                    "[75, 10, 215]":"linger"
+                },
+                {
+                    "[75, 23, 480]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[74, 2, 17]":"wonder"
+                },
+                {
+                    "[74, 3, 76]":"suggest"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"paul overt",
+            "mentions":[
+                "Paul Overt",
+                "he",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "paul overt",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[72, 29, 457]":"make"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"st. george",
+            "mentions":[
+                "St. George",
+                "his"
+            ],
+            "aliases":[
+                "st. george",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[75, 12, 295]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

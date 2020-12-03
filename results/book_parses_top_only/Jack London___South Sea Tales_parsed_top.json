@@ -1,0 +1,140 @@
+{
+    "fileName":"Jack London___South Sea Tales.txt",
+    "numPars":277,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[266, 8, 106]":"be"
+                },
+                {
+                    "[266, 9, 129]":"bite"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[275, 17, 271]":"keep"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mauki",
+            "mentions":[
+                "Mauki",
+                "His",
+                "he",
+                "He",
+                "Mauki",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "mauki",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[104, 0, 3]":"weigh"
+                },
+                {
+                    "[104, 1, 12]":"be"
+                },
+                {
+                    "[104, 2, 26]":"have"
+                },
+                {
+                    "[104, 4, 101]":"get"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mccoy",
+            "mentions":[
+                "McCoy",
+                "McCoy",
+                "McCoy",
+                "McCoy"
+            ],
+            "aliases":[
+                "mccoy"
+            ],
+            "agent":[
+                {
+                    "[276, 2, 11]":"peer"
+                },
+                {
+                    "[276, 15, 184]":"bed"
+                },
+                {
+                    "[276, 20, 284]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"captain davenport",
+            "mentions":[
+                "Captain Davenport",
+                "He",
+                "him",
+                "the captain",
+                "him",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "the captain",
+                "captain davenport"
+            ],
+            "agent":[
+                {
+                    "[276, 8, 56]":"desert"
+                },
+                {
+                    "[276, 9, 64]":"reach"
+                },
+                {
+                    "[276, 10, 98]":"cry"
+                },
+                {
+                    "[276, 11, 118]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[276, 10, 98]":"cry"
+                }
+            ]
+        }
+    ]
+}

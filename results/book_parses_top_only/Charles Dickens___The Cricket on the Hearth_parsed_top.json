@@ -1,0 +1,94 @@
+{
+    "fileName":"Charles Dickens___The Cricket on the Hearth.txt",
+    "numPars":62,
+    "characters":[
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"caleb",
+            "mentions":[
+                "Caleb",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "caleb"
+            ],
+            "agent":[
+                {
+                    "[59, 7, 115]":"sing"
+                },
+                {
+                    "[59, 8, 141]":"sing"
+                },
+                {
+                    "[59, 9, 159]":"occur"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"tackleton",
+            "mentions":[
+                "Tackleton",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "tackleton"
+            ],
+            "agent":[
+                {
+                    "[61, 1, 53]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"john",
+            "mentions":[
+                "John",
+                "John",
+                "John",
+                "dear John",
+                "John"
+            ],
+            "aliases":[
+                "john",
+                "dear john"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "It"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[60, 26, 424]":"leave"
+                },
+                {
+                    "[60, 27, 454]":"form"
+                }
+            ]
+        }
+    ]
+}

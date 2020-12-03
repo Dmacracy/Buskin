@@ -1,0 +1,131 @@
+{
+    "fileName":"Wilkie Collins___The Moonstone.txt",
+    "numPars":839,
+    "characters":[
+        {
+            "mainName":"mr. franklin",
+            "mentions":[
+                "Mr. Franklin",
+                "Mr. Franklin",
+                "Mr. Franklin",
+                "Mr. Franklin",
+                "Mr. Franklin",
+                "he",
+                "Mr. Franklin",
+                "Mr. Franklin",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "mr. franklin",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[831, 25, 514]":"be"
+                },
+                {
+                    "[831, 30, 593]":"say"
+                },
+                {
+                    "[831, 31, 627]":"say"
+                },
+                {
+                    "[831, 35, 670]":"stare"
+                },
+                {
+                    "[831, 37, 690]":"ask"
+                },
+                {
+                    "[831, 44, 795]":"say"
+                },
+                {
+                    "[831, 46, 812]":"shake"
+                }
+            ],
+            "patient":[
+                {
+                    "[831, 46, 812]":"shake"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[832, 4, 95]":"express"
+                },
+                {
+                    "[832, 5, 114]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"rachel",
+            "mentions":[
+                "Rachel",
+                "Rachel"
+            ],
+            "aliases":[
+                "rachel"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[831, 50, 883]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[831, 50, 883]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"miss rachel",
+            "mentions":[
+                "Miss Rachel",
+                "Miss Rachel",
+                "Rachel",
+                "Rachel",
+                "Miss Rachel",
+                "Miss Rachel"
+            ],
+            "aliases":[
+                "rachel",
+                "miss rachel"
+            ],
+            "agent":[
+                {
+                    "[579, 4, 67]":"see"
+                },
+                {
+                    "[579, 6, 103]":"leave"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

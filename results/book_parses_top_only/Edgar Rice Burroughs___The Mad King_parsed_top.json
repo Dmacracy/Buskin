@@ -1,0 +1,106 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Mad King.txt",
+    "numPars":242,
+    "characters":[
+        {
+            "mainName":"barney",
+            "mentions":[
+                "Barney",
+                "his"
+            ],
+            "aliases":[
+                "barney",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[240, 6, 85]":"try"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the king",
+            "mentions":[
+                "the king",
+                "the king",
+                "the king",
+                "the king"
+            ],
+            "aliases":[
+                "the king"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "his",
+                "his",
+                "The old chancellor",
+                "him",
+                "his",
+                "the chancellor"
+            ],
+            "aliases":[
+                "the old chancellor",
+                "his",
+                "he",
+                "him",
+                "the chancellor"
+            ],
+            "agent":[
+                {
+                    "[240, 0, 7]":"cross"
+                },
+                {
+                    "[240, 3, 36]":"stand"
+                },
+                {
+                    "[240, 8, 168]":"break"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"leopold",
+            "mentions":[
+                "Leopold",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "leopold"
+            ],
+            "agent":[
+                {
+                    "[229, 6, 111]":"wish"
+                },
+                {
+                    "[229, 7, 123]":"take"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"peter",
+            "mentions":[
+                "Peter",
+                "Peter"
+            ],
+            "aliases":[
+                "peter"
+            ],
+            "agent":[
+                {
+                    "[240, 17, 294]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

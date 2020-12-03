@@ -1,0 +1,125 @@
+{
+    "fileName":"Edgar Rice Burroughs___Pellucidar.txt",
+    "numPars":87,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[86, 27, 646]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[86, 27, 646]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "We",
+                "we",
+                "We",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[76, 46, 1285]":"show"
+                },
+                {
+                    "[76, 47, 1297]":"give"
+                },
+                {
+                    "[76, 48, 1313]":"agree"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"perry",
+            "mentions":[
+                "Perry",
+                "Perry"
+            ],
+            "aliases":[
+                "perry"
+            ],
+            "agent":[
+                {
+                    "[86, 4, 74]":"build"
+                },
+                {
+                    "[86, 8, 148]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "we",
+                "we",
+                "us",
+                "we",
+                "ours",
+                "we"
+            ],
+            "aliases":[
+                "ours",
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[86, 21, 465]":"be"
+                },
+                {
+                    "[86, 22, 542]":"have"
+                },
+                {
+                    "[86, 24, 573]":"locate"
+                }
+            ],
+            "patient":[
+                {
+                    "[86, 21, 465]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"dian",
+            "mentions":[
+                "Dian",
+                "myself",
+                "Dian"
+            ],
+            "aliases":[
+                "dian",
+                "myself"
+            ],
+            "agent":[
+                {
+                    "[72, 67, 1493]":"go"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

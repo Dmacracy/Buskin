@@ -1,0 +1,102 @@
+{
+    "fileName":"Charles Dickens___David Copperfield.txt",
+    "numPars":1047,
+    "characters":[
+        {
+            "mainName":"my aunt",
+            "mentions":[
+                "my aunt",
+                "my aunt",
+                "My aunt",
+                "She",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "my aunt"
+            ],
+            "agent":[
+                {
+                    "[1044, 16, 270]":"be"
+                },
+                {
+                    "[1044, 20, 502]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[1044, 20, 502]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[1045, 4, 58]":"cheer"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. micawber",
+            "mentions":[
+                "Mr. Micawber",
+                "him",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "mr. micawber",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[1043, 28, 950]":"find"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "himself",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[1043, 14, 396]":"bow"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

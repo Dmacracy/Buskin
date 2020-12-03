@@ -1,0 +1,198 @@
+{
+    "fileName":"Washington Irving___Little Britain.txt",
+    "numPars":19,
+    "characters":[
+        {
+            "mainName":"little britain",
+            "mentions":[
+                "Little Britain",
+                "Little Britain"
+            ],
+            "aliases":[
+                "little britain"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "his",
+                "His",
+                "His",
+                "his",
+                "he",
+                "he",
+                "He",
+                "his",
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "he",
+                "His",
+                "him",
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[8, 1, 48]":"be"
+                },
+                {
+                    "[8, 4, 141]":"be"
+                },
+                {
+                    "[8, 5, 201]":"pass"
+                },
+                {
+                    "[8, 6, 250]":"make"
+                },
+                {
+                    "[8, 7, 294]":"coachman"
+                },
+                {
+                    "[8, 8, 336]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[8, 7, 294]":"coachman"
+                }
+            ]
+        },
+        {
+            "mainName":"the daughters",
+            "mentions":[
+                "the daughters",
+                "him",
+                "him",
+                "him",
+                "His",
+                "He",
+                "His",
+                "his",
+                "he",
+                "his",
+                "his",
+                "He",
+                "his",
+                "He",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "the daughters",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[17, 2, 84]":"address"
+                },
+                {
+                    "[17, 5, 139]":"have"
+                },
+                {
+                    "[17, 6, 153]":"make"
+                },
+                {
+                    "[17, 8, 204]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[17, 2, 84]":"address"
+                },
+                {
+                    "[17, 7, 191]":"doom"
+                }
+            ]
+        },
+        {
+            "mainName":"bully wagstaff himself",
+            "mentions":[
+                "bully Wagstaff himself",
+                "His",
+                "him",
+                "he",
+                "He",
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "bully wagstaff himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[11, 3, 92]":"be"
+                },
+                {
+                    "[11, 4, 125]":"be"
+                },
+                {
+                    "[11, 6, 240]":"affirm"
+                }
+            ],
+            "patient":[
+                {
+                    "[11, 5, 167]":"call"
+                }
+            ]
+        },
+        {
+            "mainName":"the lambs",
+            "mentions":[
+                "the Lambs",
+                "the Lambs",
+                "their",
+                "the Lambs",
+                "the Miss Lambs",
+                "the Lambs"
+            ],
+            "aliases":[
+                "the lambs",
+                "the miss lambs",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[18, 0, 25]":"die"
+                },
+                {
+                    "[18, 7, 197]":"mount"
+                },
+                {
+                    "[18, 8, 216]":"be"
+                },
+                {
+                    "[18, 10, 287]":"be"
+                },
+                {
+                    "[18, 11, 329]":"\""
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

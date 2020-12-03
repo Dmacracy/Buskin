@@ -1,0 +1,212 @@
+{
+    "fileName":"Mark Twain___Adventures of Huckleberry Finn, Complete.txt",
+    "numPars":277,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us",
+                "we",
+                "We",
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[276, 47, 762]":"say"
+                },
+                {
+                    "[276, 48, 870]":"be"
+                },
+                {
+                    "[276, 50, 894]":"have"
+                },
+                {
+                    "[276, 51, 962]":"have"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"jim",
+            "mentions":[
+                "Jim",
+                "He",
+                "Jim"
+            ],
+            "aliases":[
+                "he",
+                "jim"
+            ],
+            "agent":[
+                {
+                    "[276, 68, 1283]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[276, 77, 1407]":"'s"
+                }
+            ],
+            "patient":[
+                {
+                    "[276, 77, 1407]":"'s"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[272, 5, 90]":"fling"
+                },
+                {
+                    "[272, 6, 144]":"fling"
+                }
+            ],
+            "patient":[
+                {
+                    "[272, 6, 144]":"fling"
+                }
+            ]
+        },
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "he",
+                "he",
+                "his",
+                "him",
+                "Tom",
+                "his",
+                "Tom",
+                "me",
+                "Tom",
+                "he",
+                "he",
+                "HIM",
+                "he",
+                "him",
+                "he",
+                "he",
+                "Tom",
+                "his",
+                "his",
+                "me",
+                "him",
+                "him",
+                "he",
+                "he",
+                "Tom",
+                "Tom",
+                "Tom",
+                "him",
+                "Tom",
+                "he",
+                "TOM",
+                "Tom",
+                "He",
+                "my Tom",
+                "Tom",
+                "him",
+                "him"
+            ],
+            "aliases":[
+                "my tom",
+                "tom",
+                "me",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[275, 19, 563]":"hold"
+                },
+                {
+                    "[275, 22, 640]":"say"
+                },
+                {
+                    "[275, 26, 671]":"look"
+                },
+                {
+                    "[275, 27, 698]":"get"
+                },
+                {
+                    "[275, 29, 719]":"have"
+                },
+                {
+                    "[275, 30, 725]":"get"
+                },
+                {
+                    "[275, 31, 761]":"rise"
+                },
+                {
+                    "[275, 35, 818]":"be"
+                },
+                {
+                    "[275, 38, 861]":"know"
+                },
+                {
+                    "[275, 48, 1135]":"change"
+                },
+                {
+                    "[275, 50, 1157]":"be"
+                },
+                {
+                    "[275, 51, 1162]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[275, 30, 725]":"get"
+                },
+                {
+                    "[275, 32, 789]":"hain't"
+                },
+                {
+                    "[275, 34, 807]":"turn"
+                },
+                {
+                    "[275, 45, 1058]":"peep"
+                },
+                {
+                    "[275, 55, 1188]":"raise"
+                }
+            ]
+        }
+    ]
+}

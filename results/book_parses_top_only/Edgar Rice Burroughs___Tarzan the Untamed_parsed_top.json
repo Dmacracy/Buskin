@@ -1,0 +1,147 @@
+{
+    "fileName":"Edgar Rice Burroughs___Tarzan the Untamed.txt",
+    "numPars":242,
+    "characters":[
+        {
+            "mainName":"tarzan",
+            "mentions":[
+                "Tarzan",
+                "Tarzan",
+                "he",
+                "he",
+                "his",
+                "him",
+                "the ape-man",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "Tarzan"
+            ],
+            "aliases":[
+                "the ape-man",
+                "his",
+                "he",
+                "him",
+                "tarzan"
+            ],
+            "agent":[
+                {
+                    "[241, 28, 434]":"run"
+                },
+                {
+                    "[241, 35, 500]":"read"
+                },
+                {
+                    "[241, 36, 526]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[241, 23, 394]":"repeat"
+                },
+                {
+                    "[241, 32, 483]":"exclaim"
+                },
+                {
+                    "[241, 40, 591]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"the ape-man",
+            "mentions":[
+                "the ape-man",
+                "him",
+                "the ape-man",
+                "the ape-man",
+                "him",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "the ape-man"
+            ],
+            "agent":[
+                {
+                    "[239, 23, 457]":"look"
+                },
+                {
+                    "[239, 25, 470]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[239, 15, 401]":"reply"
+                }
+            ]
+        },
+        {
+            "mainName":"the girl",
+            "mentions":[
+                "the girl",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "the girl",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[240, 7, 243]":"see"
+                }
+            ],
+            "patient":[
+                {
+                    "[240, 7, 243]":"see"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[236, 0, 10]":"think"
+                },
+                {
+                    "[236, 1, 19]":"point"
+                },
+                {
+                    "[236, 6, 159]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"smith-oldwick",
+            "mentions":[
+                "Smith-Oldwick",
+                "him"
+            ],
+            "aliases":[
+                "smith-oldwick",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[240, 9, 282]":"see"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

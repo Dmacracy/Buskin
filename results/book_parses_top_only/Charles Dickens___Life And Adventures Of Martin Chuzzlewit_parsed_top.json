@@ -1,0 +1,146 @@
+{
+    "fileName":"Charles Dickens___Life And Adventures Of Martin Chuzzlewit.txt",
+    "numPars":536,
+    "characters":[
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom"
+            ],
+            "aliases":[
+                "tom"
+            ],
+            "agent":[
+                {
+                    "[535, 32, 577]":"fall"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr pecksniff",
+            "mentions":[
+                "Mr Pecksniff",
+                "his",
+                "his",
+                "he",
+                "him",
+                "the little man",
+                "him",
+                "him"
+            ],
+            "aliases":[
+                "the little man",
+                "his",
+                "he",
+                "mr pecksniff",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[519, 18, 326]":"depart"
+                }
+            ],
+            "patient":[
+                {
+                    "[519, 19, 334]":"be"
+                },
+                {
+                    "[519, 20, 397]":"cry"
+                },
+                {
+                    "[519, 21, 403]":"be"
+                },
+                {
+                    "[519, 22, 416]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"martin",
+            "mentions":[
+                "Martin",
+                "Martin",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "Martin"
+            ],
+            "aliases":[
+                "martin",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[520, 46, 939]":"say"
+                },
+                {
+                    "[520, 48, 967]":"have"
+                },
+                {
+                    "[520, 51, 992]":"persist"
+                },
+                {
+                    "[520, 53, 1000]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[520, 95, 2016]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[535, 39, 960]":"word"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[534, 9, 105]":"speak"
+                },
+                {
+                    "[534, 10, 151]":"open"
+                },
+                {
+                    "[534, 11, 171]":"pick"
+                }
+            ]
+        }
+    ]
+}

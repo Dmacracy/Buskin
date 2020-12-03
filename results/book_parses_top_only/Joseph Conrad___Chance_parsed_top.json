@@ -1,0 +1,144 @@
+{
+    "fileName":"Joseph Conrad___Chance.txt",
+    "numPars":703,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "him",
+                "He",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "He",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[701, 15, 237]":"murmur"
+                },
+                {
+                    "[701, 23, 331]":"promise"
+                },
+                {
+                    "[701, 28, 363]":"admit"
+                },
+                {
+                    "[701, 31, 402]":"declare"
+                },
+                {
+                    "[701, 34, 432]":"say"
+                },
+                {
+                    "[701, 35, 440]":"turn"
+                }
+            ],
+            "patient":[
+                {
+                    "[701, 16, 255]":"ask"
+                },
+                {
+                    "[701, 22, 319]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[698, 0, 2]":"pause"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs fyne",
+            "mentions":[
+                "Mrs Fyne",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "mrs fyne",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[698, 6, 46]":"ought"
+                },
+                {
+                    "[698, 7, 54]":"write"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"fyne",
+            "mentions":[
+                "Fyne",
+                "Fyne",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "fyne"
+            ],
+            "agent":[
+                {
+                    "[391, 8, 137]":"wonder"
+                },
+                {
+                    "[391, 10, 187]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[391, 0, 5]":"wind"
+                },
+                {
+                    "[391, 8, 137]":"wonder"
+                }
+            ]
+        },
+        {
+            "mainName":"mr powell",
+            "mentions":[
+                "Mr Powell",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mr powell"
+            ],
+            "agent":[
+                {
+                    "[692, 55, 650]":"volunteer"
+                },
+                {
+                    "[692, 56, 659]":"lie"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

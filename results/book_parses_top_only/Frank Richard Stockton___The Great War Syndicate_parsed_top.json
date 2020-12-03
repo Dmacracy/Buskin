@@ -1,0 +1,90 @@
+{
+    "fileName":"Frank Richard Stockton___The Great War Syndicate.txt",
+    "numPars":54,
+    "characters":[
+        {
+            "mainName":"the syndicate",
+            "mentions":[
+                "the Syndicate",
+                "the Syndicate",
+                "the Syndicate",
+                "Syndicate"
+            ],
+            "aliases":[
+                "syndicate",
+                "the syndicate"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"the adamant",
+            "mentions":[
+                "the Adamant",
+                "the Adamant",
+                "the Adamant",
+                "the Adamant",
+                "the Adamant",
+                "Adamant",
+                "the Adamant"
+            ],
+            "aliases":[
+                "the adamant",
+                "adamant"
+            ],
+            "agent":[
+                {
+                    "[50, 35, 1157]":"ready"
+                }
+            ],
+            "patient":[
+                {
+                    "[50, 27, 735]":"send"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[49, 33, 927]":"shoreward"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the crab",
+            "mentions":[
+                "the crab",
+                "the crab",
+                "the crab"
+            ],
+            "aliases":[
+                "the crab"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "fileName":"Thomas Hardy___Tess of the d'Urbervilles.txt",
+    "numPars":276,
+    "characters":[
+        {
+            "mainName":"tess",
+            "mentions":[
+                "Tess",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "tess"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[263, 59, 1355]":"ask"
+                },
+                {
+                    "[263, 64, 1415]":"request"
+                }
+            ],
+            "patient":[
+                {
+                    "[263, 64, 1415]":"request"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "him",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[273, 0, 1]":"hear"
+                },
+                {
+                    "[273, 1, 30]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"clare",
+            "mentions":[
+                "Clare",
+                "Her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "clare",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[273, 2, 50]":"shine"
+                },
+                {
+                    "[273, 9, 158]":"let"
+                },
+                {
+                    "[273, 11, 194]":"show"
+                }
+            ],
+            "patient":[
+                {
+                    "[273, 11, 194]":"show"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "she",
+                "me",
+                "he",
+                "she",
+                "She",
+                "herself",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "me",
+                "herself",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[273, 15, 318]":"say"
+                },
+                {
+                    "[273, 17, 339]":"say"
+                },
+                {
+                    "[273, 19, 358]":"murmur"
+                },
+                {
+                    "[273, 25, 407]":"stand"
+                },
+                {
+                    "[273, 26, 431]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[273, 14, 289]":"be"
+                },
+                {
+                    "[273, 25, 407]":"stand"
+                }
+            ]
+        }
+    ]
+}

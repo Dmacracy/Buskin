@@ -1,0 +1,342 @@
+{
+    "fileName":"Wilkie Collins___No Name.txt",
+    "numPars":1161,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "herself",
+                "her",
+                "she",
+                "yourself",
+                "She",
+                "she",
+                "she",
+                "Her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "yourself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[1159, 0, 1]":"take"
+                },
+                {
+                    "[1159, 1, 22]":"suppose"
+                },
+                {
+                    "[1159, 6, 98]":"try"
+                },
+                {
+                    "[1159, 7, 123]":"put"
+                },
+                {
+                    "[1159, 9, 177]":"venture"
+                },
+                {
+                    "[1159, 11, 201]":"ask"
+                }
+            ],
+            "patient":[
+                {
+                    "[1159, 0, 1]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"magdalen",
+            "mentions":[
+                "Magdalen",
+                "Magdalen",
+                "Magdalen",
+                "Magdalen",
+                "Magdalen",
+                "Magdalen"
+            ],
+            "aliases":[
+                "magdalen"
+            ],
+            "agent":[
+                {
+                    "[1158, 23, 422]":"encourage"
+                },
+                {
+                    "[1158, 44, 690]":"be"
+                },
+                {
+                    "[1158, 48, 750]":"steal"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "Her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "She",
+                "she",
+                "she",
+                "her",
+                "she",
+                "She",
+                "she",
+                "she",
+                "she",
+                "her",
+                "She",
+                "she",
+                "her",
+                "her",
+                "she",
+                "She",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "She",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "Her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "She",
+                "she",
+                "she",
+                "her",
+                "she",
+                "She",
+                "she",
+                "her",
+                "she",
+                "she",
+                "me",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "me",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[1160, 1, 12]":"keep"
+                },
+                {
+                    "[1160, 2, 55]":"lay"
+                },
+                {
+                    "[1160, 3, 74]":"conceal"
+                },
+                {
+                    "[1160, 4, 93]":"keep"
+                },
+                {
+                    "[1160, 5, 103]":"falter"
+                },
+                {
+                    "[1160, 6, 134]":"be"
+                },
+                {
+                    "[1160, 7, 162]":"wait"
+                },
+                {
+                    "[1160, 11, 206]":"see"
+                },
+                {
+                    "[1160, 12, 219]":"see"
+                },
+                {
+                    "[1160, 13, 254]":"have"
+                },
+                {
+                    "[1160, 15, 275]":"yet"
+                },
+                {
+                    "[1160, 17, 296]":"rise"
+                },
+                {
+                    "[1160, 18, 333]":"offer"
+                },
+                {
+                    "[1160, 19, 358]":"ask"
+                },
+                {
+                    "[1160, 24, 418]":"say"
+                },
+                {
+                    "[1160, 29, 457]":"guess"
+                },
+                {
+                    "[1160, 31, 471]":"know"
+                },
+                {
+                    "[1160, 32, 497]":"know"
+                },
+                {
+                    "[1160, 34, 524]":"go"
+                },
+                {
+                    "[1160, 40, 573]":"lay"
+                },
+                {
+                    "[1160, 44, 655]":"repeat"
+                },
+                {
+                    "[1160, 47, 691]":"bear"
+                },
+                {
+                    "[1160, 52, 750]":"look"
+                },
+                {
+                    "[1160, 56, 799]":"murmur"
+                },
+                {
+                    "[1160, 64, 961]":"look"
+                },
+                {
+                    "[1160, 66, 989]":"repeat"
+                },
+                {
+                    "[1160, 69, 1003]":"answer"
+                }
+            ],
+            "patient":[
+                {
+                    "[1160, 0, 2]":"beat"
+                },
+                {
+                    "[1160, 4, 93]":"keep"
+                },
+                {
+                    "[1160, 22, 393]":"rise"
+                },
+                {
+                    "[1160, 28, 449]":"hesitate"
+                },
+                {
+                    "[1160, 42, 629]":"think"
+                },
+                {
+                    "[1160, 47, 691]":"bear"
+                },
+                {
+                    "[1160, 54, 769]":"fold"
+                },
+                {
+                    "[1160, 71, 1021]":"stoop"
+                }
+            ]
+        },
+        {
+            "mainName":"mrs. lecount",
+            "mentions":[
+                "Mrs. Lecount",
+                "it",
+                "her",
+                "Mrs. Lecount",
+                "herself",
+                "her",
+                "her",
+                "Mrs. Lecount"
+            ],
+            "aliases":[
+                "mrs. lecount",
+                "herself",
+                "it",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[1015, 1, 70]":"have"
+                },
+                {
+                    "[1015, 3, 138]":"establish"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "He",
+                "him",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "He",
+                "He",
+                "he",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[1158, 55, 874]":"look"
+                },
+                {
+                    "[1158, 56, 921]":"look"
+                },
+                {
+                    "[1158, 57, 932]":"interrupt"
+                },
+                {
+                    "[1158, 58, 976]":"be"
+                },
+                {
+                    "[1158, 59, 984]":"tell"
+                },
+                {
+                    "[1158, 60, 1015]":"say"
+                },
+                {
+                    "[1158, 62, 1071]":"answer"
+                }
+            ],
+            "patient":[
+                {
+                    "[1158, 61, 1030]":"ask"
+                }
+            ]
+        }
+    ]
+}

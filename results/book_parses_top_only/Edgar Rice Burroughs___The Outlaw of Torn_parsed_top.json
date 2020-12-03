@@ -1,0 +1,329 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Outlaw of Torn.txt",
+    "numPars":31,
+    "characters":[
+        {
+            "mainName":"norman of torn",
+            "mentions":[
+                "Norman of Torn",
+                "his",
+                "he",
+                "Norman of Torn",
+                "Norman",
+                "Norman of Torn",
+                "him",
+                "him",
+                "he",
+                "he",
+                "he",
+                "him",
+                "him",
+                "his",
+                "him",
+                "the surprised man",
+                "him",
+                "he",
+                "his",
+                "his",
+                "he",
+                "myself",
+                "Norman of Torn",
+                "Norman of Torn"
+            ],
+            "aliases":[
+                "norman of torn",
+                "myself",
+                "the surprised man",
+                "his",
+                "norman",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[30, 65, 1095]":"succumb"
+                },
+                {
+                    "[30, 67, 1125]":"say"
+                },
+                {
+                    "[30, 78, 1298]":"look"
+                },
+                {
+                    "[30, 79, 1334]":"fathom"
+                },
+                {
+                    "[30, 80, 1367]":"outstretche"
+                },
+                {
+                    "[30, 85, 1442]":"kneel"
+                },
+                {
+                    "[30, 86, 1469]":"say"
+                },
+                {
+                    "[30, 95, 1667]":"turn"
+                }
+            ],
+            "patient":[
+                {
+                    "[30, 73, 1189]":"ask"
+                },
+                {
+                    "[30, 81, 1385]":"exclaimed"
+                },
+                {
+                    "[30, 82, 1406]":"exclaim"
+                },
+                {
+                    "[30, 87, 1497]":"forgive"
+                }
+            ]
+        },
+        {
+            "mainName":"the king",
+            "mentions":[
+                "the King",
+                "the King",
+                "the King",
+                "his"
+            ],
+            "aliases":[
+                "the king",
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"joan de tany",
+            "mentions":[
+                "Joan de Tany",
+                "My Lady Joan",
+                "Joan",
+                "My Lord",
+                "My Lord",
+                "My Lord Earl",
+                "him",
+                "My Lord",
+                "My Lord",
+                "My Lady",
+                "you",
+                "Joan de Tany",
+                "her",
+                "Joan de Tany",
+                "Richard de Tany",
+                "Tany",
+                "Tany",
+                "Richard de Tany",
+                "Tany",
+                "Joan de Tany",
+                "she",
+                "her",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "Joan de Tany",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "Joan de Tany",
+                "Tany",
+                "Joan de Tany",
+                "her",
+                "she",
+                "she",
+                "She",
+                "Joan de Tany",
+                "the girl",
+                "Joan de Tany",
+                "she",
+                "Joan de Tany",
+                "the girl",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "She",
+                "her",
+                "she",
+                "herself",
+                "her",
+                "She",
+                "her",
+                "she",
+                "the girl",
+                "her",
+                "her",
+                "the girl",
+                "the girl",
+                "the Lady de Tany",
+                "the girl",
+                "the poor girl",
+                "herself",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "Joan de Tany",
+                "her",
+                "her",
+                "her",
+                "her",
+                "Joan de Tany",
+                "Joan de Tany",
+                "De Tany"
+            ],
+            "aliases":[
+                "the poor girl",
+                "my lord earl",
+                "her",
+                "joan",
+                "you",
+                "richard de tany",
+                "the lady de tany",
+                "my lady",
+                "my lady joan",
+                "the girl",
+                "him",
+                "de tany",
+                "joan de tany",
+                "tany",
+                "herself",
+                "she",
+                "my lord"
+            ],
+            "agent":[
+                {
+                    "[26, 86, 1936]":"say"
+                },
+                {
+                    "[26, 120, 2701]":"save"
+                },
+                {
+                    "[26, 179, 4154]":"enter"
+                },
+                {
+                    "[26, 180, 4204]":"let"
+                },
+                {
+                    "[26, 184, 4291]":"be"
+                },
+                {
+                    "[26, 185, 4336]":"interrupt"
+                },
+                {
+                    "[26, 189, 4392]":"bespoke"
+                },
+                {
+                    "[26, 190, 4421]":"relieve"
+                },
+                {
+                    "[26, 208, 4989]":"wave"
+                },
+                {
+                    "[26, 209, 5013]":"hasten"
+                },
+                {
+                    "[26, 210, 5044]":"reach"
+                },
+                {
+                    "[26, 211, 5071]":"ask"
+                },
+                {
+                    "[26, 215, 5133]":"do"
+                },
+                {
+                    "[26, 219, 5233]":"lie"
+                },
+                {
+                    "[26, 220, 5265]":"sink"
+                },
+                {
+                    "[26, 221, 5282]":"open"
+                },
+                {
+                    "[26, 223, 5353]":"look"
+                },
+                {
+                    "[26, 224, 5387]":"be"
+                },
+                {
+                    "[26, 226, 5436]":"be"
+                },
+                {
+                    "[26, 227, 5470]":"lie"
+                },
+                {
+                    "[26, 241, 5866]":"argue"
+                },
+                {
+                    "[26, 245, 5924]":"say"
+                },
+                {
+                    "[26, 247, 5987]":"drag"
+                }
+            ],
+            "patient":[
+                {
+                    "[26, 184, 4291]":"be"
+                },
+                {
+                    "[26, 213, 5105]":"reply"
+                },
+                {
+                    "[26, 221, 5282]":"open"
+                },
+                {
+                    "[26, 223, 5353]":"look"
+                },
+                {
+                    "[26, 234, 5657]":"oh"
+                },
+                {
+                    "[26, 247, 5987]":"drag"
+                },
+                {
+                    "[26, 248, 6063]":"find"
+                }
+            ]
+        },
+        {
+            "mainName":"torn",
+            "mentions":[
+                "Torn",
+                "Torn",
+                "Torn"
+            ],
+            "aliases":[
+                "torn"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"simon de montfort",
+            "mentions":[
+                "Simon de Montfort",
+                "Simon de Montfort"
+            ],
+            "aliases":[
+                "simon de montfort"
+            ],
+            "agent":[
+                {
+                    "[27, 259, 6808]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

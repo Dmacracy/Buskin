@@ -1,0 +1,154 @@
+{
+    "fileName":"Thomas Hardy___The Mayor of Casterbridge.txt",
+    "numPars":267,
+    "characters":[
+        {
+            "mainName":"henchard",
+            "mentions":[
+                "Henchard",
+                "his"
+            ],
+            "aliases":[
+                "henchard",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[265, 4, 70]":"respect"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"elizabeth-jane",
+            "mentions":[
+                "Elizabeth-Jane",
+                "her",
+                "She",
+                "herself",
+                "her",
+                "her",
+                "Elizabeth-Jane",
+                "herself",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "herself",
+                "elizabeth-jane"
+            ],
+            "agent":[
+                {
+                    "[265, 5, 112]":"know"
+                },
+                {
+                    "[265, 7, 199]":"find"
+                },
+                {
+                    "[265, 8, 320]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[265, 7, 199]":"find"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "him",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[263, 12, 267]":"zeed"
+                },
+                {
+                    "[263, 13, 290]":"see"
+                },
+                {
+                    "[263, 15, 357]":"go"
+                },
+                {
+                    "[263, 16, 411]":"eat"
+                },
+                {
+                    "[263, 21, 473]":"pin"
+                },
+                {
+                    "[263, 24, 525]":"stand"
+                }
+            ],
+            "patient":[
+                {
+                    "[263, 13, 290]":"see"
+                },
+                {
+                    "[263, 17, 435]":"go"
+                }
+            ]
+        },
+        {
+            "mainName":"farfrae",
+            "mentions":[
+                "Farfrae",
+                "Farfrae",
+                "Farfrae"
+            ],
+            "aliases":[
+                "farfrae"
+            ],
+            "agent":[
+                {
+                    "[262, 1, 18]":"hitch"
+                },
+                {
+                    "[262, 6, 138]":"knock"
+                },
+                {
+                    "[262, 10, 212]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"elizabeth",
+            "mentions":[
+                "Elizabeth",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "elizabeth"
+            ],
+            "agent":[
+                {
+                    "[263, 19, 462]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

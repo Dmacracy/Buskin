@@ -1,0 +1,214 @@
+{
+    "fileName":"John Ruskin___The King of the Golden River.txt",
+    "numPars":32,
+    "characters":[
+        {
+            "mainName":"gluck",
+            "mentions":[
+                "Gluck",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "Gluck",
+                "he",
+                "Gluck",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "Gluck",
+                "Gluck",
+                "his",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "gluck",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[31, 2, 31]":"shake"
+                },
+                {
+                    "[31, 4, 44]":"cast"
+                },
+                {
+                    "[31, 6, 84]":"become"
+                },
+                {
+                    "[31, 7, 105]":"stand"
+                },
+                {
+                    "[31, 9, 141]":"climb"
+                },
+                {
+                    "[31, 10, 180]":"open"
+                },
+                {
+                    "[31, 11, 201]":"stand"
+                },
+                {
+                    "[31, 12, 235]":"obey"
+                },
+                {
+                    "[31, 13, 295]":"spring"
+                },
+                {
+                    "[31, 14, 335]":"grow"
+                },
+                {
+                    "[31, 17, 406]":"go"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"hans",
+            "mentions":[
+                "Hans",
+                "his",
+                "him",
+                "he",
+                "his",
+                "he",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his",
+                "hans"
+            ],
+            "agent":[
+                {
+                    "[30, 1, 60]":"see"
+                },
+                {
+                    "[30, 2, 89]":"stop"
+                },
+                {
+                    "[30, 5, 176]":"look"
+                },
+                {
+                    "[30, 6, 209]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"schwartz",
+            "mentions":[
+                "Schwartz",
+                "he",
+                "his",
+                "he",
+                "Schwartz",
+                "he",
+                "he",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "schwartz",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[26, 0, 4]":"come"
+                },
+                {
+                    "[26, 3, 127]":"be"
+                },
+                {
+                    "[26, 4, 169]":"glare"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "him",
+                "He",
+                "his",
+                "He",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he",
+                "him",
+                "Why son",
+                "the old man",
+                "him",
+                "him",
+                "the old man",
+                "him",
+                "he",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "the old man",
+                "his",
+                "why son",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[28, 1, 36]":"have"
+                },
+                {
+                    "[28, 2, 63]":"lie"
+                },
+                {
+                    "[28, 3, 104]":"get"
+                },
+                {
+                    "[28, 5, 143]":"say"
+                },
+                {
+                    "[28, 8, 206]":"drink"
+                },
+                {
+                    "[28, 9, 223]":"bid"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "its"
+            ],
+            "aliases":[
+                "its",
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[31, 11, 201]":"stand"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "fileName":"Jane Austen___Emma.txt",
+    "numPars":671,
+    "characters":[
+        {
+            "mainName":"emma",
+            "mentions":[
+                "Emma",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "emma"
+            ],
+            "agent":[
+                {
+                    "[666, 0, 7]":"attend"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"harriet",
+            "mentions":[
+                "Harriet",
+                "Harriet",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "Harriet",
+                "her"
+            ],
+            "aliases":[
+                "harriet",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[663, 14, 398]":"look"
+                },
+                {
+                    "[663, 15, 554]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[663, 14, 398]":"look"
+                },
+                {
+                    "[663, 15, 554]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "him",
+                "him",
+                "himself",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[668, 0, 8]":"be"
+                },
+                {
+                    "[668, 1, 25]":"begin"
+                },
+                {
+                    "[668, 2, 59]":"be"
+                },
+                {
+                    "[668, 3, 66]":"appear"
+                },
+                {
+                    "[668, 4, 81]":"bear"
+                }
+            ],
+            "patient":[
+                {
+                    "[668, 4, 81]":"bear"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "its"
+            ],
+            "aliases":[
+                "its",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[668, 1, 25]":"begin"
+                }
+            ],
+            "patient":[
+                {
+                    "[668, 1, 25]":"begin"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[662, 18, 271]":"recollect"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

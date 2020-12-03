@@ -1,0 +1,135 @@
+{
+    "fileName":"Sinclair Lewis___Main Street.txt",
+    "numPars":713,
+    "characters":[
+        {
+            "mainName":"carol",
+            "mentions":[
+                "Carol",
+                "Carol",
+                "she",
+                "her",
+                "Carol"
+            ],
+            "aliases":[
+                "she",
+                "her",
+                "carol"
+            ],
+            "agent":[
+                {
+                    "[706, 11, 292]":"decide"
+                },
+                {
+                    "[706, 17, 366]":"flare"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[711, 2, 11]":"lead"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"kennicott",
+            "mentions":[
+                "Kennicott",
+                "Kennicott"
+            ],
+            "aliases":[
+                "kennicott"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[711, 10, 121]":"be"
+                },
+                {
+                    "[711, 15, 190]":"go"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[692, 7, 108]":"occur"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "Her",
+                "She",
+                "she",
+                "She",
+                "she",
+                "She",
+                "her",
+                "She",
+                "her",
+                "she",
+                "she",
+                "She",
+                "herself",
+                "She"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[699, 1, 12]":"see"
+                },
+                {
+                    "[699, 2, 24]":"remember"
+                },
+                {
+                    "[699, 4, 74]":"pity"
+                },
+                {
+                    "[699, 6, 110]":"see"
+                },
+                {
+                    "[699, 7, 146]":"remember"
+                },
+                {
+                    "[699, 9, 174]":"rejoice"
+                },
+                {
+                    "[699, 11, 197]":"be"
+                },
+                {
+                    "[699, 12, 213]":"awake"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

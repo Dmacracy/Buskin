@@ -1,0 +1,108 @@
+{
+    "fileName":"Agatha Christie___The Mysterious Affair at Styles.txt",
+    "numPars":190,
+    "characters":[
+        {
+            "mainName":"poirot",
+            "mentions":[
+                "Poirot",
+                "Poirot",
+                "then Poirot",
+                "Poirot",
+                "Poirot",
+                "Poirot",
+                "Poirot"
+            ],
+            "aliases":[
+                "poirot",
+                "then poirot"
+            ],
+            "agent":[
+                {
+                    "[189, 4, 43]":"open"
+                },
+                {
+                    "[189, 22, 260]":"mean"
+                },
+                {
+                    "[189, 36, 382]":"finish"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. inglethorp",
+            "mentions":[
+                "Mrs. Inglethorp",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "mrs. inglethorp",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[187, 13, 235]":"mean"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"john",
+            "mentions":[
+                "John",
+                "his"
+            ],
+            "aliases":[
+                "john",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[187, 17, 293]":"reconcile"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[187, 9, 158]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[187, 9, 158]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "us",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[173, 21, 235]":"sit"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "fileName":"Henry James___The Ambassadors.txt",
+    "numPars":476,
+    "characters":[
+        {
+            "mainName":"strether",
+            "mentions":[
+                "Strether",
+                "it"
+            ],
+            "aliases":[
+                "strether",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[472, 9, 93]":"feel"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he",
+                "myself"
+            ],
+            "aliases":[
+                "he",
+                "myself"
+            ],
+            "agent":[
+                {
+                    "[475, 4, 20]":"get"
+                },
+                {
+                    "[475, 7, 39]":"echo"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[475, 15, 116]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[475, 16, 133]":"pretend"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "She",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "She"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[475, 7, 39]":"echo"
+                },
+                {
+                    "[475, 11, 83]":"think"
+                },
+                {
+                    "[475, 16, 133]":"pretend"
+                },
+                {
+                    "[475, 17, 143]":"pretend"
+                },
+                {
+                    "[475, 22, 195]":"have"
+                },
+                {
+                    "[475, 28, 253]":"sigh"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "him",
+                "He",
+                "he",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[460, 3, 72]":"ring"
+                },
+                {
+                    "[460, 6, 112]":"mean"
+                },
+                {
+                    "[460, 11, 217]":"go"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

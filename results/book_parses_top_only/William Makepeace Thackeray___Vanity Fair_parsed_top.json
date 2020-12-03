@@ -1,0 +1,112 @@
+{
+    "fileName":"William Makepeace Thackeray___Vanity Fair.txt",
+    "numPars":1090,
+    "characters":[
+        {
+            "mainName":"rebecca",
+            "mentions":[
+                "Rebecca",
+                "She",
+                "she",
+                "herself"
+            ],
+            "aliases":[
+                "she",
+                "rebecca",
+                "herself"
+            ],
+            "agent":[
+                {
+                    "[1088, 4, 153]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[1088, 4, 153]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[1089, 0, 5]":"decline"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"george",
+            "mentions":[
+                "George",
+                "George"
+            ],
+            "aliases":[
+                "george"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"becky",
+            "mentions":[
+                "Becky",
+                "she"
+            ],
+            "aliases":[
+                "becky",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[1080, 1, 60]":"visible"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "herself",
+                "she",
+                "her",
+                "she",
+                "Mrs. Becky",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her",
+                "mrs. becky"
+            ],
+            "agent":[
+                {
+                    "[1081, 1, 66]":"take"
+                },
+                {
+                    "[1081, 2, 102]":"return"
+                }
+            ],
+            "patient":[
+                {
+                    "[1081, 0, 24]":"be"
+                },
+                {
+                    "[1081, 1, 66]":"take"
+                }
+            ]
+        }
+    ]
+}

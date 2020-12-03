@@ -1,0 +1,275 @@
+{
+    "fileName":"Charles Dickens___The Seven Poor Travellers.txt",
+    "numPars":16,
+    "characters":[
+        {
+            "mainName":"private richard doubledick",
+            "mentions":[
+                "Private Richard Doubledick",
+                "Private Richard Doubledick",
+                "Private Richard Doubledick",
+                "he",
+                "his",
+                "Private Richard Doubledick"
+            ],
+            "aliases":[
+                "he",
+                "private richard doubledick",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[7, 45, 994]":"sob"
+                },
+                {
+                    "[7, 60, 1269]":"drop"
+                },
+                {
+                    "[7, 119, 2746]":"breathe"
+                }
+            ],
+            "patient":[
+                {
+                    "[7, 51, 1077]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"the captain",
+            "mentions":[
+                "the Captain",
+                "He",
+                "his",
+                "him",
+                "his",
+                "his",
+                "he",
+                "him",
+                "He",
+                "he",
+                "him",
+                "he",
+                "he",
+                "His"
+            ],
+            "aliases":[
+                "he",
+                "the captain",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[14, 4, 134]":"look"
+                },
+                {
+                    "[14, 10, 265]":"sit"
+                },
+                {
+                    "[14, 12, 334]":"think"
+                }
+            ],
+            "patient":[
+                {
+                    "[14, 10, 265]":"sit"
+                }
+            ]
+        },
+        {
+            "mainName":"the captain of richard doubledick's company",
+            "mentions":[
+                "the Captain of Richard Doubledick's company",
+                "his",
+                "his",
+                "he",
+                "him",
+                "he",
+                "He",
+                "He",
+                "the captain",
+                "him",
+                "his",
+                "he",
+                "his",
+                "the captain",
+                "the Captain",
+                "he",
+                "his",
+                "the Captain",
+                "the Captain",
+                "the Captain",
+                "his",
+                "the Captain",
+                "the Captain",
+                "the young Captain",
+                "the Captain",
+                "He",
+                "the Captain",
+                "the young Captain"
+            ],
+            "aliases":[
+                "the young captain",
+                "the captain of richard doubledick's company",
+                "the captain",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[7, 0, 8]":"be"
+                },
+                {
+                    "[7, 3, 97]":"have"
+                },
+                {
+                    "[7, 4, 100]":"know"
+                },
+                {
+                    "[7, 5, 118]":"could"
+                },
+                {
+                    "[7, 6, 137]":"reproach"
+                },
+                {
+                    "[7, 7, 161]":"turn"
+                },
+                {
+                    "[7, 10, 328]":"come"
+                },
+                {
+                    "[7, 15, 420]":"know"
+                },
+                {
+                    "[7, 21, 480]":"say"
+                },
+                {
+                    "[7, 33, 784]":"see"
+                },
+                {
+                    "[7, 36, 865]":"wish"
+                },
+                {
+                    "[7, 52, 1108]":"earn"
+                }
+            ],
+            "patient":[
+                {
+                    "[7, 6, 137]":"reproach"
+                },
+                {
+                    "[7, 10, 328]":"come"
+                },
+                {
+                    "[7, 17, 443]":"return"
+                },
+                {
+                    "[7, 26, 620]":"return"
+                },
+                {
+                    "[7, 36, 865]":"wish"
+                },
+                {
+                    "[7, 44, 982]":"begin"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "he",
+                "His"
+            ],
+            "aliases":[
+                "he",
+                "it",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[10, 1, 8]":"sob"
+                }
+            ],
+            "patient":[
+                {
+                    "[10, 0, 2]":"know"
+                }
+            ]
+        },
+        {
+            "mainName":"a generous, noble man",
+            "mentions":[
+                "a generous, noble man",
+                "him",
+                "him",
+                "him",
+                "him",
+                "him",
+                "his",
+                "he",
+                "He",
+                "He",
+                "his",
+                "his",
+                "he",
+                "He",
+                "He",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "a generous, noble man",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[9, 2, 28]":"love"
+                },
+                {
+                    "[9, 3, 82]":"be"
+                },
+                {
+                    "[9, 4, 90]":"honour"
+                },
+                {
+                    "[9, 8, 181]":"know"
+                },
+                {
+                    "[9, 9, 191]":"bear"
+                },
+                {
+                    "[9, 10, 218]":"marry"
+                }
+            ],
+            "patient":[
+                {
+                    "[9, 2, 28]":"love"
+                },
+                {
+                    "[9, 4, 90]":"honour"
+                },
+                {
+                    "[9, 5, 125]":"wound"
+                },
+                {
+                    "[9, 6, 134]":"bring"
+                },
+                {
+                    "[9, 7, 145]":"come"
+                }
+            ]
+        }
+    ]
+}

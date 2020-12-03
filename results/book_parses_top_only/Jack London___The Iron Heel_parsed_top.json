@@ -1,0 +1,99 @@
+{
+    "fileName":"Jack London___The Iron Heel.txt",
+    "numPars":470,
+    "characters":[
+        {
+            "mainName":"ernest",
+            "mentions":[
+                "Ernest",
+                "Ernest"
+            ],
+            "aliases":[
+                "ernest"
+            ],
+            "agent":[
+                {
+                    "[468, 22, 368]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "We",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[468, 10, 193]":"speed"
+                },
+                {
+                    "[468, 11, 208]":"be"
+                },
+                {
+                    "[468, 16, 288]":"learn"
+                },
+                {
+                    "[468, 19, 318]":"catch"
+                },
+                {
+                    "[468, 20, 334]":"thunder"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[462, 6, 174]":"fire"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "its"
+            ],
+            "aliases":[
+                "its",
+                "it"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"father",
+            "mentions":[
+                "father",
+                "father"
+            ],
+            "aliases":[
+                "father"
+            ],
+            "agent":[
+                {
+                    "[317, 8, 263]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

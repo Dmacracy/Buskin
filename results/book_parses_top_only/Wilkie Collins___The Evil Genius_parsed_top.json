@@ -1,0 +1,139 @@
+{
+    "fileName":"Wilkie Collins___The Evil Genius.txt",
+    "numPars":446,
+    "characters":[
+        {
+            "mainName":"mrs. presty",
+            "mentions":[
+                "Mrs. Presty",
+                "her",
+                "Mrs. Presty",
+                "her"
+            ],
+            "aliases":[
+                "mrs. presty",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[441, 6, 64]":"judge"
+                },
+                {
+                    "[441, 9, 129]":"march"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[439, 0, 1]":"take"
+                },
+                {
+                    "[439, 2, 13]":"reply"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[437, 3, 79]":"want"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "this good girl",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "this good girl",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[433, 4, 116]":"finish"
+                },
+                {
+                    "[433, 6, 170]":"snatch"
+                },
+                {
+                    "[433, 7, 197]":"take"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"kitty",
+            "mentions":[
+                "Kitty",
+                "Kitty",
+                "her",
+                "she",
+                "she",
+                "her",
+                "Kitty",
+                "her",
+                "Kitty",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "kitty",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[445, 7, 139]":"bear"
+                },
+                {
+                    "[445, 8, 165]":"ask"
+                },
+                {
+                    "[445, 9, 179]":"say"
+                },
+                {
+                    "[445, 13, 279]":"turn"
+                },
+                {
+                    "[445, 19, 332]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

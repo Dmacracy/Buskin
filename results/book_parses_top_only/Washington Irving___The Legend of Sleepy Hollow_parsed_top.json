@@ -1,0 +1,128 @@
+{
+    "fileName":"Washington Irving___The Legend of Sleepy Hollow.txt",
+    "numPars":32,
+    "characters":[
+        {
+            "mainName":"ichabod",
+            "mentions":[
+                "Ichabod",
+                "Ichabod",
+                "it"
+            ],
+            "aliases":[
+                "ichabod",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[30, 12, 607]":"maintain"
+                }
+            ],
+            "patient":[
+                {
+                    "[30, 12, 607]":"maintain"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[25, 0, 13]":"summon"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[17, 10, 382]":"be"
+                },
+                {
+                    "[17, 11, 468]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"ichabod crane",
+            "mentions":[
+                "Ichabod Crane",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "ichabod crane"
+            ],
+            "agent":[
+                {
+                    "[30, 10, 393]":"be"
+                },
+                {
+                    "[30, 11, 535]":"conduct"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"old baltus van tassel",
+            "mentions":[
+                "Old Baltus Van Tassel",
+                "his",
+                "His",
+                "The musician",
+                "His",
+                "himself",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "old baltus van tassel",
+                "his",
+                "himself",
+                "the musician",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[16, 11, 396]":"move"
+                },
+                {
+                    "[16, 14, 483]":"be"
+                },
+                {
+                    "[16, 16, 519]":"part"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

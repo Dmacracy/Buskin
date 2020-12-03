@@ -1,0 +1,121 @@
+{
+    "fileName":"Jack London___Jerry of the Islands.txt",
+    "numPars":263,
+    "characters":[
+        {
+            "mainName":"jerry",
+            "mentions":[
+                "Jerry",
+                "Jerry",
+                "he",
+                "his",
+                "He",
+                "his"
+            ],
+            "aliases":[
+                "jerry",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[261, 5, 119]":"spread"
+                },
+                {
+                    "[261, 6, 139]":"come"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "himself",
+                "Jerry",
+                "his",
+                "his",
+                "him",
+                "he",
+                "he",
+                "Jerry",
+                "him",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "Jerry"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "he",
+                "jerry",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[262, 0, 10]":"maintain"
+                },
+                {
+                    "[262, 1, 28]":"give"
+                },
+                {
+                    "[262, 5, 108]":"crush"
+                },
+                {
+                    "[262, 6, 160]":"seize"
+                }
+            ],
+            "patient":[
+                {
+                    "[262, 0, 10]":"maintain"
+                },
+                {
+                    "[262, 5, 108]":"crush"
+                }
+            ]
+        },
+        {
+            "mainName":"van horn",
+            "mentions":[
+                "Van Horn",
+                "Van Horn"
+            ],
+            "aliases":[
+                "van horn"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"skipper",
+            "mentions":[
+                "Skipper",
+                "Skipper"
+            ],
+            "aliases":[
+                "skipper"
+            ],
+            "agent":[
+                {
+                    "[262, 2, 74]":"do"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

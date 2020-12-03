@@ -1,0 +1,106 @@
+{
+    "fileName":"Bret Harte___Selected Stories.txt",
+    "numPars":434,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[429, 0, 1]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[430, 1, 37]":"seem"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[430, 1, 37]":"seem"
+                }
+            ],
+            "patient":[
+                {
+                    "[430, 0, 11]":"have"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "herself",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[415, 0, 1]":"shake"
+                },
+                {
+                    "[415, 1, 32]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[431, 10, 144]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

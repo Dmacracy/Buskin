@@ -1,0 +1,289 @@
+{
+    "fileName":"Charles Dickens___Tom Tiddler's Ground.txt",
+    "numPars":17,
+    "characters":[
+        {
+            "mainName":"mr. traveller",
+            "mentions":[
+                "Mr. Traveller",
+                "Mr. Traveller",
+                "he",
+                "his",
+                "Mr. Traveller",
+                "he",
+                "his",
+                "Mr. Traveller",
+                "his",
+                "he",
+                "his",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "mr. traveller",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[15, 11, 364]":"say"
+                },
+                {
+                    "[15, 12, 379]":"return"
+                },
+                {
+                    "[15, 25, 570]":"say"
+                },
+                {
+                    "[15, 26, 599]":"come"
+                },
+                {
+                    "[15, 27, 611]":"say"
+                },
+                {
+                    "[15, 32, 669]":"be"
+                },
+                {
+                    "[15, 33, 708]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"miss pupford",
+            "mentions":[
+                "Miss Pupford",
+                "Miss Pupford",
+                "Miss Pupford"
+            ],
+            "aliases":[
+                "miss pupford"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[13, 2, 64]":"have"
+                }
+            ]
+        },
+        {
+            "mainName":"little kitty kimmeens",
+            "mentions":[
+                "little Kitty Kimmeens",
+                "Miss Kitty Kimmeens",
+                "Miss Kitty Kimmeens",
+                "her",
+                "Miss Kitty Kimmeens",
+                "Kitty Kimmeens",
+                "she",
+                "she",
+                "Miss Kimmeens",
+                "she",
+                "her",
+                "her",
+                "her",
+                "Kimmeens",
+                "Miss Kitty Kimmeens",
+                "her",
+                "Kimmeens",
+                "little Miss Kimmeens",
+                "Kimmeens",
+                "Miss Kimmeens",
+                "Miss Kimmeens",
+                "Miss Kimmeens",
+                "Miss Kimmeens",
+                "Kimmeens",
+                "Miss Kimmeens",
+                "Miss Kimmeens",
+                "her",
+                "Miss Kimmeens",
+                "Kimmeens",
+                "her",
+                "she",
+                "she",
+                "she",
+                "little Miss Kimmeens",
+                "Kimmeens",
+                "her",
+                "she",
+                "her",
+                "Miss Kimmeens",
+                "Kimmeens",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "kimmeens",
+                "little miss kimmeens",
+                "her",
+                "miss kitty kimmeens",
+                "miss kimmeens",
+                "little kitty kimmeens",
+                "she",
+                "kitty kimmeens"
+            ],
+            "agent":[
+                {
+                    "[10, 30, 1127]":"remain"
+                },
+                {
+                    "[10, 34, 1261]":"think"
+                },
+                {
+                    "[10, 35, 1290]":"appear"
+                },
+                {
+                    "[10, 38, 1372]":"say"
+                },
+                {
+                    "[10, 43, 1425]":"answer"
+                },
+                {
+                    "[10, 87, 2286]":"begin"
+                },
+                {
+                    "[10, 88, 2331]":"get"
+                },
+                {
+                    "[10, 90, 2405]":"look"
+                },
+                {
+                    "[10, 91, 2475]":"be"
+                },
+                {
+                    "[10, 92, 2516]":"sit"
+                }
+            ],
+            "patient":[
+                {
+                    "[10, 29, 1096]":"kiss"
+                },
+                {
+                    "[10, 33, 1196]":"go"
+                },
+                {
+                    "[10, 35, 1290]":"appear"
+                },
+                {
+                    "[10, 86, 2243]":"seem"
+                },
+                {
+                    "[10, 89, 2352]":"trouble"
+                }
+            ]
+        },
+        {
+            "mainName":"mr. mopes",
+            "mentions":[
+                "Mr. Mopes",
+                "him",
+                "himself",
+                "himself",
+                "he",
+                "himself",
+                "his",
+                "He",
+                "himself",
+                "he",
+                "his",
+                "him",
+                "He",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "himself",
+                "he",
+                "he",
+                "his",
+                "He"
+            ],
+            "aliases":[
+                "mr. mopes",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[2, 0, 38]":"acquire"
+                },
+                {
+                    "[2, 1, 79]":"blanket"
+                },
+                {
+                    "[2, 2, 96]":"be"
+                },
+                {
+                    "[2, 5, 296]":"know"
+                },
+                {
+                    "[2, 6, 333]":"know"
+                },
+                {
+                    "[2, 7, 394]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[2, 0, 38]":"acquire"
+                },
+                {
+                    "[2, 1, 79]":"blanket"
+                },
+                {
+                    "[2, 2, 96]":"be"
+                },
+                {
+                    "[2, 5, 296]":"know"
+                },
+                {
+                    "[2, 8, 411]":"represent"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "he",
+                "he",
+                "himself",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[12, 18, 417]":"be"
+                },
+                {
+                    "[12, 19, 498]":"send"
+                }
+            ],
+            "patient":[
+                {
+                    "[12, 18, 417]":"be"
+                }
+            ]
+        }
+    ]
+}

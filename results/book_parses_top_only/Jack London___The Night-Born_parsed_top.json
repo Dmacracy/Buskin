@@ -1,0 +1,144 @@
+{
+    "fileName":"Jack London___The Night-Born.txt",
+    "numPars":300,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "He",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[280, 0, 7]":"remember"
+                },
+                {
+                    "[280, 1, 12]":"rush"
+                },
+                {
+                    "[280, 3, 37]":"hurt"
+                },
+                {
+                    "[280, 4, 44]":"make"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"rivera",
+            "mentions":[
+                "Rivera",
+                "He",
+                "his",
+                "his",
+                "his",
+                "He",
+                "his",
+                "him",
+                "His",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "rivera",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[299, 1, 8]":"walk"
+                },
+                {
+                    "[299, 2, 25]":"lean"
+                },
+                {
+                    "[299, 3, 54]":"tremble"
+                },
+                {
+                    "[299, 5, 83]":"remember"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[236, 7, 85]":"swing"
+                }
+            ],
+            "patient":[
+                {
+                    "[236, 11, 131]":"speak"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "His",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[281, 0, 5]":"wait"
+                }
+            ],
+            "patient":[
+                {
+                    "[281, 2, 33]":"face"
+                }
+            ]
+        },
+        {
+            "mainName":"danny",
+            "mentions":[
+                "Danny",
+                "Danny",
+                "his",
+                "him",
+                "Danny",
+                "Danny"
+            ],
+            "aliases":[
+                "him",
+                "danny",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[298, 4, 82]":"totter"
+                },
+                {
+                    "[298, 6, 107]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

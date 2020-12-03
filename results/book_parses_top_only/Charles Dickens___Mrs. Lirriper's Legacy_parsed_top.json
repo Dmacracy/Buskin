@@ -1,0 +1,178 @@
+{
+    "fileName":"Charles Dickens___Mrs. Lirriper's Legacy.txt",
+    "numPars":20,
+    "characters":[
+        {
+            "mainName":"the major",
+            "mentions":[
+                "the Major",
+                "the Major",
+                "\"Ah Major"
+            ],
+            "aliases":[
+                "\"ah major",
+                "the major"
+            ],
+            "agent":[
+                {
+                    "[19, 19, 474]":"take"
+                }
+            ],
+            "patient":[
+                {
+                    "[19, 14, 399]":"sink"
+                }
+            ]
+        },
+        {
+            "mainName":"jemmy",
+            "mentions":[
+                "Jemmy",
+                "Jemmy",
+                "his"
+            ],
+            "aliases":[
+                "jemmy",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[19, 18, 456]":"do"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. buffle",
+            "mentions":[
+                "Mr. Buffle",
+                "his",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "mr. buffle",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[6, 1, 48]":"use"
+                }
+            ],
+            "patient":[
+                {
+                    "[6, 2, 55]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "himself",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[14, 6, 297]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "his",
+                "he",
+                "him",
+                "his",
+                "he",
+                "him",
+                "he",
+                "his",
+                "lo",
+                "he",
+                "his",
+                "He",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "he",
+                "him",
+                "him",
+                "him",
+                "he",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "lo",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[19, 1, 33]":"grow"
+                },
+                {
+                    "[19, 2, 47]":"use"
+                },
+                {
+                    "[19, 3, 65]":"be"
+                },
+                {
+                    "[19, 5, 115]":"become"
+                },
+                {
+                    "[19, 6, 127]":"sink"
+                },
+                {
+                    "[19, 7, 141]":"live"
+                },
+                {
+                    "[19, 8, 153]":"overtake"
+                },
+                {
+                    "[19, 9, 202]":"think"
+                },
+                {
+                    "[19, 12, 299]":"tell"
+                }
+            ],
+            "patient":[
+                {
+                    "[19, 2, 47]":"use"
+                },
+                {
+                    "[19, 8, 153]":"overtake"
+                },
+                {
+                    "[19, 9, 202]":"think"
+                },
+                {
+                    "[19, 10, 253]":"bring"
+                },
+                {
+                    "[19, 11, 262]":"know"
+                }
+            ]
+        }
+    ]
+}

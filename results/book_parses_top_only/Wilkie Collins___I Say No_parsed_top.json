@@ -1,0 +1,157 @@
+{
+    "fileName":"Wilkie Collins___I Say No.txt",
+    "numPars":475,
+    "characters":[
+        {
+            "mainName":"emily",
+            "mentions":[
+                "Emily",
+                "Emily",
+                "Emily",
+                "she"
+            ],
+            "aliases":[
+                "emily",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[470, 1, 21]":"know"
+                },
+                {
+                    "[470, 10, 180]":"remain"
+                }
+            ],
+            "patient":[
+                {
+                    "[470, 3, 56]":"send"
+                }
+            ]
+        },
+        {
+            "mainName":"alban",
+            "mentions":[
+                "Alban",
+                "her",
+                "she",
+                "She",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her",
+                "alban"
+            ],
+            "agent":[
+                {
+                    "[473, 0, 10]":"inform"
+                },
+                {
+                    "[473, 1, 15]":"be"
+                },
+                {
+                    "[473, 6, 110]":"be"
+                },
+                {
+                    "[473, 7, 126]":"seem"
+                }
+            ],
+            "patient":[
+                {
+                    "[473, 0, 10]":"inform"
+                },
+                {
+                    "[473, 5, 78]":"celebrate"
+                }
+            ]
+        },
+        {
+            "mainName":"francine",
+            "mentions":[
+                "Francine",
+                "her",
+                "her",
+                "her",
+                "my daughter",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "Emily"
+            ],
+            "aliases":[
+                "emily",
+                "her",
+                "francine",
+                "she",
+                "my daughter"
+            ],
+            "agent":[
+                {
+                    "[474, 3, 65]":"say"
+                },
+                {
+                    "[474, 4, 78]":"be"
+                },
+                {
+                    "[474, 8, 146]":"say"
+                },
+                {
+                    "[474, 14, 209]":"be"
+                },
+                {
+                    "[474, 16, 225]":"come"
+                }
+            ],
+            "patient":[
+                {
+                    "[474, 7, 128]":"call"
+                },
+                {
+                    "[474, 8, 146]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[470, 0, 3]":"go"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. ellmother",
+            "mentions":[
+                "Mrs. Ellmother",
+                "Mrs. Delvin",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "mrs. delvin",
+                "mrs. ellmother"
+            ],
+            "agent":[
+                {
+                    "[470, 3, 56]":"send"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

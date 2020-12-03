@@ -1,0 +1,222 @@
+{
+    "fileName":"Daniel Defoe___The Life and Adventures of Robinson Crusoe (1808).txt",
+    "numPars":111,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "our",
+                "our",
+                "we",
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[110, 0, 1]":"sail"
+                },
+                {
+                    "[110, 6, 94]":"remember"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "him",
+                "him",
+                "he",
+                "he",
+                "his",
+                "himself",
+                "his",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[107, 14, 1080]":"spake"
+                },
+                {
+                    "[107, 16, 1131]":"tell"
+                },
+                {
+                    "[107, 17, 1239]":"say"
+                },
+                {
+                    "[107, 19, 1276]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[107, 16, 1131]":"tell"
+                }
+            ]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "they"
+            ],
+            "agent":[
+                {
+                    "[108, 79, 4621]":"give"
+                }
+            ],
+            "patient":[
+                {
+                    "[108, 79, 4621]":"give"
+                }
+            ]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "We",
+                "us",
+                "we",
+                "we",
+                "we",
+                "our",
+                "we",
+                "we",
+                "we",
+                "Our",
+                "our",
+                "our",
+                "us",
+                "we",
+                "we",
+                "we",
+                "We",
+                "us",
+                "we",
+                "We",
+                "our",
+                "we",
+                "we",
+                "us",
+                "our",
+                "our",
+                "us",
+                "we",
+                "our",
+                "we",
+                "we",
+                "us",
+                "our",
+                "us",
+                "we",
+                "We",
+                "our",
+                "we",
+                "us",
+                "we",
+                "us",
+                "us",
+                "We",
+                "our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[108, 70, 4117]":"staid"
+                },
+                {
+                    "[108, 71, 4187]":"fancy"
+                },
+                {
+                    "[108, 72, 4193]":"come"
+                },
+                {
+                    "[108, 73, 4279]":"be"
+                },
+                {
+                    "[108, 74, 4335]":"bade"
+                },
+                {
+                    "[108, 75, 4368]":"aim"
+                },
+                {
+                    "[108, 76, 4423]":"be"
+                },
+                {
+                    "[108, 77, 4520]":"make"
+                },
+                {
+                    "[108, 78, 4572]":"sleep"
+                },
+                {
+                    "[108, 79, 4621]":"give"
+                },
+                {
+                    "[108, 80, 4701]":"be"
+                },
+                {
+                    "[108, 81, 4734]":"lie"
+                }
+            ],
+            "patient":[
+                {
+                    "[108, 72, 4193]":"come"
+                },
+                {
+                    "[108, 77, 4520]":"make"
+                },
+                {
+                    "[108, 79, 4621]":"give"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[108, 87, 5094]":"tell"
+                },
+                {
+                    "[108, 88, 5189]":"answer"
+                }
+            ]
+        }
+    ]
+}

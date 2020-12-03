@@ -1,0 +1,142 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Oakdale Affair.txt",
+    "numPars":136,
+    "characters":[
+        {
+            "mainName":"the oskaloosa kid",
+            "mentions":[
+                "The Oskaloosa Kid",
+                "this here Oskaloosa Kid",
+                "him"
+            ],
+            "aliases":[
+                "the oskaloosa kid",
+                "him",
+                "this here oskaloosa kid"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[130, 6, 105]":"durn"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "him",
+                "the man",
+                "He",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "the man"
+            ],
+            "agent":[
+                {
+                    "[135, 10, 142]":"raise"
+                },
+                {
+                    "[135, 11, 205]":"fit"
+                },
+                {
+                    "[135, 12, 258]":"smile"
+                },
+                {
+                    "[135, 13, 274]":"drawl"
+                }
+            ],
+            "patient":[
+                {
+                    "[135, 11, 205]":"fit"
+                },
+                {
+                    "[135, 12, 258]":"smile"
+                }
+            ]
+        },
+        {
+            "mainName":"the boy",
+            "mentions":[
+                "The boy",
+                "his",
+                "he",
+                "he",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "his",
+                "the boy"
+            ],
+            "agent":[
+                {
+                    "[130, 0, 2]":"scream"
+                },
+                {
+                    "[130, 2, 28]":"admit"
+                },
+                {
+                    "[130, 3, 56]":"be"
+                },
+                {
+                    "[130, 4, 70]":"tole"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[134, 5, 73]":"Gail"
+                },
+                {
+                    "[134, 7, 97]":"think"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"burton",
+            "mentions":[
+                "Burton",
+                "Burton",
+                "Burton",
+                "Burton",
+                "Burton"
+            ],
+            "aliases":[
+                "burton"
+            ],
+            "agent":[
+                {
+                    "[135, 10, 142]":"raise"
+                },
+                {
+                    "[135, 12, 258]":"smile"
+                },
+                {
+                    "[135, 14, 292]":"smile"
+                },
+                {
+                    "[135, 17, 338]":"return"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

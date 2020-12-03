@@ -1,0 +1,95 @@
+{
+    "fileName":"Edgar Rice Burroughs___A Princess of Mars.txt",
+    "numPars":56,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "we",
+                "us",
+                "our",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[55, 7, 144]":"converse"
+                },
+                {
+                    "[55, 10, 240]":"arise"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"dejah thoris",
+            "mentions":[
+                "Dejah Thoris",
+                "Dejah Thoris"
+            ],
+            "aliases":[
+                "dejah thoris"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[55, 39, 665]":"bound"
+                }
+            ]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "me"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[55, 99, 1903]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

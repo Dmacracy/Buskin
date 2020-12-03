@@ -1,0 +1,105 @@
+{
+    "fileName":"Zane Grey___The Young Forester.txt",
+    "numPars":305,
+    "characters":[
+        {
+            "mainName":"dick",
+            "mentions":[
+                "Dick",
+                "he",
+                "Dick"
+            ],
+            "aliases":[
+                "he",
+                "dick"
+            ],
+            "agent":[
+                {
+                    "[304, 5, 72]":"shout"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"buell",
+            "mentions":[
+                "Buell",
+                "His",
+                "Buell",
+                "Buell"
+            ],
+            "aliases":[
+                "buell",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[289, 1, 9]":"escape"
+                }
+            ],
+            "patient":[
+                {
+                    "[289, 6, 97]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "they"
+            ],
+            "aliases":[
+                "we",
+                "they"
+            ],
+            "agent":[
+                {
+                    "[301, 35, 444]":"divide"
+                },
+                {
+                    "[301, 36, 464]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[304, 0, 1]":"have"
+                },
+                {
+                    "[304, 2, 20]":"stand"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"bud",
+            "mentions":[
+                "Bud",
+                "Bud"
+            ],
+            "aliases":[
+                "bud"
+            ],
+            "agent":[
+                {
+                    "[269, 17, 192]":"grumble"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

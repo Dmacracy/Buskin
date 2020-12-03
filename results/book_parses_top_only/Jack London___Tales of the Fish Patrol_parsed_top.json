@@ -1,0 +1,174 @@
+{
+    "fileName":"Jack London___Tales of the Fish Patrol.txt",
+    "numPars":96,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "We",
+                "we",
+                "we",
+                "we",
+                "us"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[84, 1, 33]":"sail"
+                },
+                {
+                    "[84, 11, 162]":"make"
+                },
+                {
+                    "[84, 13, 214]":"make"
+                },
+                {
+                    "[84, 15, 240]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"charley",
+            "mentions":[
+                "Charley",
+                "Charley",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "charley"
+            ],
+            "agent":[
+                {
+                    "[90, 1, 22]":"think"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "he himself",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he himself",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[83, 7, 218]":"confess"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "he",
+                "he",
+                "his",
+                "myself",
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "his",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "him",
+                "him",
+                "he",
+                "his",
+                "He",
+                "he",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "myself",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[90, 10, 168]":"steal"
+                },
+                {
+                    "[90, 14, 247]":"start"
+                },
+                {
+                    "[90, 16, 316]":"manage"
+                },
+                {
+                    "[90, 19, 372]":"walk"
+                },
+                {
+                    "[90, 22, 458]":"be"
+                },
+                {
+                    "[90, 23, 490]":"know"
+                },
+                {
+                    "[90, 24, 513]":"start"
+                },
+                {
+                    "[90, 25, 532]":"light"
+                },
+                {
+                    "[90, 28, 611]":"strike"
+                },
+                {
+                    "[90, 29, 645]":"be"
+                },
+                {
+                    "[90, 30, 667]":"return"
+                }
+            ],
+            "patient":[
+                {
+                    "[90, 16, 316]":"manage"
+                },
+                {
+                    "[90, 21, 429]":"be"
+                },
+                {
+                    "[90, 27, 594]":"puzzle"
+                },
+                {
+                    "[90, 28, 611]":"strike"
+                }
+            ]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "us"
+            ],
+            "aliases":[
+                "us"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

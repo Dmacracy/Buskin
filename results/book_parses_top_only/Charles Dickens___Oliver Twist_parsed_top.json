@@ -1,0 +1,128 @@
+{
+    "fileName":"Charles Dickens___Oliver Twist.txt",
+    "numPars":253,
+    "characters":[
+        {
+            "mainName":"oliver",
+            "mentions":[
+                "Oliver",
+                "Oliver",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "oliver",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[249, 4, 136]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. bumble",
+            "mentions":[
+                "Mr. Bumble",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "mr. bumble",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[251, 1, 42]":"hear"
+                }
+            ],
+            "patient":[
+                {
+                    "[251, 1, 42]":"hear"
+                }
+            ]
+        },
+        {
+            "mainName":"the jew",
+            "mentions":[
+                "the Jew",
+                "he",
+                "his",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "the jew",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[248, 49, 1057]":"cry"
+                }
+            ],
+            "patient":[
+                {
+                    "[248, 49, 1057]":"cry"
+                },
+                {
+                    "[248, 51, 1097]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[252, 3, 115]":"turn"
+                },
+                {
+                    "[252, 4, 138]":"struggle"
+                },
+                {
+                    "[252, 5, 182]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"fagin",
+            "mentions":[
+                "Fagin",
+                "his",
+                "he",
+                "he",
+                "he",
+                "His"
+            ],
+            "aliases":[
+                "fagin",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[250, 0, 56]":"burden"
+                },
+                {
+                    "[250, 1, 68]":"go"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

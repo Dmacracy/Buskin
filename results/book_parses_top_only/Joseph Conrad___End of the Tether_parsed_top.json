@@ -1,0 +1,130 @@
+{
+    "fileName":"Joseph Conrad___End of the Tether.txt",
+    "numPars":239,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[225, 1, 43]":"carry"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"captain whalley",
+            "mentions":[
+                "Captain Whalley",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "captain whalley"
+            ],
+            "agent":[
+                {
+                    "[230, 7, 70]":"know"
+                },
+                {
+                    "[230, 8, 84]":"refuse"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "him",
+                "He",
+                "His",
+                "he",
+                "him",
+                "he",
+                "he",
+                "himself",
+                "he",
+                "he",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[234, 5, 84]":"look"
+                },
+                {
+                    "[234, 7, 113]":"be"
+                },
+                {
+                    "[234, 8, 130]":"be"
+                },
+                {
+                    "[234, 9, 169]":"be"
+                },
+                {
+                    "[234, 12, 198]":"wonder"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. van wyk",
+            "mentions":[
+                "Mr. Van Wyk",
+                "his"
+            ],
+            "aliases":[
+                "mr. van wyk",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[233, 6, 125]":"shake"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"massy",
+            "mentions":[
+                "Massy",
+                "him",
+                "Mr. Massy"
+            ],
+            "aliases":[
+                "massy",
+                "him",
+                "mr. massy"
+            ],
+            "agent":[
+                {
+                    "[223, 5, 60]":"seem"
+                },
+                {
+                    "[223, 7, 99]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[223, 5, 60]":"seem"
+                }
+            ]
+        }
+    ]
+}

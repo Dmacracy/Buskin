@@ -1,0 +1,163 @@
+{
+    "fileName":"Charles Dickens___George Silverman's Explanation.txt",
+    "numPars":23,
+    "characters":[
+        {
+            "mainName":"mr. silverman",
+            "mentions":[
+                "Mr. Silverman",
+                "he",
+                "He",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mr. silverman"
+            ],
+            "agent":[
+                {
+                    "[19, 54, 1447]":"have"
+                },
+                {
+                    "[19, 55, 1459]":"have"
+                },
+                {
+                    "[19, 56, 1481]":"give"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"brother hawkyard",
+            "mentions":[
+                "Brother Hawkyard",
+                "his",
+                "he",
+                "him",
+                "Brother Gimblet",
+                "his",
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "brother hawkyard",
+                "brother gimblet",
+                "me",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[12, 20, 268]":"read"
+                },
+                {
+                    "[12, 21, 307]":"be"
+                },
+                {
+                    "[12, 23, 325]":"groan"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "me"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"my lady",
+            "mentions":[
+                "my lady",
+                "my lady",
+                "her",
+                "She",
+                "she",
+                "My lady",
+                "her",
+                "she",
+                "her",
+                "my lady",
+                "she",
+                "my lady",
+                "her",
+                "She",
+                "her",
+                "her",
+                "She",
+                "her",
+                "herself",
+                "her",
+                "her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "herself",
+                "my lady"
+            ],
+            "agent":[
+                {
+                    "[19, 27, 1020]":"happen"
+                },
+                {
+                    "[19, 30, 1076]":"say"
+                },
+                {
+                    "[19, 39, 1203]":"be"
+                },
+                {
+                    "[19, 42, 1254]":"set"
+                },
+                {
+                    "[19, 45, 1295]":"tear"
+                },
+                {
+                    "[19, 46, 1325]":"stab"
+                },
+                {
+                    "[19, 50, 1392]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[19, 26, 1002]":"go"
+                },
+                {
+                    "[19, 36, 1181]":"repeat"
+                },
+                {
+                    "[19, 41, 1243]":"marry"
+                },
+                {
+                    "[19, 46, 1325]":"stab"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

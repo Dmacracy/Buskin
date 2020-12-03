@@ -1,0 +1,133 @@
+{
+    "fileName":"Charles Dickens___Great Expectations.txt",
+    "numPars":421,
+    "characters":[
+        {
+            "mainName":"joe",
+            "mentions":[
+                "Joe",
+                "Joe",
+                "Joe",
+                "Joe"
+            ],
+            "aliases":[
+                "joe"
+            ],
+            "agent":[
+                {
+                    "[420, 10, 324]":"sit"
+                },
+                {
+                    "[420, 11, 374]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[420, 8, 268]":"lay"
+                }
+            ]
+        },
+        {
+            "mainName":"herbert",
+            "mentions":[
+                "Herbert",
+                "his",
+                "Herbert",
+                "he",
+                "Herbert",
+                "his",
+                "he",
+                "he",
+                "Herbert",
+                "Herbert",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "herbert",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[420, 1, 44]":"be"
+                },
+                {
+                    "[420, 2, 88]":"tell"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it",
+                "its"
+            ],
+            "aliases":[
+                "its",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[420, 72, 1585]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[420, 71, 1572]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[406, 27, 439]":"for"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "our",
+                "we",
+                "We",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[420, 84, 1750]":"be"
+                },
+                {
+                    "[420, 95, 1910]":"be"
+                },
+                {
+                    "[420, 96, 1935]":"say"
+                },
+                {
+                    "[420, 98, 1963]":"take"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

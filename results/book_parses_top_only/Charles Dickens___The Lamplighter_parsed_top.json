@@ -1,0 +1,212 @@
+{
+    "fileName":"Charles Dickens___The Lamplighter.txt",
+    "numPars":18,
+    "characters":[
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "him",
+                "he",
+                "He",
+                "him",
+                "him",
+                "he",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "tom",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[17, 2, 76]":"tell"
+                },
+                {
+                    "[17, 3, 92]":"tell"
+                },
+                {
+                    "[17, 4, 107]":"be"
+                },
+                {
+                    "[17, 5, 155]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[17, 2, 76]":"tell"
+                },
+                {
+                    "[17, 3, 92]":"tell"
+                },
+                {
+                    "[17, 5, 155]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"the old gentleman",
+            "mentions":[
+                "the old gentleman",
+                "he",
+                "him",
+                "his",
+                "the old gentleman",
+                "the old gentleman",
+                "the old gentleman",
+                "the old gentleman"
+            ],
+            "aliases":[
+                "the old gentleman",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[16, 6, 225]":"be"
+                },
+                {
+                    "[16, 15, 433]":"say"
+                },
+                {
+                    "[16, 17, 484]":"say"
+                },
+                {
+                    "[16, 22, 558]":"wet"
+                }
+            ],
+            "patient":[
+                {
+                    "[16, 6, 225]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"the vice",
+            "mentions":[
+                "the vice",
+                "the vice"
+            ],
+            "aliases":[
+                "the vice"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[16, 25, 613]":"cry"
+                },
+                {
+                    "[16, 29, 672]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"mr. mooney",
+            "mentions":[
+                "a scientific man",
+                "his",
+                "he",
+                "Mr. Mooney",
+                "him",
+                "he",
+                "his",
+                "him",
+                "he",
+                "the gifted Mooney",
+                "Mooney",
+                "he",
+                "himself",
+                "he",
+                "Mr. Mooney",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "the gifted mooney",
+                "mooney",
+                "a scientific man",
+                "his",
+                "himself",
+                "he",
+                "him",
+                "mr. mooney"
+            ],
+            "agent":[
+                {
+                    "[10, 0, 4]":"be"
+                },
+                {
+                    "[10, 1, 52]":"put"
+                },
+                {
+                    "[10, 5, 100]":"be"
+                },
+                {
+                    "[10, 7, 187]":"revive"
+                }
+            ],
+            "patient":[
+                {
+                    "[10, 5, 100]":"be"
+                },
+                {
+                    "[10, 12, 290]":"inform"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "he",
+                "himself",
+                "himself",
+                "the chairman",
+                "he",
+                "himself",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "the chairman",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[16, 23, 592]":"swam"
+                },
+                {
+                    "[16, 26, 632]":"say"
+                },
+                {
+                    "[16, 27, 639]":"be"
+                },
+                {
+                    "[16, 28, 668]":"go"
+                }
+            ],
+            "patient":[
+                {
+                    "[16, 23, 592]":"swam"
+                },
+                {
+                    "[16, 24, 608]":"find"
+                },
+                {
+                    "[16, 27, 639]":"be"
+                }
+            ]
+        }
+    ]
+}

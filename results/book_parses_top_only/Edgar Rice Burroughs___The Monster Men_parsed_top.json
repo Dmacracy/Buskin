@@ -1,0 +1,164 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Monster Men.txt",
+    "numPars":67,
+    "characters":[
+        {
+            "mainName":"von horn",
+            "mentions":[
+                "von Horn",
+                "von Horn",
+                "von Horn's",
+                "his",
+                "he",
+                "he",
+                "misguided von Horn",
+                "his",
+                "von Horn",
+                "von Horn"
+            ],
+            "aliases":[
+                "von horn's",
+                "his",
+                "von horn",
+                "he",
+                "misguided von horn"
+            ],
+            "agent":[
+                {
+                    "[64, 39, 863]":"indicate"
+                },
+                {
+                    "[64, 44, 985]":"say"
+                },
+                {
+                    "[64, 82, 1744]":"die"
+                }
+            ],
+            "patient":[
+                {
+                    "[64, 87, 1825]":"exclaimed"
+                }
+            ]
+        },
+        {
+            "mainName":"the girl",
+            "mentions":[
+                "her",
+                "the girl",
+                "the girl",
+                "her",
+                "she",
+                "she",
+                "the girl"
+            ],
+            "aliases":[
+                "the girl",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[64, 107, 2242]":"be"
+                },
+                {
+                    "[64, 109, 2289]":"see"
+                }
+            ],
+            "patient":[
+                {
+                    "[64, 97, 1993]":"Thank"
+                }
+            ]
+        },
+        {
+            "mainName":"bulan",
+            "mentions":[
+                "Bulan",
+                "Bulan",
+                "Bulan",
+                "Bulan",
+                "Bulan",
+                "him",
+                "He",
+                "he",
+                "he",
+                "his",
+                "Bulan",
+                "her",
+                "his"
+            ],
+            "aliases":[
+                "her",
+                "his",
+                "bulan",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[64, 22, 382]":"respond"
+                },
+                {
+                    "[64, 108, 2261]":"be"
+                },
+                {
+                    "[64, 109, 2289]":"see"
+                }
+            ],
+            "patient":[
+                {
+                    "[64, 108, 2261]":"be"
+                },
+                {
+                    "[64, 116, 2432]":"catch"
+                }
+            ]
+        },
+        {
+            "mainName":"virginia",
+            "mentions":[
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia",
+                "Virginia"
+            ],
+            "aliases":[
+                "virginia"
+            ],
+            "agent":[
+                {
+                    "[64, 115, 2420]":"get"
+                }
+            ],
+            "patient":[
+                {
+                    "[64, 19, 347]":"say"
+                },
+                {
+                    "[64, 95, 1987]":"stand"
+                },
+                {
+                    "[64, 108, 2261]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"professor maxon",
+            "mentions":[
+                "Professor Maxon",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "professor maxon"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

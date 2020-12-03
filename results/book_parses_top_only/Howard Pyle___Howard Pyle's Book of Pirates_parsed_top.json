@@ -1,0 +1,168 @@
+{
+    "fileName":"Howard Pyle___Howard Pyle's Book of Pirates.txt",
+    "numPars":148,
+    "characters":[
+        {
+            "mainName":"hiram",
+            "mentions":[
+                "Hiram",
+                "his",
+                "Hiram",
+                "he",
+                "his",
+                "he",
+                "him",
+                "Hiram",
+                "Hiram"
+            ],
+            "aliases":[
+                "he",
+                "hiram",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[111, 0, 4]":"offer"
+                },
+                {
+                    "[111, 1, 33]":"say"
+                },
+                {
+                    "[111, 3, 71]":"take"
+                },
+                {
+                    "[111, 8, 155]":"marry"
+                }
+            ],
+            "patient":[
+                {
+                    "[111, 3, 71]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"jonathan",
+            "mentions":[
+                "Jonathan",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "he",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his",
+                "jonathan"
+            ],
+            "agent":[
+                {
+                    "[146, 3, 107]":"need"
+                },
+                {
+                    "[146, 4, 133]":"gaze"
+                },
+                {
+                    "[146, 5, 139]":"know"
+                }
+            ],
+            "patient":[
+                {
+                    "[146, 5, 139]":"know"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "He",
+                "he",
+                "He",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[145, 10, 208]":"be"
+                },
+                {
+                    "[145, 12, 231]":"return"
+                }
+            ],
+            "patient":[
+                {
+                    "[145, 9, 165]":"say"
+                },
+                {
+                    "[145, 11, 216]":"lead"
+                }
+            ]
+        },
+        {
+            "mainName":"barnaby",
+            "mentions":[
+                "Barnaby",
+                "his",
+                "he",
+                "he",
+                "Barnaby",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "barnaby",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[29, 36, 1492]":"come"
+                },
+                {
+                    "[29, 37, 1541]":"wish"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"levi",
+            "mentions":[
+                "Levi",
+                "himself",
+                "his",
+                "him",
+                "his",
+                "Levi",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "him",
+                "levi",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[110, 25, 476]":"raise"
+                }
+            ],
+            "patient":[
+                {
+                    "[110, 25, 476]":"raise"
+                },
+                {
+                    "[110, 28, 519]":"push"
+                }
+            ]
+        }
+    ]
+}

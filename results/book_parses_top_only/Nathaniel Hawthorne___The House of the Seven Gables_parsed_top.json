@@ -1,0 +1,95 @@
+{
+    "fileName":"Nathaniel Hawthorne___The House of the Seven Gables.txt",
+    "numPars":292,
+    "characters":[
+        {
+            "mainName":"phoebe",
+            "mentions":[
+                "Phoebe",
+                "Phoebe"
+            ],
+            "aliases":[
+                "phoebe"
+            ],
+            "agent":[
+                {
+                    "[290, 13, 320]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[290, 21, 526]":"talk"
+                }
+            ]
+        },
+        {
+            "mainName":"clifford",
+            "mentions":[
+                "Clifford",
+                "Clifford"
+            ],
+            "aliases":[
+                "clifford"
+            ],
+            "agent":[
+                {
+                    "[289, 22, 645]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[289, 31, 799]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"hepzibah",
+            "mentions":[
+                "Hepzibah",
+                "Hepzibah",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "hepzibah",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[291, 4, 152]":"put"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[291, 9, 291]":"be"
+                }
+            ]
+        }
+    ]
+}

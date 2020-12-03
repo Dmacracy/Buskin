@@ -1,0 +1,184 @@
+{
+    "fileName":"Thomas Hardy___A Pair of Blue Eyes.txt",
+    "numPars":330,
+    "characters":[
+        {
+            "mainName":"knight",
+            "mentions":[
+                "Knight",
+                "Knight",
+                "Knight",
+                "Knight"
+            ],
+            "aliases":[
+                "knight"
+            ],
+            "agent":[
+                {
+                    "[329, 39, 828]":"advance"
+                },
+                {
+                    "[329, 41, 882]":"recognize"
+                },
+                {
+                    "[329, 43, 903]":"press"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"elfride",
+            "mentions":[
+                "Elfride",
+                "she",
+                "herself",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "herself",
+                "elfride"
+            ],
+            "agent":[
+                {
+                    "[329, 39, 828]":"advance"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"stephen",
+            "mentions":[
+                "Stephen",
+                "Stephen",
+                "he"
+            ],
+            "aliases":[
+                "stephen",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[329, 44, 917]":"come"
+                }
+            ],
+            "patient":[
+                {
+                    "[329, 43, 903]":"press"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she",
+                "her",
+                "her",
+                "Her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[329, 0, 11]":"say"
+                },
+                {
+                    "[329, 1, 27]":"freshen"
+                },
+                {
+                    "[329, 5, 137]":"use"
+                },
+                {
+                    "[329, 6, 184]":"ay"
+                },
+                {
+                    "[329, 7, 223]":"want"
+                },
+                {
+                    "[329, 9, 276]":"make"
+                },
+                {
+                    "[329, 10, 304]":"come"
+                },
+                {
+                    "[329, 14, 354]":"run"
+                }
+            ],
+            "patient":[
+                {
+                    "[329, 7, 223]":"want"
+                },
+                {
+                    "[329, 12, 337]":"be"
+                },
+                {
+                    "[329, 13, 342]":"do"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "She",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[326, 1, 10]":"be"
+                },
+                {
+                    "[326, 2, 27]":"know"
+                },
+                {
+                    "[326, 6, 93]":"overpower"
+                },
+                {
+                    "[326, 13, 193]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[326, 0, 3]":"let"
+                },
+                {
+                    "[326, 4, 75]":"go"
+                }
+            ]
+        }
+    ]
+}

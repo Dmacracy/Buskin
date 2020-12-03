@@ -1,0 +1,324 @@
+{
+    "fileName":"Beatrix Potter___A Collection of Beatrix Potter Stories.txt",
+    "numPars":35,
+    "characters":[
+        {
+            "mainName":"mr. tod",
+            "mentions":[
+                "Mr. Tod",
+                "Mr. Tod"
+            ],
+            "aliases":[
+                "mr. tod"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"peter",
+            "mentions":[
+                "Peter",
+                "he"
+            ],
+            "aliases":[
+                "peter",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[21, 29, 420]":"hesitate"
+                },
+                {
+                    "[21, 30, 436]":"shut"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. mcgregor",
+            "mentions":[
+                "Mr. McGregor",
+                "Mr. McGregor",
+                "his",
+                "He",
+                "He",
+                "Mr. McGregor",
+                "he",
+                "he",
+                "his",
+                "McGREGOR",
+                "He",
+                "he",
+                "Mr. McGregor",
+                "McGREGOR",
+                "He",
+                "him",
+                "his",
+                "McGREGOR",
+                "him",
+                "his",
+                "Mr. McGregor",
+                "Mrs. McGregor",
+                "Mr. McGregor",
+                "his",
+                "Mr. McGregor",
+                "McGREGOR",
+                "She",
+                "she",
+                "McGREGOR",
+                "her",
+                "she",
+                "she",
+                "She",
+                "Mr. McGregor",
+                "Mrs. McGregor",
+                "her",
+                "herself",
+                "She",
+                "her",
+                "she",
+                "She",
+                "she",
+                "Mrs. Tabitha",
+                "She",
+                "she",
+                "She",
+                "she",
+                "Mrs. Tabitha",
+                "Mrs. Tabitha",
+                "Tabitha",
+                "She",
+                "her",
+                "Tabitha",
+                "Tabitha",
+                "Tabitha",
+                "Tabitha",
+                "Tabitha",
+                "Tabitha",
+                "Tabitha",
+                "Cousin Tabitha",
+                "Tabitha"
+            ],
+            "aliases":[
+                "mrs. mcgregor",
+                "tabitha",
+                "cousin tabitha",
+                "her",
+                "she",
+                "mcgregor",
+                "mrs. tabitha",
+                "herself",
+                "his",
+                "he",
+                "him",
+                "mr. mcgregor"
+            ],
+            "agent":[
+                {
+                    "[2, 84, 1388]":"hear"
+                },
+                {
+                    "[2, 89, 1476]":"look"
+                },
+                {
+                    "[2, 90, 1484]":"see"
+                },
+                {
+                    "[2, 91, 1500]":"stare"
+                },
+                {
+                    "[2, 93, 1521]":"climb"
+                },
+                {
+                    "[2, 95, 1544]":"say"
+                },
+                {
+                    "[2, 99, 1587]":"tie"
+                },
+                {
+                    "[2, 100, 1599]":"go"
+                },
+                {
+                    "[2, 111, 1750]":"come"
+                },
+                {
+                    "[2, 112, 1764]":"carry"
+                },
+                {
+                    "[2, 114, 1786]":"watch"
+                },
+                {
+                    "[2, 117, 1807]":"throw"
+                },
+                {
+                    "[2, 118, 1841]":"hear"
+                },
+                {
+                    "[2, 119, 1868]":"say"
+                },
+                {
+                    "[2, 122, 1887]":"enquire"
+                },
+                {
+                    "[2, 129, 1977]":"take"
+                },
+                {
+                    "[2, 130, 1987]":"say"
+                },
+                {
+                    "[2, 137, 2066]":"untie"
+                },
+                {
+                    "[2, 138, 2077]":"feel"
+                },
+                {
+                    "[2, 139, 2087]":"say"
+                },
+                {
+                    "[2, 144, 2149]":"get"
+                },
+                {
+                    "[2, 145, 2168]":"get"
+                },
+                {
+                    "[2, 151, 2258]":"use"
+                },
+                {
+                    "[2, 152, 2280]":"determine"
+                },
+                {
+                    "[2, 153, 2290]":"catch"
+                },
+                {
+                    "[2, 154, 2305]":"go"
+                },
+                {
+                    "[2, 155, 2320]":"look"
+                },
+                {
+                    "[2, 156, 2345]":"go"
+                },
+                {
+                    "[2, 160, 2428]":"become"
+                },
+                {
+                    "[2, 168, 2579]":"come"
+                },
+                {
+                    "[2, 171, 2606]":"say"
+                },
+                {
+                    "[2, 173, 2632]":"wipe"
+                },
+                {
+                    "[2, 188, 2847]":"say"
+                },
+                {
+                    "[2, 191, 2928]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[2, 95, 1544]":"say"
+                },
+                {
+                    "[2, 101, 1622]":"come"
+                },
+                {
+                    "[2, 123, 1908]":"repeat"
+                },
+                {
+                    "[2, 126, 1957]":"reply"
+                }
+            ]
+        },
+        {
+            "mainName":"duchess",
+            "mentions":[
+                "Duchess",
+                "Duchess",
+                "Duchess",
+                "Duchess",
+                "my dear Duchess",
+                "Duchess",
+                "she",
+                "her",
+                "Duchess",
+                "Duchess",
+                "Duchess"
+            ],
+            "aliases":[
+                "my dear duchess",
+                "she",
+                "her",
+                "duchess"
+            ],
+            "agent":[
+                {
+                    "[28, 12, 139]":"say"
+                },
+                {
+                    "[28, 15, 186]":"say"
+                },
+                {
+                    "[28, 18, 235]":"say"
+                },
+                {
+                    "[28, 23, 307]":"say"
+                },
+                {
+                    "[28, 31, 411]":"say"
+                },
+                {
+                    "[28, 32, 435]":"go"
+                },
+                {
+                    "[28, 33, 443]":"slip"
+                },
+                {
+                    "[28, 39, 525]":"run"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"ribby",
+            "mentions":[
+                "Ribby",
+                "Ribby",
+                "Ribby",
+                "her",
+                "my dear Ribby",
+                "Ribby",
+                "Ribby",
+                "Ribby",
+                "Ribby",
+                "she"
+            ],
+            "aliases":[
+                "my dear ribby",
+                "ribby",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[28, 10, 113]":"seem"
+                },
+                {
+                    "[28, 20, 253]":"say"
+                },
+                {
+                    "[28, 31, 411]":"say"
+                },
+                {
+                    "[28, 32, 435]":"go"
+                },
+                {
+                    "[28, 40, 548]":"find"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

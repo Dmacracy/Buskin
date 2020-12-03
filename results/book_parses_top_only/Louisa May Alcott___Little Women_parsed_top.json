@@ -1,0 +1,123 @@
+{
+    "fileName":"Louisa May Alcott___Little Women.txt",
+    "numPars":441,
+    "characters":[
+        {
+            "mainName":"jo",
+            "mentions":[
+                "Jo",
+                "her",
+                "her",
+                "her",
+                "Jo",
+                "Jo",
+                "she"
+            ],
+            "aliases":[
+                "jo",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[440, 8, 223]":"cry"
+                }
+            ],
+            "patient":[
+                {
+                    "[440, 0, 25]":"add"
+                },
+                {
+                    "[440, 8, 223]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"meg",
+            "mentions":[
+                "Meg",
+                "her",
+                "her",
+                "Jo",
+                "myself",
+                "myself"
+            ],
+            "aliases":[
+                "jo",
+                "meg",
+                "her",
+                "myself"
+            ],
+            "agent":[
+                {
+                    "[438, 15, 511]":"get"
+                }
+            ],
+            "patient":[
+                {
+                    "[438, 16, 553]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"laurie",
+            "mentions":[
+                "Laurie",
+                "She",
+                "Laurie"
+            ],
+            "aliases":[
+                "she",
+                "laurie"
+            ],
+            "agent":[
+                {
+                    "[439, 3, 84]":"grow"
+                },
+                {
+                    "[439, 5, 154]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"amy",
+            "mentions":[
+                "Amy",
+                "her",
+                "her",
+                "her",
+                "Amy",
+                "Amy",
+                "Amy"
+            ],
+            "aliases":[
+                "amy",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[439, 0, 7]":"drop"
+                }
+            ],
+            "patient":[
+                {
+                    "[439, 0, 7]":"drop"
+                }
+            ]
+        },
+        {
+            "mainName":"beth",
+            "mentions":[
+                "Beth",
+                "Beth",
+                "Beth"
+            ],
+            "aliases":[
+                "beth"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

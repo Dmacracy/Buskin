@@ -1,0 +1,271 @@
+{
+    "fileName":"Jack London___The Faith of Men.txt",
+    "numPars":198,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[188, 7, 192]":"meet"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[183, 11, 189]":"live"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"leclere",
+            "mentions":[
+                "Leclere",
+                "Leclere",
+                "he",
+                "He",
+                "his",
+                "his",
+                "he",
+                "he",
+                "He",
+                "he",
+                "him",
+                "Leclere",
+                "his",
+                "his",
+                "Leclere",
+                "his",
+                "the man",
+                "Leclere",
+                "his",
+                "Leclere",
+                "his",
+                "him",
+                "he",
+                "Leclere",
+                "Leclere"
+            ],
+            "aliases":[
+                "leclere",
+                "the man",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[149, 1, 29]":"cease"
+                },
+                {
+                    "[149, 3, 75]":"feel"
+                },
+                {
+                    "[149, 4, 95]":"give"
+                },
+                {
+                    "[149, 5, 136]":"rouse"
+                },
+                {
+                    "[149, 8, 205]":"see"
+                },
+                {
+                    "[149, 12, 273]":"teeter"
+                },
+                {
+                    "[149, 18, 330]":"kick"
+                },
+                {
+                    "[149, 23, 372]":"scream"
+                },
+                {
+                    "[149, 24, 375]":"retreat"
+                },
+                {
+                    "[149, 27, 441]":"show"
+                }
+            ],
+            "patient":[
+                {
+                    "[149, 6, 164]":"say"
+                },
+                {
+                    "[149, 18, 330]":"kick"
+                }
+            ]
+        },
+        {
+            "mainName":"rasmunsen",
+            "mentions":[
+                "Rasmunsen",
+                "He",
+                "he",
+                "his",
+                "he",
+                "him",
+                "his",
+                "He",
+                "his",
+                "he",
+                "He",
+                "his",
+                "he",
+                "he",
+                "John Fox",
+                "he",
+                "he",
+                "him",
+                "him",
+                "his",
+                "his",
+                "he",
+                "his",
+                "he",
+                "himself",
+                "he",
+                "He",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "john fox",
+                "rasmunsen",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[110, 0, 1]":"follow"
+                },
+                {
+                    "[110, 1, 12]":"throw"
+                },
+                {
+                    "[110, 2, 37]":"enter"
+                },
+                {
+                    "[110, 4, 62]":"stand"
+                },
+                {
+                    "[110, 5, 90]":"seem"
+                },
+                {
+                    "[110, 6, 110]":"drive"
+                },
+                {
+                    "[110, 7, 128]":"end"
+                },
+                {
+                    "[110, 8, 136]":"kick"
+                },
+                {
+                    "[110, 10, 180]":"come"
+                },
+                {
+                    "[110, 11, 211]":"take"
+                },
+                {
+                    "[110, 12, 273]":"rise"
+                },
+                {
+                    "[110, 13, 297]":"take"
+                },
+                {
+                    "[110, 14, 344]":"live"
+                }
+            ],
+            "patient":[
+                {
+                    "[110, 14, 344]":"live"
+                }
+            ]
+        },
+        {
+            "mainName":"batard",
+            "mentions":[
+                "Batard",
+                "Batard",
+                "Batard",
+                "Batard",
+                "He",
+                "his",
+                "He",
+                "his",
+                "Batard",
+                "he",
+                "Batard",
+                "he",
+                "his",
+                "his",
+                "Batard",
+                "his",
+                "He",
+                "his",
+                "he",
+                "he",
+                "He",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "batard",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[149, 7, 181]":"sit"
+                },
+                {
+                    "[149, 9, 220]":"come"
+                },
+                {
+                    "[149, 10, 239]":"thrust"
+                },
+                {
+                    "[149, 11, 257]":"rub"
+                },
+                {
+                    "[149, 14, 289]":"look"
+                },
+                {
+                    "[149, 16, 299]":"snarl"
+                },
+                {
+                    "[149, 17, 314]":"upreare"
+                },
+                {
+                    "[149, 24, 375]":"retreat"
+                },
+                {
+                    "[149, 25, 425]":"understand"
+                },
+                {
+                    "[149, 27, 441]":"show"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "fileName":"Wilkie Collins___After Dark.txt",
+    "numPars":408,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "he",
+                "He",
+                "he",
+                "he",
+                "him",
+                "he",
+                "him",
+                "he",
+                "his",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[390, 9, 195]":"take"
+                },
+                {
+                    "[390, 11, 236]":"exclaim"
+                },
+                {
+                    "[390, 13, 256]":"jump"
+                },
+                {
+                    "[390, 14, 284]":"say"
+                },
+                {
+                    "[390, 15, 290]":"leave"
+                },
+                {
+                    "[390, 17, 332]":"feel"
+                },
+                {
+                    "[390, 19, 379]":"say"
+                },
+                {
+                    "[390, 20, 389]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[390, 16, 316]":"question"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "he",
+                "he",
+                "him",
+                "him",
+                "he",
+                "His"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[397, 0, 19]":"look"
+                },
+                {
+                    "[397, 1, 44]":"say"
+                },
+                {
+                    "[397, 3, 74]":"injure"
+                }
+            ],
+            "patient":[
+                {
+                    "[397, 3, 74]":"injure"
+                }
+            ]
+        },
+        {
+            "mainName":"gabriel",
+            "mentions":[
+                "Gabriel",
+                "his",
+                "his",
+                "himself",
+                "he",
+                "his",
+                "he",
+                "He",
+                "himself",
+                "him",
+                "him",
+                "him",
+                "his",
+                "he",
+                "him",
+                "his",
+                "his",
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "him",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "gabriel",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[298, 3, 124]":"leave"
+                },
+                {
+                    "[298, 4, 145]":"labor"
+                },
+                {
+                    "[298, 5, 174]":"walk"
+                },
+                {
+                    "[298, 6, 210]":"hear"
+                },
+                {
+                    "[298, 7, 252]":"seem"
+                },
+                {
+                    "[298, 8, 267]":"begin"
+                },
+                {
+                    "[298, 12, 365]":"bury"
+                }
+            ],
+            "patient":[
+                {
+                    "[298, 5, 174]":"walk"
+                },
+                {
+                    "[298, 6, 210]":"hear"
+                },
+                {
+                    "[298, 7, 252]":"seem"
+                },
+                {
+                    "[298, 10, 302]":"see"
+                },
+                {
+                    "[298, 11, 342]":"find"
+                },
+                {
+                    "[298, 12, 365]":"bury"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[399, 31, 664]":"exclaim"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[403, 5, 118]":"say"
+                }
+            ]
+        }
+    ]
+}

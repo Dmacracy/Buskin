@@ -1,0 +1,123 @@
+{
+    "fileName":"Rudyard Kipling___Puck of Pook's Hill.txt",
+    "numPars":185,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[180, 2, 47]":"do"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[184, 27, 365]":"say"
+                },
+                {
+                    "[184, 31, 398]":"let"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"hugh",
+            "mentions":[
+                "Hugh",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "hugh",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[77, 36, 692]":"say"
+                },
+                {
+                    "[77, 38, 710]":"give"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "our",
+                "our",
+                "our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[184, 70, 1066]":"pledge"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"maximus",
+            "mentions":[
+                "Maximus",
+                "he",
+                "Maximus",
+                "he",
+                "he",
+                "me",
+                "Maximus",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "me",
+                "maximus"
+            ],
+            "agent":[
+                {
+                    "[139, 22, 292]":"say"
+                },
+                {
+                    "[139, 23, 327]":"answer"
+                },
+                {
+                    "[139, 24, 330]":"show"
+                },
+                {
+                    "[139, 25, 353]":"take"
+                },
+                {
+                    "[139, 38, 542]":"be"
+                },
+                {
+                    "[139, 39, 550]":"warn"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

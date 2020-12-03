@@ -1,0 +1,185 @@
+{
+    "fileName":"Mark Twain___A Tramp Abroad.txt",
+    "numPars":493,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[480, 3, 52]":"imagine"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[490, 16, 569]":"suppose"
+                }
+            ],
+            "patient":[
+                {
+                    "[490, 16, 569]":"suppose"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "his",
+                "He",
+                "his",
+                "his",
+                "he",
+                "his",
+                "He",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his",
+                "this simple old man",
+                "his",
+                "he",
+                "him",
+                "he",
+                "himself",
+                "him",
+                "the old man",
+                "the old man",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "him",
+                "the old man",
+                "he"
+            ],
+            "aliases":[
+                "the old man",
+                "he",
+                "his",
+                "himself",
+                "this simple old man",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[484, 2, 47]":"be"
+                },
+                {
+                    "[484, 3, 69]":"be"
+                },
+                {
+                    "[484, 4, 94]":"say"
+                },
+                {
+                    "[484, 5, 147]":"intrust"
+                },
+                {
+                    "[484, 6, 172]":"sign"
+                },
+                {
+                    "[484, 8, 198]":"make"
+                },
+                {
+                    "[484, 9, 208]":"be"
+                },
+                {
+                    "[484, 12, 267]":"say"
+                },
+                {
+                    "[484, 26, 493]":"spring"
+                },
+                {
+                    "[484, 31, 576]":"oblige"
+                }
+            ],
+            "patient":[
+                {
+                    "[484, 9, 208]":"be"
+                },
+                {
+                    "[484, 26, 493]":"spring"
+                },
+                {
+                    "[484, 31, 576]":"oblige"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "himself",
+                "his",
+                "he",
+                "him",
+                "him",
+                "HIM",
+                "He"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[472, 6, 175]":"desert"
+                },
+                {
+                    "[472, 7, 239]":"burn"
+                },
+                {
+                    "[472, 8, 352]":"go"
+                }
+            ],
+            "patient":[
+                {
+                    "[472, 7, 239]":"burn"
+                }
+            ]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "they"
+            ],
+            "agent":[
+                {
+                    "[490, 2, 46]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "fileName":"Zane Grey___Betty Zane.txt",
+    "numPars":495,
+    "characters":[
+        {
+            "mainName":"betty",
+            "mentions":[
+                "Betty",
+                "her"
+            ],
+            "aliases":[
+                "betty",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[494, 21, 609]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"isaac",
+            "mentions":[
+                "Isaac",
+                "his"
+            ],
+            "aliases":[
+                "isaac",
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"alfred",
+            "mentions":[
+                "Alfred",
+                "Alfred"
+            ],
+            "aliases":[
+                "alfred"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"wetzel",
+            "mentions":[
+                "Wetzel",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "him",
+                "he",
+                "His",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "wetzel",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[494, 0, 5]":"grow"
+                },
+                {
+                    "[494, 1, 16]":"visit"
+                },
+                {
+                    "[494, 3, 19]":"Henry"
+                },
+                {
+                    "[494, 4, 36]":"be"
+                },
+                {
+                    "[494, 5, 70]":"marry"
+                },
+                {
+                    "[494, 6, 74]":"be"
+                },
+                {
+                    "[494, 8, 138]":"tell"
+                }
+            ],
+            "patient":[
+                {
+                    "[494, 7, 102]":"adorn"
+                }
+            ]
+        },
+        {
+            "mainName":"col. zane",
+            "mentions":[
+                "Col. Zane",
+                "He",
+                "his",
+                "he",
+                "His",
+                "Col. Zane",
+                "him",
+                "His",
+                "Col. Zane",
+                "He",
+                "Isaac Zane",
+                "He",
+                "his",
+                "he",
+                "his",
+                "Jonathan Zane",
+                "himself",
+                "he",
+                "his",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "jonathan zane",
+                "isaac zane",
+                "his",
+                "himself",
+                "he",
+                "him",
+                "col. zane"
+            ],
+            "agent":[
+                {
+                    "[493, 0, 3]":"become"
+                },
+                {
+                    "[493, 1, 11]":"maintain"
+                },
+                {
+                    "[493, 2, 35]":"receive"
+                },
+                {
+                    "[493, 8, 182]":"be"
+                },
+                {
+                    "[493, 9, 198]":"die"
+                },
+                {
+                    "[493, 10, 204]":"receive"
+                },
+                {
+                    "[493, 11, 221]":"establish"
+                },
+                {
+                    "[493, 13, 264]":"settle"
+                },
+                {
+                    "[493, 14, 290]":"lose"
+                },
+                {
+                    "[493, 15, 302]":"take"
+                },
+                {
+                    "[493, 16, 317]":"return"
+                }
+            ],
+            "patient":[
+                {
+                    "[493, 4, 80]":"pay"
+                }
+            ]
+        }
+    ]
+}

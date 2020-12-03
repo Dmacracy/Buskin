@@ -1,0 +1,107 @@
+{
+    "fileName":"Charles Dickens___Reprinted Pieces.txt",
+    "numPars":285,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[271, 8, 166]":"be"
+                },
+                {
+                    "[271, 9, 192]":"be"
+                },
+                {
+                    "[271, 10, 223]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[284, 1, 79]":"follow"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[283, 8, 88]":"tell"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "We"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[270, 1, 22]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "It",
+                "It"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[282, 1, 11]":"be"
+                },
+                {
+                    "[282, 2, 55]":"open"
+                }
+            ],
+            "patient":[
+                {
+                    "[282, 0, 3]":"build"
+                }
+            ]
+        }
+    ]
+}

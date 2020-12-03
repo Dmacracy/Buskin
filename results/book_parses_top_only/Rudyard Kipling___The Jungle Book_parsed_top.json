@@ -1,0 +1,263 @@
+{
+    "fileName":"Rudyard Kipling___The Jungle Book.txt",
+    "numPars":118,
+    "characters":[
+        {
+            "mainName":"mowgli",
+            "mentions":[
+                "Mowgli",
+                "Mowgli",
+                "he",
+                "he",
+                "Mowgli",
+                "HE",
+                "HE",
+                "Mowgli",
+                "Mowgli"
+            ],
+            "aliases":[
+                "mowgli",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[54, 5, 69]":"say"
+                },
+                {
+                    "[54, 8, 99]":"go"
+                },
+                {
+                    "[54, 9, 117]":"be"
+                },
+                {
+                    "[54, 11, 151]":"sang"
+                },
+                {
+                    "[54, 13, 159]":"DANCED"
+                }
+            ],
+            "patient":[
+                {
+                    "[54, 20, 212]":"kill"
+                }
+            ]
+        },
+        {
+            "mainName":"rikki-tikki",
+            "mentions":[
+                "Rikki-tikki",
+                "he",
+                "Rikki-tikki",
+                "himself",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "rikki-tikki"
+            ],
+            "agent":[
+                {
+                    "[86, 20, 454]":"be"
+                },
+                {
+                    "[86, 22, 466]":"say"
+                },
+                {
+                    "[86, 26, 496]":"have"
+                },
+                {
+                    "[86, 27, 509]":"grow"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"kotick",
+            "mentions":[
+                "Kotick",
+                "Kotick",
+                "Kotick",
+                "Kotick",
+                "his",
+                "him",
+                "he",
+                "His",
+                "his",
+                "his",
+                "he",
+                "his",
+                "him",
+                "He",
+                "he",
+                "He",
+                "Kotick",
+                "his",
+                "Kotick",
+                "he",
+                "himself",
+                "he",
+                "Kotick",
+                "Kotick",
+                "his",
+                "his",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "his",
+                "Kotick",
+                "Kotick",
+                "Kotick"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "he",
+                "kotick",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[70, 2, 63]":"do"
+                },
+                {
+                    "[70, 9, 195]":"see"
+                },
+                {
+                    "[70, 10, 241]":"stand"
+                },
+                {
+                    "[70, 11, 273]":"see"
+                },
+                {
+                    "[70, 13, 336]":"be"
+                },
+                {
+                    "[70, 14, 342]":"roar"
+                },
+                {
+                    "[70, 16, 443]":"climb"
+                },
+                {
+                    "[70, 17, 471]":"teach"
+                },
+                {
+                    "[70, 28, 617]":"drop"
+                },
+                {
+                    "[70, 29, 630]":"be"
+                },
+                {
+                    "[70, 30, 647]":"same"
+                },
+                {
+                    "[70, 31, 678]":"go"
+                },
+                {
+                    "[70, 33, 748]":"do"
+                }
+            ],
+            "patient":[
+                {
+                    "[70, 9, 195]":"see"
+                },
+                {
+                    "[70, 18, 482]":"say"
+                },
+                {
+                    "[70, 24, 572]":"roar"
+                }
+            ]
+        },
+        {
+            "mainName":"shere khan",
+            "mentions":[
+                "SHERE KHAN",
+                "Shere Khan",
+                "Khan",
+                "he",
+                "he",
+                "He",
+                "he",
+                "Shere Khan",
+                "Shere Khan",
+                "Shere Khan",
+                "He",
+                "he",
+                "He",
+                "he",
+                "He",
+                "He",
+                "Shere Khan",
+                "Shere Khan",
+                "his",
+                "he",
+                "Shere Khan",
+                "Shere Khan",
+                "Shere Khan",
+                "Shere Khan"
+            ],
+            "aliases":[
+                "khan",
+                "shere khan",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[54, 19, 194]":"say"
+                },
+                {
+                    "[54, 20, 212]":"kill"
+                },
+                {
+                    "[54, 21, 220]":"eat"
+                },
+                {
+                    "[54, 35, 366]":"be"
+                },
+                {
+                    "[54, 36, 387]":"be"
+                },
+                {
+                    "[54, 37, 407]":"tell"
+                },
+                {
+                    "[54, 39, 418]":"be"
+                },
+                {
+                    "[54, 41, 426]":"be"
+                },
+                {
+                    "[54, 61, 643]":"give"
+                }
+            ],
+            "patient":[
+                {
+                    "[54, 86, 938]":"know"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "our",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[117, 63, 1024]":"tell"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

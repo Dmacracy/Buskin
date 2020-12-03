@@ -1,0 +1,224 @@
+{
+    "fileName":"Jack London___Martin Eden.txt",
+    "numPars":687,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "his",
+                "His",
+                "he",
+                "his",
+                "him",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[685, 0, 5]":"swam"
+                },
+                {
+                    "[685, 1, 19]":"know"
+                },
+                {
+                    "[685, 3, 50]":"falter"
+                }
+            ],
+            "patient":[
+                {
+                    "[685, 3, 50]":"falter"
+                }
+            ]
+        },
+        {
+            "mainName":"martin",
+            "mentions":[
+                "Martin",
+                "He",
+                "He",
+                "he",
+                "He",
+                "He",
+                "He",
+                "his",
+                "he",
+                "He",
+                "himself",
+                "he",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "martin",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[678, 0, 9]":"be"
+                },
+                {
+                    "[678, 1, 20]":"sleep"
+                },
+                {
+                    "[678, 2, 25]":"soak"
+                },
+                {
+                    "[678, 3, 46]":"move"
+                },
+                {
+                    "[678, 5, 68]":"ache"
+                },
+                {
+                    "[678, 6, 74]":"walk"
+                },
+                {
+                    "[678, 7, 99]":"force"
+                },
+                {
+                    "[678, 8, 125]":"hold"
+                }
+            ],
+            "patient":[
+                {
+                    "[678, 2, 25]":"soak"
+                },
+                {
+                    "[678, 6, 74]":"walk"
+                },
+                {
+                    "[678, 7, 99]":"force"
+                },
+                {
+                    "[678, 8, 125]":"hold"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "His",
+                "he",
+                "He",
+                "him",
+                "He",
+                "him",
+                "him",
+                "him",
+                "his",
+                "him",
+                "he",
+                "he",
+                "he",
+                "He",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[686, 1, 20]":"fool"
+                },
+                {
+                    "[686, 2, 36]":"be"
+                },
+                {
+                    "[686, 4, 53]":"seem"
+                },
+                {
+                    "[686, 9, 110]":"be"
+                },
+                {
+                    "[686, 10, 140]":"fall"
+                },
+                {
+                    "[686, 11, 148]":"know"
+                },
+                {
+                    "[686, 12, 153]":"fall"
+                },
+                {
+                    "[686, 13, 166]":"cease"
+                }
+            ],
+            "patient":[
+                {
+                    "[686, 3, 45]":"bring"
+                },
+                {
+                    "[686, 5, 67]":"surround"
+                }
+            ]
+        },
+        {
+            "mainName":"ruth",
+            "mentions":[
+                "Ruth",
+                "Ruth",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "ruth"
+            ],
+            "agent":[
+                {
+                    "[648, 12, 220]":"be"
+                },
+                {
+                    "[648, 14, 234]":"question"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "She",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[652, 0, 6]":"say"
+                },
+                {
+                    "[652, 1, 12]":"make"
+                }
+            ],
+            "patient":[
+                {
+                    "[652, 1, 12]":"make"
+                },
+                {
+                    "[652, 5, 79]":"bring"
+                }
+            ]
+        }
+    ]
+}

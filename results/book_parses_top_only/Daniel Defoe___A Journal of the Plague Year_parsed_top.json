@@ -1,0 +1,138 @@
+{
+    "fileName":"Daniel Defoe___A Journal of the Plague Year.txt",
+    "numPars":81,
+    "characters":[
+        {
+            "mainName":"the people",
+            "mentions":[
+                "the people",
+                "them",
+                "their",
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "the people",
+                "them",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[80, 10, 339]":"own"
+                },
+                {
+                    "[80, 11, 399]":"sing"
+                }
+            ],
+            "patient":[
+                {
+                    "[80, 10, 339]":"own"
+                }
+            ]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "themselves",
+                "they",
+                "They",
+                "them",
+                "them",
+                "their",
+                "them",
+                "their",
+                "they"
+            ],
+            "aliases":[
+                "themselves",
+                "them",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[74, 11, 595]":"be"
+                },
+                {
+                    "[74, 12, 757]":"go"
+                }
+            ],
+            "patient":[
+                {
+                    "[74, 12, 757]":"go"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "It",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[79, 11, 477]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the plague",
+            "mentions":[
+                "the plague",
+                "the plague"
+            ],
+            "aliases":[
+                "the plague"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[79, 3, 78]":"be"
+                },
+                {
+                    "[79, 5, 153]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"them",
+            "mentions":[
+                "them",
+                "they",
+                "their",
+                "they",
+                "them",
+                "their",
+                "they",
+                "they",
+                "their"
+            ],
+            "aliases":[
+                "them",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[78, 32, 2113]":"be"
+                },
+                {
+                    "[78, 33, 2211]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[78, 33, 2211]":"have"
+                }
+            ]
+        }
+    ]
+}

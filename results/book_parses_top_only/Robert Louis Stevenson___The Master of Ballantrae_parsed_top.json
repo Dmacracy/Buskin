@@ -1,0 +1,123 @@
+{
+    "fileName":"Robert Louis Stevenson___The Master of Ballantrae.txt",
+    "numPars":255,
+    "characters":[
+        {
+            "mainName":"mr. henry",
+            "mentions":[
+                "Mr. Henry",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mr. henry",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[156, 9, 331]":"say"
+                },
+                {
+                    "[156, 14, 398]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "His",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[246, 2, 71]":"learn"
+                },
+                {
+                    "[246, 3, 168]":"prevail"
+                },
+                {
+                    "[246, 4, 186]":"lie"
+                }
+            ],
+            "patient":[
+                {
+                    "[246, 2, 71]":"learn"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "our",
+                "us"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[252, 68, 1214]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[252, 72, 1324]":"hold"
+                }
+            ]
+        },
+        {
+            "mainName":"my lord",
+            "mentions":[
+                "my lord",
+                "him",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "him",
+                "my lord",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[252, 73, 1335]":"dare"
+                }
+            ],
+            "patient":[
+                {
+                    "[252, 73, 1335]":"dare"
+                },
+                {
+                    "[252, 74, 1387]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"the master",
+            "mentions":[
+                "the Master",
+                "his master"
+            ],
+            "aliases":[
+                "the master",
+                "his master"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

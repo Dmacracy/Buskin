@@ -1,0 +1,180 @@
+{
+    "fileName":"Robert Louis Stevenson___Tales and Fantasies.txt",
+    "numPars":149,
+    "characters":[
+        {
+            "mainName":"john",
+            "mentions":[
+                "John",
+                "he",
+                "John"
+            ],
+            "aliases":[
+                "john",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[52, 0, 4]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"dick",
+            "mentions":[
+                "Dick",
+                "Dick",
+                "Dick",
+                "he",
+                "himself",
+                "he",
+                "Dick",
+                "Dick",
+                "he",
+                "Dick",
+                "Dick",
+                "Dick",
+                "Dick",
+                "Dick",
+                "his",
+                "'Dick",
+                "Dick",
+                "he",
+                "him",
+                "him",
+                "his",
+                "his",
+                "Dick",
+                "himself"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "he",
+                "him",
+                "dick",
+                "'dick"
+            ],
+            "agent":[
+                {
+                    "[146, 8, 122]":"reply"
+                },
+                {
+                    "[146, 11, 159]":"begin"
+                },
+                {
+                    "[146, 12, 172]":"be"
+                },
+                {
+                    "[146, 14, 231]":"answer"
+                },
+                {
+                    "[146, 16, 247]":"find"
+                },
+                {
+                    "[146, 17, 259]":"say"
+                },
+                {
+                    "[146, 25, 426]":"see"
+                },
+                {
+                    "[146, 34, 547]":"say"
+                },
+                {
+                    "[146, 37, 580]":"say"
+                },
+                {
+                    "[146, 39, 624]":"forget"
+                },
+                {
+                    "[146, 41, 671]":"tear"
+                }
+            ],
+            "patient":[
+                {
+                    "[146, 7, 100]":"cry"
+                },
+                {
+                    "[146, 9, 145]":"begin"
+                },
+                {
+                    "[146, 11, 159]":"begin"
+                },
+                {
+                    "[146, 20, 307]":"insist"
+                },
+                {
+                    "[146, 40, 636]":"would"
+                },
+                {
+                    "[146, 41, 671]":"tear"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[144, 9, 113]":"go"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "him",
+                "him",
+                "him",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "him",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[110, 2, 69]":"take"
+                },
+                {
+                    "[110, 3, 95]":"draw"
+                }
+            ]
+        },
+        {
+            "mainName":"esther",
+            "mentions":[
+                "Esther",
+                "she",
+                "her",
+                "her",
+                "this young lady"
+            ],
+            "aliases":[
+                "this young lady",
+                "she",
+                "esther",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[147, 7, 224]":"come"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

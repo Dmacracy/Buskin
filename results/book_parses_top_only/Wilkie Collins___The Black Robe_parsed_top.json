@@ -1,0 +1,122 @@
+{
+    "fileName":"Wilkie Collins___The Black Robe.txt",
+    "numPars":469,
+    "characters":[
+        {
+            "mainName":"romayne",
+            "mentions":[
+                "Romayne",
+                "him",
+                "Romayne"
+            ],
+            "aliases":[
+                "romayne",
+                "him"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[467, 8, 98]":"object"
+                }
+            ]
+        },
+        {
+            "mainName":"stella",
+            "mentions":[
+                "Stella",
+                "Stella",
+                "her",
+                "Stella"
+            ],
+            "aliases":[
+                "her",
+                "stella"
+            ],
+            "agent":[
+                {
+                    "[467, 28, 442]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[467, 29, 453]":"pass"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "him",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[456, 6, 76]":"seem"
+                },
+                {
+                    "[456, 9, 113]":"return"
+                }
+            ],
+            "patient":[
+                {
+                    "[456, 7, 92]":"infer"
+                }
+            ]
+        },
+        {
+            "mainName":"father benwell",
+            "mentions":[
+                "Father Benwell",
+                "him",
+                "He",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "father benwell",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[465, 0, 2]":"spring"
+                },
+                {
+                    "[465, 2, 13]":"struggle"
+                }
+            ],
+            "patient":[
+                {
+                    "[465, 1, 9]":"stop"
+                },
+                {
+                    "[465, 4, 27]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"lord loring",
+            "mentions":[
+                "Lord Loring",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "lord loring"
+            ],
+            "agent":[
+                {
+                    "[466, 6, 100]":"make"
+                },
+                {
+                    "[466, 10, 163]":"stop"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "fileName":"Robert Louis Stevenson___Treasure Island.txt",
+    "numPars":181,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "us",
+                "us",
+                "our",
+                "we",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[179, 0, 2]":"be"
+                },
+                {
+                    "[179, 6, 132]":"think"
+                },
+                {
+                    "[179, 7, 155]":"get"
+                },
+                {
+                    "[179, 9, 205]":"do"
+                }
+            ],
+            "patient":[
+                {
+                    "[179, 2, 35]":"connive"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[175, 20, 412]":"bring"
+                }
+            ],
+            "patient":[
+                {
+                    "[175, 18, 371]":"be"
+                },
+                {
+                    "[175, 20, 412]":"bring"
+                }
+            ]
+        },
+        {
+            "mainName":"the captain",
+            "mentions":[
+                "the captain",
+                "the captain"
+            ],
+            "aliases":[
+                "the captain"
+            ],
+            "agent":[
+                {
+                    "[147, 48, 1269]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the doctor",
+            "mentions":[
+                "the doctor",
+                "the doctor",
+                "him",
+                "he",
+                "the doctor",
+                "the doctor"
+            ],
+            "aliases":[
+                "he",
+                "the doctor",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[177, 32, 860]":"tis"
+                },
+                {
+                    "[177, 37, 1019]":"be"
+                },
+                {
+                    "[177, 38, 1034]":"say"
+                },
+                {
+                    "[177, 45, 1253]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[177, 37, 1019]":"be"
+                },
+                {
+                    "[177, 39, 1077]":"return"
+                }
+            ]
+        },
+        {
+            "mainName":"us",
+            "mentions":[
+                "us",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "us"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}

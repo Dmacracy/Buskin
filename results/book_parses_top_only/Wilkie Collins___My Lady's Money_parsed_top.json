@@ -1,0 +1,124 @@
+{
+    "fileName":"Wilkie Collins___My Lady's Money.txt",
+    "numPars":218,
+    "characters":[
+        {
+            "mainName":"isabel",
+            "mentions":[
+                "Isabel",
+                "Isabel"
+            ],
+            "aliases":[
+                "isabel"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"lady lydiard",
+            "mentions":[
+                "Lady Lydiard",
+                "her",
+                "her",
+                "Lady Lydiard",
+                "Lady Lydiard's"
+            ],
+            "aliases":[
+                "lady lydiard's",
+                "lady lydiard",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[215, 12, 288]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"moody",
+            "mentions":[
+                "Moody",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "moody"
+            ],
+            "agent":[
+                {
+                    "[217, 16, 274]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. troy",
+            "mentions":[
+                "Mr. Troy",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mr. troy"
+            ],
+            "agent":[
+                {
+                    "[168, 8, 155]":"suggest"
+                }
+            ],
+            "patient":[
+                {
+                    "[168, 7, 133]":"consult"
+                }
+            ]
+        },
+        {
+            "mainName":"hardyman",
+            "mentions":[
+                "Hardyman",
+                "Hardyman",
+                "Mr. Hardyman",
+                "He",
+                "his",
+                "he",
+                "He",
+                "him",
+                "his",
+                "Mr. Hardyman",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "hardyman",
+                "mr. hardyman",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[211, 3, 45]":"say"
+                },
+                {
+                    "[211, 11, 134]":"sit"
+                },
+                {
+                    "[211, 12, 166]":"reply"
+                },
+                {
+                    "[211, 14, 178]":"turn"
+                },
+                {
+                    "[211, 18, 234]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[211, 17, 211]":"leave"
+                }
+            ]
+        }
+    ]
+}

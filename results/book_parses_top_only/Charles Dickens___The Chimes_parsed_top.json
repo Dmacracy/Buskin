@@ -1,0 +1,124 @@
+{
+    "fileName":"Charles Dickens___The Chimes.txt",
+    "numPars":70,
+    "characters":[
+        {
+            "mainName":"trotty",
+            "mentions":[
+                "Trotty",
+                "he",
+                "his",
+                "Trotty",
+                "Trotty",
+                "his",
+                "Trotty",
+                "Trotty",
+                "Trotty",
+                "Trotty"
+            ],
+            "aliases":[
+                "trotty",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[69, 13, 185]":"say"
+                },
+                {
+                    "[69, 19, 295]":"say"
+                },
+                {
+                    "[69, 23, 362]":"say"
+                },
+                {
+                    "[69, 27, 455]":"dream"
+                }
+            ],
+            "patient":[
+                {
+                    "[69, 17, 248]":"exchange"
+                }
+            ]
+        },
+        {
+            "mainName":"toby",
+            "mentions":[
+                "Toby",
+                "him"
+            ],
+            "aliases":[
+                "toby",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[40, 14, 248]":"look"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"meg",
+            "mentions":[
+                "Meg",
+                "Meg",
+                "her"
+            ],
+            "aliases":[
+                "meg",
+                "her"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[69, 11, 141]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[68, 10, 170]":"say"
+                },
+                {
+                    "[68, 11, 214]":"happily"
+                }
+            ],
+            "patient":[
+                {
+                    "[68, 11, 214]":"happily"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[68, 86, 1315]":"be"
+                }
+            ]
+        }
+    ]
+}

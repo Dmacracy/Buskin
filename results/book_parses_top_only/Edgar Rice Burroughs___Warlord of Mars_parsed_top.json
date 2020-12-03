@@ -1,0 +1,151 @@
+{
+    "fileName":"Edgar Rice Burroughs___Warlord of Mars.txt",
+    "numPars":5,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[4, 663, 16875]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "we",
+                "us",
+                "We",
+                "we",
+                "we",
+                "our",
+                "we",
+                "we",
+                "us",
+                "we",
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[4, 633, 15972]":"walk"
+                },
+                {
+                    "[4, 639, 16066]":"remain"
+                },
+                {
+                    "[4, 644, 16247]":"remain"
+                },
+                {
+                    "[4, 645, 16285]":"hover"
+                },
+                {
+                    "[4, 646, 16320]":"visit"
+                }
+            ],
+            "patient":[
+                {
+                    "[4, 633, 15972]":"walk"
+                },
+                {
+                    "[4, 645, 16285]":"hover"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[4, 664, 16884]":"come"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me",
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "me"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"woola",
+            "mentions":[
+                "Woola",
+                "him",
+                "Woola",
+                "Woola",
+                "his",
+                "Woola",
+                "it",
+                "he",
+                "him",
+                "his",
+                "his",
+                "Woola"
+            ],
+            "aliases":[
+                "woola",
+                "it",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[1, 99, 2618]":"go"
+                },
+                {
+                    "[1, 114, 3007]":"command"
+                },
+                {
+                    "[1, 115, 3078]":"furnish"
+                },
+                {
+                    "[1, 124, 3369]":"discuss"
+                }
+            ],
+            "patient":[
+                {
+                    "[1, 67, 1686]":"make"
+                },
+                {
+                    "[1, 113, 2965]":"know"
+                },
+                {
+                    "[1, 114, 3007]":"command"
+                }
+            ]
+        }
+    ]
+}

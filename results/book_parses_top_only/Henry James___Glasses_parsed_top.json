@@ -1,0 +1,302 @@
+{
+    "fileName":"Henry James___Glasses.txt",
+    "numPars":48,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "herself",
+                "her",
+                "she",
+                "She",
+                "She",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "She",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[44, 0, 18]":"turn"
+                },
+                {
+                    "[44, 2, 33]":"exclaim"
+                },
+                {
+                    "[44, 4, 143]":"recover"
+                },
+                {
+                    "[44, 7, 245]":"feel"
+                },
+                {
+                    "[44, 9, 298]":"mistake"
+                },
+                {
+                    "[44, 10, 318]":"feel"
+                },
+                {
+                    "[44, 11, 327]":"with"
+                },
+                {
+                    "[44, 15, 484]":"have"
+                },
+                {
+                    "[44, 16, 526]":"gasp"
+                },
+                {
+                    "[44, 20, 649]":"come"
+                },
+                {
+                    "[44, 22, 689]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[44, 4, 143]":"recover"
+                }
+            ]
+        },
+        {
+            "mainName":"mrs. meldrum",
+            "mentions":[
+                "Mrs. Meldrum",
+                "She",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "mrs. meldrum",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[46, 33, 774]":"write"
+                },
+                {
+                    "[46, 36, 807]":"be"
+                },
+                {
+                    "[46, 40, 867]":"know"
+                },
+                {
+                    "[46, 41, 883]":"be"
+                },
+                {
+                    "[46, 43, 947]":"explain"
+                }
+            ],
+            "patient":[
+                {
+                    "[46, 39, 838]":"think"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "She",
+                "her",
+                "she",
+                "her",
+                "herself",
+                "she",
+                "Her",
+                "her",
+                "her",
+                "she",
+                "Her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[46, 5, 119]":"ask"
+                },
+                {
+                    "[46, 6, 141]":"turn"
+                },
+                {
+                    "[46, 8, 185]":"stamp"
+                },
+                {
+                    "[46, 10, 231]":"be"
+                },
+                {
+                    "[46, 11, 240]":"charm"
+                },
+                {
+                    "[46, 14, 313]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[46, 3, 78]":"be"
+                },
+                {
+                    "[46, 9, 214]":"hurt"
+                },
+                {
+                    "[46, 12, 265]":"rescue"
+                },
+                {
+                    "[46, 19, 378]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "he",
+                "His",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[45, 9, 304]":"know"
+                },
+                {
+                    "[45, 12, 415]":"take"
+                },
+                {
+                    "[45, 13, 432]":"confess"
+                },
+                {
+                    "[45, 14, 446]":"tell"
+                }
+            ],
+            "patient":[
+                {
+                    "[45, 12, 415]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"my mother",
+            "mentions":[
+                "my mother",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "the good lady",
+                "her",
+                "she",
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "She",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "The girl"
+            ],
+            "aliases":[
+                "her",
+                "the good lady",
+                "the girl",
+                "she",
+                "my mother"
+            ],
+            "agent":[
+                {
+                    "[14, 1, 52]":"tell"
+                },
+                {
+                    "[14, 2, 68]":"cut"
+                },
+                {
+                    "[14, 4, 105]":"know"
+                },
+                {
+                    "[14, 5, 145]":"be"
+                },
+                {
+                    "[14, 6, 193]":"be"
+                },
+                {
+                    "[14, 8, 258]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[14, 5, 145]":"be"
+                },
+                {
+                    "[14, 6, 193]":"be"
+                }
+            ]
+        }
+    ]
+}

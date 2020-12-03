@@ -1,0 +1,167 @@
+{
+    "fileName":"George Eliot___Middlemarch.txt",
+    "numPars":1125,
+    "characters":[
+        {
+            "mainName":"dorothea",
+            "mentions":[
+                "Dorothea",
+                "Dorothea",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "dorothea",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[1123, 22, 558]":"observe"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"lydgate",
+            "mentions":[
+                "Lydgate",
+                "his",
+                "He",
+                "his",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "lydgate",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[1083, 4, 89]":"accept"
+                },
+                {
+                    "[1083, 5, 100]":"choose"
+                },
+                {
+                    "[1083, 6, 120]":"walk"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"rosamond",
+            "mentions":[
+                "Rosamond",
+                "She",
+                "her",
+                "her",
+                "her",
+                "her",
+                "whence Rosamond",
+                "Rosamond",
+                "her",
+                "she",
+                "she",
+                "Rosamond",
+                "her",
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "Rosamond",
+                "her",
+                "her",
+                "Rosamond",
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "whence rosamond",
+                "she",
+                "rosamond",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[1120, 6, 130]":"commit"
+                },
+                {
+                    "[1120, 7, 139]":"continue"
+                },
+                {
+                    "[1120, 8, 173]":"oppose"
+                },
+                {
+                    "[1120, 10, 256]":"die"
+                },
+                {
+                    "[1120, 11, 281]":"make"
+                },
+                {
+                    "[1120, 12, 359]":"call"
+                },
+                {
+                    "[1120, 13, 392]":"have"
+                },
+                {
+                    "[1120, 17, 450]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[1120, 8, 173]":"oppose"
+                },
+                {
+                    "[1120, 12, 359]":"call"
+                },
+                {
+                    "[1120, 14, 407]":"choose"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[1121, 1, 40]":"repent"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. casaubon",
+            "mentions":[
+                "Mr. Casaubon",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mr. casaubon"
+            ],
+            "agent":[
+                {
+                    "[1109, 5, 66]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[1109, 5, 66]":"have"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "fileName":"Charles Dickens___Three Ghost Stories.txt",
+    "numPars":60,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "himself",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[58, 11, 368]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[58, 11, 368]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"sir",
+            "mentions":[
+                "sir",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "sir"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "us",
+                "we",
+                "us",
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[59, 1, 26]":"retire"
+                },
+                {
+                    "[59, 2, 47]":"give"
+                },
+                {
+                    "[59, 4, 121]":"prevail"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[58, 1, 29]":"state"
+                }
+            ]
+        },
+        {
+            "mainName":"him",
+            "mentions":[
+                "him",
+                "he",
+                "he",
+                "himself",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[17, 4, 270]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[17, 4, 270]":"have"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "fileName":"Robert Louis Stevenson___New Arabian Nights.txt",
+    "numPars":269,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "He",
+                "he",
+                "he",
+                "he",
+                "his",
+                "He",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[268, 39, 627]":"salute"
+                },
+                {
+                    "[268, 42, 659]":"repeat"
+                },
+                {
+                    "[268, 54, 862]":"seem"
+                },
+                {
+                    "[268, 55, 879]":"say"
+                },
+                {
+                    "[268, 56, 906]":"sing"
+                },
+                {
+                    "[268, 58, 938]":"do"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "him",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[268, 19, 279]":"do"
+                }
+            ]
+        },
+        {
+            "mainName":"francis",
+            "mentions":[
+                "Francis",
+                "Francis",
+                "Francis",
+                "Francis",
+                "Francis",
+                "Francis",
+                "Francis",
+                "His",
+                "He",
+                "his",
+                "he",
+                "Francis",
+                "he",
+                "his",
+                "he",
+                "his",
+                "Francis",
+                "Francis",
+                "Francis",
+                "him",
+                "his",
+                "he",
+                "him",
+                "his",
+                "Francis"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his",
+                "francis"
+            ],
+            "agent":[
+                {
+                    "[133, 7, 124]":"tell"
+                },
+                {
+                    "[133, 23, 387]":"be"
+                },
+                {
+                    "[133, 37, 627]":"see"
+                },
+                {
+                    "[133, 39, 670]":"reply"
+                },
+                {
+                    "[133, 41, 723]":"recount"
+                },
+                {
+                    "[133, 46, 826]":"say"
+                },
+                {
+                    "[133, 53, 939]":"rise"
+                },
+                {
+                    "[133, 55, 991]":"dismiss"
+                }
+            ],
+            "patient":[
+                {
+                    "[133, 12, 271]":"echo"
+                },
+                {
+                    "[133, 18, 339]":"cry"
+                },
+                {
+                    "[133, 21, 366]":"be"
+                },
+                {
+                    "[133, 29, 541]":"return"
+                },
+                {
+                    "[133, 35, 613]":"cry"
+                },
+                {
+                    "[133, 37, 627]":"see"
+                },
+                {
+                    "[133, 41, 723]":"recount"
+                },
+                {
+                    "[133, 50, 890]":"reply"
+                },
+                {
+                    "[133, 53, 939]":"rise"
+                },
+                {
+                    "[133, 55, 991]":"dismiss"
+                }
+            ]
+        },
+        {
+            "mainName":"silas",
+            "mentions":[
+                "Silas",
+                "his",
+                "He",
+                "Silas",
+                "him",
+                "Silas",
+                "Silas",
+                "he",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "silas",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[51, 11, 210]":"try"
+                },
+                {
+                    "[51, 17, 275]":"thank"
+                },
+                {
+                    "[51, 28, 488]":"take"
+                },
+                {
+                    "[51, 29, 532]":"take"
+                },
+                {
+                    "[51, 30, 553]":"start"
+                }
+            ],
+            "patient":[
+                {
+                    "[51, 10, 200]":"move"
+                },
+                {
+                    "[51, 17, 275]":"thank"
+                },
+                {
+                    "[51, 22, 380]":"repeat"
+                }
+            ]
+        },
+        {
+            "mainName":"harry",
+            "mentions":[
+                "Harry",
+                "Harry"
+            ],
+            "aliases":[
+                "harry"
+            ],
+            "agent":[
+                {
+                    "[93, 6, 166]":"recognise"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

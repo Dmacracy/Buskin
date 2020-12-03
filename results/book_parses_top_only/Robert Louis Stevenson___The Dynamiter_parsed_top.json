@@ -1,0 +1,189 @@
+{
+    "fileName":"Robert Louis Stevenson___The Dynamiter.txt",
+    "numPars":206,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[205, 17, 329]":"find"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"challoner",
+            "mentions":[
+                "Challoner",
+                "She",
+                "her",
+                "she",
+                "She",
+                "Challoner",
+                "his",
+                "he",
+                "he",
+                "Challoner",
+                "her",
+                "the lady",
+                "Mr. Challoner",
+                "Challoner",
+                "his",
+                "he",
+                "the lady that has an appointment with old",
+                "he"
+            ],
+            "aliases":[
+                "the lady",
+                "challoner",
+                "her",
+                "she",
+                "mr. challoner",
+                "the lady that has an appointment with old",
+                "his",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[196, 5, 49]":"say"
+                },
+                {
+                    "[196, 7, 63]":"be"
+                },
+                {
+                    "[196, 8, 77]":"be"
+                },
+                {
+                    "[196, 9, 92]":"tell"
+                },
+                {
+                    "[196, 11, 118]":"cry"
+                },
+                {
+                    "[196, 20, 246]":"think"
+                },
+                {
+                    "[196, 22, 287]":"say"
+                },
+                {
+                    "[196, 25, 312]":"be"
+                },
+                {
+                    "[196, 26, 341]":"respond"
+                },
+                {
+                    "[196, 28, 357]":"be"
+                },
+                {
+                    "[196, 29, 384]":"resume"
+                }
+            ],
+            "patient":[
+                {
+                    "[196, 8, 77]":"be"
+                },
+                {
+                    "[196, 21, 264]":"ask"
+                },
+                {
+                    "[196, 24, 303]":"remember"
+                },
+                {
+                    "[196, 28, 357]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he",
+                "his",
+                "him",
+                "him",
+                "He",
+                "him",
+                "him",
+                "He",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[186, 0, 9]":"possess"
+                },
+                {
+                    "[186, 2, 78]":"get"
+                },
+                {
+                    "[186, 4, 134]":"be"
+                },
+                {
+                    "[186, 5, 144]":"dress"
+                }
+            ],
+            "patient":[
+                {
+                    "[186, 0, 9]":"possess"
+                },
+                {
+                    "[186, 3, 104]":"haunt"
+                }
+            ]
+        },
+        {
+            "mainName":"the young man",
+            "mentions":[
+                "the young man",
+                "him",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "the young man",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[189, 57, 764]":"run"
+                },
+                {
+                    "[189, 66, 964]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[199, 5, 154]":"change"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

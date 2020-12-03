@@ -1,0 +1,161 @@
+{
+    "fileName":"Wilkie Collins___The Haunted Hotel.txt",
+    "numPars":276,
+    "characters":[
+        {
+            "mainName":"agnes",
+            "mentions":[
+                "Agnes",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "agnes",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[275, 0, 1]":"be"
+                },
+                {
+                    "[275, 3, 30]":"remember"
+                },
+                {
+                    "[275, 5, 71]":"fulfil"
+                },
+                {
+                    "[275, 6, 98]":"let"
+                }
+            ],
+            "patient":[
+                {
+                    "[275, 1, 8]":"trouble"
+                },
+                {
+                    "[275, 2, 23]":"suggest"
+                },
+                {
+                    "[275, 5, 71]":"fulfil"
+                },
+                {
+                    "[275, 7, 154]":"regard"
+                }
+            ]
+        },
+        {
+            "mainName":"henry",
+            "mentions":[
+                "Henry",
+                "you",
+                "you"
+            ],
+            "aliases":[
+                "you",
+                "henry"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "She",
+                "She"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[264, 0, 5]":"follow"
+                },
+                {
+                    "[264, 6, 100]":"take"
+                },
+                {
+                    "[264, 7, 106]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the countess",
+            "mentions":[
+                "the Countess",
+                "the Countess"
+            ],
+            "aliases":[
+                "the countess"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[275, 5, 71]":"fulfil"
+                }
+            ]
+        },
+        {
+            "mainName":"lady montbarry",
+            "mentions":[
+                "Lady Montbarry",
+                "her",
+                "Lady Montbarry",
+                "its",
+                "it",
+                "Lady Montbarry",
+                "she",
+                "she",
+                "Lady Montbarry",
+                "she",
+                "myself",
+                "Lady Montbarry",
+                "Lady Montbarry's"
+            ],
+            "aliases":[
+                "her",
+                "myself",
+                "lady montbarry",
+                "it",
+                "lady montbarry's",
+                "its",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[209, 9, 189]":"go"
+                },
+                {
+                    "[209, 11, 258]":"understand"
+                },
+                {
+                    "[209, 16, 349]":"look"
+                },
+                {
+                    "[209, 18, 365]":"say"
+                },
+                {
+                    "[209, 21, 395]":"reply"
+                },
+                {
+                    "[209, 22, 422]":"turn"
+                },
+                {
+                    "[209, 23, 440]":"resume"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

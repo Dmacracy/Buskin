@@ -1,0 +1,200 @@
+{
+    "fileName":"Jack London___Before Adam.txt",
+    "numPars":285,
+    "characters":[
+        {
+            "mainName":"we",
+            "mentions":[
+                "we",
+                "we",
+                "our",
+                "we",
+                "we",
+                "ourselves",
+                "we",
+                "we",
+                "we",
+                "we",
+                "we",
+                "we",
+                "our"
+            ],
+            "aliases":[
+                "ourselves",
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[280, 0, 2]":"gain"
+                },
+                {
+                    "[280, 2, 27]":"be"
+                },
+                {
+                    "[280, 3, 41]":"cross"
+                },
+                {
+                    "[280, 4, 62]":"penetrate"
+                },
+                {
+                    "[280, 6, 111]":"river"
+                },
+                {
+                    "[280, 7, 131]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[280, 3, 41]":"cross"
+                }
+            ]
+        },
+        {
+            "mainName":"red-eye",
+            "mentions":[
+                "Red-Eye",
+                "him",
+                "he",
+                "He",
+                "his",
+                "his",
+                "He",
+                "him",
+                "his",
+                "he",
+                "him",
+                "he",
+                "he",
+                "his",
+                "himself",
+                "He"
+            ],
+            "aliases":[
+                "red-eye",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[284, 2, 33]":"walk"
+                },
+                {
+                    "[284, 5, 50]":"make"
+                },
+                {
+                    "[284, 6, 58]":"be"
+                },
+                {
+                    "[284, 8, 97]":"sit"
+                },
+                {
+                    "[284, 9, 108]":"see"
+                },
+                {
+                    "[284, 10, 141]":"crook"
+                },
+                {
+                    "[284, 11, 157]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[284, 9, 108]":"see"
+                },
+                {
+                    "[284, 10, 141]":"crook"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "He",
+                "his",
+                "He",
+                "him",
+                "He",
+                "He",
+                "his",
+                "he",
+                "his",
+                "him",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[266, 0, 1]":"be"
+                },
+                {
+                    "[266, 1, 18]":"pull"
+                },
+                {
+                    "[266, 2, 42]":"bite"
+                },
+                {
+                    "[266, 4, 65]":"manage"
+                },
+                {
+                    "[266, 5, 80]":"be"
+                },
+                {
+                    "[266, 6, 96]":"be"
+                },
+                {
+                    "[266, 7, 119]":"speed"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"lop-ear",
+            "mentions":[
+                "Lop-Ear",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "lop-ear"
+            ],
+            "agent":[
+                {
+                    "[267, 4, 90]":"escape"
+                }
+            ],
+            "patient":[
+                {
+                    "[267, 3, 82]":"meet"
+                }
+            ]
+        },
+        {
+            "mainName":"our",
+            "mentions":[
+                "our",
+                "We",
+                "our"
+            ],
+            "aliases":[
+                "our",
+                "we"
+            ],
+            "agent":[
+                {
+                    "[281, 3, 30]":"make"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

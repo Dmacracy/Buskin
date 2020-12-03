@@ -1,0 +1,114 @@
+{
+    "fileName":"Joseph Conrad___Heart of Darkness, Version 1.txt",
+    "numPars":131,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "his",
+                "his",
+                "the manager"
+            ],
+            "aliases":[
+                "the manager",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[124, 2, 9]":"be"
+                },
+                {
+                    "[124, 3, 24]":"suspect"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"kurtz",
+            "mentions":[
+                "Kurtz",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "kurtz",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[129, 11, 129]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[129, 10, 109]":"fall"
+                }
+            ]
+        },
+        {
+            "mainName":"mr. kurtz",
+            "mentions":[
+                "Mr. Kurtz",
+                "Kurtz",
+                "Kurtz",
+                "Kurtz",
+                "Kurtz"
+            ],
+            "aliases":[
+                "mr. kurtz",
+                "kurtz"
+            ],
+            "agent":[
+                {
+                    "[118, 26, 643]":"give"
+                },
+                {
+                    "[118, 33, 881]":"confess"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"him",
+            "mentions":[
+                "him",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "his"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[127, 4, 40]":"understand"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[119, 11, 196]":"have"
+                },
+                {
+                    "[119, 12, 210]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

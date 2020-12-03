@@ -1,0 +1,149 @@
+{
+    "fileName":"Edgar Rice Burroughs___Thuvia, Maid of Mars.txt",
+    "numPars":38,
+    "characters":[
+        {
+            "mainName":"carthoris",
+            "mentions":[
+                "Carthoris",
+                "Carthoris",
+                "she",
+                "Carthoris",
+                "he",
+                "her",
+                "Carthoris",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "Carthoris",
+                "he",
+                "he",
+                "Carthoris",
+                "his",
+                "Carthoris",
+                "Carthoris",
+                "Carthoris",
+                "Carthoris",
+                "Carthoris"
+            ],
+            "aliases":[
+                "her",
+                "she",
+                "his",
+                "carthoris",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[36, 132, 2571]":"graze"
+                },
+                {
+                    "[36, 137, 2690]":"distance"
+                },
+                {
+                    "[36, 139, 2813]":"hasten"
+                },
+                {
+                    "[36, 144, 2939]":"be"
+                },
+                {
+                    "[36, 145, 2990]":"do"
+                },
+                {
+                    "[36, 147, 3091]":"say"
+                },
+                {
+                    "[36, 149, 3117]":"be"
+                },
+                {
+                    "[36, 210, 4157]":"reach"
+                },
+                {
+                    "[36, 230, 4569]":"see"
+                },
+                {
+                    "[36, 231, 4611]":"turn"
+                }
+            ],
+            "patient":[
+                {
+                    "[36, 160, 3334]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[36, 230, 4569]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"thuvia",
+            "mentions":[
+                "Thuvia",
+                "Thuvia"
+            ],
+            "aliases":[
+                "thuvia"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"jav",
+            "mentions":[
+                "Jav",
+                "Jav",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "jav",
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[32, 169, 3742]":"look"
+                },
+                {
+                    "[32, 172, 3774]":"choose"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[37, 40, 688]":"furnish"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

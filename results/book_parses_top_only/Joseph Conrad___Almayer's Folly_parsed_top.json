@@ -1,0 +1,133 @@
+{
+    "fileName":"Joseph Conrad___Almayer's Folly.txt",
+    "numPars":197,
+    "characters":[
+        {
+            "mainName":"almayer",
+            "mentions":[
+                "Almayer",
+                "Almayer",
+                "Almayer",
+                "Almayer",
+                "Almayer",
+                "his",
+                "his",
+                "His",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "almayer",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[191, 6, 134]":"seem"
+                },
+                {
+                    "[191, 15, 324]":"stop"
+                },
+                {
+                    "[191, 20, 372]":"let"
+                }
+            ],
+            "patient":[
+                {
+                    "[191, 0, 4]":"visit"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[196, 10, 118]":"pause"
+                },
+                {
+                    "[196, 11, 156]":"go"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"nina",
+            "mentions":[
+                "Nina",
+                "Nina"
+            ],
+            "aliases":[
+                "nina"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"dain",
+            "mentions":[
+                "Dain",
+                "his",
+                "Dain",
+                "Dain",
+                "Dain"
+            ],
+            "aliases":[
+                "dain",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[179, 32, 637]":"say"
+                },
+                {
+                    "[179, 40, 747]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[179, 36, 698]":"ask"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[196, 0, 2]":"grow"
+                },
+                {
+                    "[196, 5, 65]":"die"
+                }
+            ],
+            "patient":[
+                {
+                    "[196, 1, 23]":"give"
+                },
+                {
+                    "[196, 2, 33]":"send"
+                },
+                {
+                    "[196, 3, 44]":"want"
+                }
+            ]
+        }
+    ]
+}

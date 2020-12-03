@@ -1,0 +1,201 @@
+{
+    "fileName":"Edgar Rice Burroughs___Out of Time's Abyss.txt",
+    "numPars":106,
+    "characters":[
+        {
+            "mainName":"bradley",
+            "mentions":[
+                "Bradley",
+                "Bradley",
+                "he",
+                "he",
+                "Bradley",
+                "he",
+                "he",
+                "Bradley",
+                "Bradley",
+                "Bradley",
+                "Bradley",
+                "he",
+                "him",
+                "his",
+                "he",
+                "Bradley",
+                "his",
+                "he",
+                "Galu Bradley",
+                "he",
+                "Bradley",
+                "he",
+                "his",
+                "he",
+                "Bradley",
+                "ours",
+                "we",
+                "We",
+                "him",
+                "him",
+                "his",
+                "Bradley",
+                "us",
+                "he"
+            ],
+            "aliases":[
+                "bradley",
+                "galu bradley",
+                "us",
+                "we",
+                "ours",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[104, 14, 299]":"run"
+                },
+                {
+                    "[104, 18, 377]":"notice"
+                },
+                {
+                    "[104, 25, 513]":"do"
+                },
+                {
+                    "[104, 29, 563]":"ask"
+                },
+                {
+                    "[104, 34, 639]":"be"
+                },
+                {
+                    "[104, 44, 780]":"tell"
+                },
+                {
+                    "[104, 53, 1018]":"detect"
+                },
+                {
+                    "[104, 54, 1044]":"think"
+                },
+                {
+                    "[104, 56, 1060]":"light"
+                },
+                {
+                    "[104, 57, 1086]":"say"
+                },
+                {
+                    "[104, 61, 1121]":"think"
+                },
+                {
+                    "[104, 62, 1141]":"be"
+                },
+                {
+                    "[104, 63, 1163]":"find"
+                },
+                {
+                    "[104, 65, 1218]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[104, 25, 513]":"do"
+                },
+                {
+                    "[104, 52, 994]":"garb"
+                },
+                {
+                    "[104, 55, 1054]":"reply"
+                },
+                {
+                    "[104, 60, 1115]":"ask"
+                },
+                {
+                    "[104, 63, 1163]":"find"
+                }
+            ]
+        },
+        {
+            "mainName":"the girl",
+            "mentions":[
+                "the girl",
+                "hers",
+                "she"
+            ],
+            "aliases":[
+                "the girl",
+                "she",
+                "hers"
+            ],
+            "agent":[
+                {
+                    "[103, 18, 533]":"be"
+                },
+                {
+                    "[103, 21, 571]":"cry"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "they"
+            ],
+            "agent":[
+                {
+                    "[105, 30, 515]":"submerge"
+                },
+                {
+                    "[105, 31, 557]":"steam"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "me"
+            ],
+            "aliases":[
+                "he",
+                "me",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[104, 0, 1]":"bend"
+                },
+                {
+                    "[104, 1, 38]":"go"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[105, 7, 84]":"admit"
+                },
+                {
+                    "[105, 9, 102]":"permit"
+                }
+            ]
+        }
+    ]
+}

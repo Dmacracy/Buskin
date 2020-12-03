@@ -1,0 +1,147 @@
+{
+    "fileName":"Jane Austen___Northanger Abbey.txt",
+    "numPars":228,
+    "characters":[
+        {
+            "mainName":"catherine",
+            "mentions":[
+                "Catherine",
+                "Catherine"
+            ],
+            "aliases":[
+                "catherine"
+            ],
+            "agent":[
+                {
+                    "[225, 2, 64]":"return"
+                },
+                {
+                    "[225, 4, 159]":"look"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[208, 0, 10]":"begin"
+                }
+            ],
+            "patient":[
+                {
+                    "[208, 2, 154]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "herself",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[220, 1, 16]":"Catherine"
+                },
+                {
+                    "[220, 2, 96]":"have"
+                },
+                {
+                    "[220, 3, 141]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[220, 1, 16]":"Catherine"
+                },
+                {
+                    "[220, 2, 96]":"have"
+                },
+                {
+                    "[220, 3, 141]":"be"
+                },
+                {
+                    "[220, 4, 168]":"court"
+                },
+                {
+                    "[220, 5, 202]":"seem"
+                }
+            ]
+        },
+        {
+            "mainName":"henry",
+            "mentions":[
+                "Henry",
+                "his",
+                "his",
+                "his",
+                "he",
+                "Henry",
+                "Henry"
+            ],
+            "aliases":[
+                "he",
+                "henry",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[225, 2, 64]":"return"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[226, 15, 577]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[226, 15, 577]":"be"
+                }
+            ]
+        }
+    ]
+}

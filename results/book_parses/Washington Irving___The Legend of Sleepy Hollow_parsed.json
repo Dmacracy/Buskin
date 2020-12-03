@@ -1,0 +1,2677 @@
+{
+    "fileName":"Washington Irving___The Legend of Sleepy Hollow.txt",
+    "numPars":32,
+    "characters":[
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "the name of Tarry Town",
+                "This name",
+                "the good housewives of the adjacent country",
+                "their",
+                "the fact",
+                "it",
+                "when a stripling, my first exploit in squirrel-shooting was in a grove of tall walnut-trees that shades one side of the valley",
+                "it",
+                "it",
+                "its",
+                "the valley",
+                "this little valley",
+                "the place",
+                "its",
+                "the place",
+                "all the neighboring country",
+                "the country",
+                "the country",
+                "the good people",
+                "them",
+                "They",
+                "the valley",
+                "the valley",
+                "the churchyard",
+                "the churchyard",
+                "he",
+                "He",
+                "The cognomen of Crane",
+                "his",
+                "He",
+                "his",
+                "his",
+                "His",
+                "his",
+                "him",
+                "his",
+                "him",
+                "him",
+                "a thief",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "the rod",
+                "the rod",
+                "the burden",
+                "it",
+                "he",
+                "his",
+                "he",
+                "he",
+                "him",
+                "he",
+                "he",
+                "him",
+                "his",
+                "his",
+                "him",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "himself",
+                "He",
+                "He",
+                "he",
+                "his",
+                "He",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "his",
+                "his",
+                "he",
+                "his",
+                "the parson",
+                "the parson",
+                "the labor of headwork",
+                "it",
+                "The schoolmaster",
+                "His",
+                "all the country damsels",
+                "them",
+                "them",
+                "their",
+                "them",
+                "He",
+                "His",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "himself",
+                "his",
+                "his",
+                "he",
+                "his",
+                "he",
+                "his",
+                "him",
+                "his",
+                "his",
+                "him",
+                "he",
+                "His",
+                "his",
+                "his",
+                "him",
+                "He",
+                "his",
+                "his",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "the boding cry of the tree toad, that harbinger of storm, the dreary hooting of the screech owl, or the sudden rustling in the thicket of birds",
+                "their",
+                "they",
+                "their",
+                "the old Dutch wives",
+                "they",
+                "their",
+                "they",
+                "them",
+                "them",
+                "they",
+                "the flail",
+                "it",
+                "the farmyard",
+                "it",
+                "The pedagogue's mouth",
+                "his mouth",
+                "the geese",
+                "their",
+                "he",
+                "his",
+                "their",
+                "their",
+                "the mantelpiece",
+                "it",
+                "the lady of his heart",
+                "the lady",
+                "her",
+                "her",
+                "The neighbors",
+                "their",
+                "this obstinately pacific system",
+                "it",
+                "They",
+                "their",
+                "he",
+                "He",
+                "his",
+                "he",
+                "his",
+                "a legion of young imps, yelping and racketing about the green in joy at their early emancipation",
+                "their",
+                "The gallant Ichabod",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "he",
+                "he",
+                "The animal he bestrode",
+                "its",
+                "The forests",
+                "their",
+                "The small birds",
+                "their",
+                "their",
+                "they",
+                "them",
+                "them",
+                "their",
+                "The sun",
+                "his",
+                "the adjacent country",
+                "the country",
+                "The sons, in short square-skirted coats, with rows of stupendous brass buttons",
+                "their",
+                "they",
+                "the dance",
+                "the dance",
+                "the dance",
+                "the neighborhood",
+                "This neighborhood",
+                "the war",
+                "the war",
+                "The British and American line",
+                "it",
+                "it",
+                "the hilt",
+                "the hilt",
+                "The neighborhood",
+                "the neighborhood",
+                "a contagion in the very air that blew from that haunted region",
+                "it",
+                "the Sleepy Hollow people",
+                "their",
+                "The sequestered situation of this church",
+                "it",
+                "It",
+                "its",
+                "the Headless Horseman",
+                "the Horseman",
+                "the Horseman",
+                "he",
+                "he",
+                "his",
+                "him",
+                "they",
+                "they",
+                "He",
+                "he",
+                "he",
+                "him",
+                "All these tales",
+                "them",
+                "He",
+                "his",
+                "his",
+                "he",
+                "his",
+                "The old farmers",
+                "their",
+                "their",
+                "Some of the damsels",
+                "their",
+                "their",
+                "they",
+                "these women",
+                "these women",
+                "he",
+                "he",
+                "his",
+                "he",
+                "the Tappan Zee",
+                "its",
+                "he",
+                "his",
+                "his",
+                "He",
+                "He",
+                "the stars",
+                "them",
+                "the tree",
+                "the tree",
+                "the tree",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his",
+                "The schoolmaster",
+                "his",
+                "his",
+                "he",
+                "The hair of the affrighted pedagogue",
+                "his",
+                "he",
+                "He",
+                "He",
+                "his",
+                "he",
+                "his",
+                "He",
+                "He",
+                "his",
+                "the shadowy object of alarm",
+                "itself",
+                "the road",
+                "the road",
+                "they",
+                "They",
+                "the road which turns off to Sleepy Hollow",
+                "This road",
+                "it",
+                "the steed",
+                "his",
+                "he",
+                "he",
+                "him",
+                "He",
+                "himself",
+                "he",
+                "his",
+                "the girths of the saddle",
+                "it",
+                "it",
+                "it",
+                "the saddle",
+                "the saddle",
+                "it",
+                "the goblin",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "the trees",
+                "the trees",
+                "the church bridge",
+                "that bridge",
+                "the bridge",
+                "the old horse",
+                "his",
+                "his",
+                "his",
+                "the road leading to the church",
+                "the road",
+                "the hat of the unfortunate Ichabod",
+                "it",
+                "They",
+                "they",
+                "The preceding tale",
+                "it",
+                "the ancient city of Manhattoes",
+                "its",
+                "The narrator",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "He",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "The cautious old gentleman",
+                "his",
+                "him",
+                "he",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "a contagion in the very air that blew from that haunted region",
+                "the pedagogue's mouth",
+                "the animal he bestrode",
+                "the churchyard",
+                "the bridge",
+                "the lady of his heart",
+                "itself",
+                "that bridge",
+                "the good people",
+                "the dance",
+                "the trees",
+                "the old farmers",
+                "this neighborhood",
+                "the valley",
+                "his",
+                "these women",
+                "its",
+                "the boding cry of the tree toad, that harbinger of storm, the dreary hooting of the screech owl, or the sudden rustling in the thicket of birds",
+                "the road",
+                "the country",
+                "some of the damsels",
+                "the preceding tale",
+                "the cautious old gentleman",
+                "the flail",
+                "the neighbors",
+                "the parson",
+                "the geese",
+                "the old horse",
+                "the hilt",
+                "the road which turns off to sleepy hollow",
+                "this obstinately pacific system",
+                "the narrator",
+                "the forests",
+                "them",
+                "a legion of young imps, yelping and racketing about the green in joy at their early emancipation",
+                "him",
+                "when a stripling, my first exploit in squirrel-shooting was in a grove of tall walnut-trees that shades one side of the valley",
+                "the sons, in short square-skirted coats, with rows of stupendous brass buttons",
+                "the gallant ichabod",
+                "himself",
+                "the sun",
+                "the schoolmaster",
+                "all the country damsels",
+                "a thief",
+                "the name of tarry town",
+                "the sleepy hollow people",
+                "the shadowy object of alarm",
+                "the horseman",
+                "her",
+                "his mouth",
+                "the sequestered situation of this church",
+                "the fact",
+                "the tree",
+                "it",
+                "the rod",
+                "the burden",
+                "the war",
+                "the lady",
+                "the steed",
+                "their",
+                "the place",
+                "the british and american line",
+                "the small birds",
+                "the good housewives of the adjacent country",
+                "the hat of the unfortunate ichabod",
+                "the stars",
+                "the girths of the saddle",
+                "the hair of the affrighted pedagogue",
+                "the labor of headwork",
+                "they",
+                "the farmyard",
+                "all the neighboring country",
+                "the saddle",
+                "this road",
+                "the old dutch wives",
+                "the ancient city of manhattoes",
+                "the cognomen of crane",
+                "the adjacent country",
+                "the tappan zee",
+                "this name",
+                "all these tales",
+                "the goblin",
+                "the mantelpiece",
+                "the neighborhood",
+                "the road leading to the church",
+                "he",
+                "the headless horseman",
+                "the church bridge",
+                "this little valley"
+            ],
+            "agent":[
+                {
+                    "[1, 0, 55]":"lie"
+                },
+                {
+                    "[1, 5, 235]":"recollect"
+                },
+                {
+                    "[1, 6, 268]":"wander"
+                },
+                {
+                    "[2, 4, 132]":"continue"
+                },
+                {
+                    "[3, 0, 8]":"abode"
+                },
+                {
+                    "[3, 1, 68]":"be"
+                },
+                {
+                    "[3, 2, 109]":"be"
+                },
+                {
+                    "[3, 3, 117]":"be"
+                },
+                {
+                    "[3, 5, 234]":"mistake"
+                },
+                {
+                    "[4, 1, 34]":"secure"
+                },
+                {
+                    "[4, 3, 155]":"hear"
+                },
+                {
+                    "[4, 4, 217]":"say"
+                },
+                {
+                    "[4, 6, 287]":"administer"
+                },
+                {
+                    "[4, 8, 379]":"do"
+                },
+                {
+                    "[4, 9, 434]":"be"
+                },
+                {
+                    "[4, 11, 499]":"be"
+                },
+                {
+                    "[4, 12, 570]":"live"
+                },
+                {
+                    "[4, 13, 634]":"have"
+                },
+                {
+                    "[4, 14, 646]":"assist"
+                },
+                {
+                    "[4, 15, 688]":"lay"
+                },
+                {
+                    "[4, 16, 721]":"find"
+                },
+                {
+                    "[4, 17, 783]":"be"
+                },
+                {
+                    "[4, 18, 846]":"carry"
+                },
+                {
+                    "[4, 21, 980]":"be"
+                },
+                {
+                    "[5, 0, 1]":"be"
+                },
+                {
+                    "[5, 4, 156]":"flutter"
+                },
+                {
+                    "[5, 8, 442]":"delight"
+                },
+                {
+                    "[5, 11, 591]":"with"
+                },
+                {
+                    "[5, 13, 641]":"shrink"
+                },
+                {
+                    "[5, 15, 720]":"be"
+                },
+                {
+                    "[5, 6, 299]":"be"
+                },
+                {
+                    "[5, 7, 361]":"be"
+                },
+                {
+                    "[6, 7, 267]":"skim"
+                },
+                {
+                    "[6, 11, 479]":"water"
+                },
+                {
+                    "[6, 12, 547]":"swim"
+                },
+                {
+                    "[7, 0, 11]":"be"
+                },
+                {
+                    "[7, 9, 471]":"give"
+                },
+                {
+                    "[8, 9, 386]":"look"
+                },
+                {
+                    "[11, 1, 122]":"leave"
+                },
+                {
+                    "[11, 3, 167]":"harry"
+                },
+                {
+                    "[12, 4, 187]":"interrupt"
+                },
+                {
+                    "[12, 5, 245]":"come"
+                },
+                {
+                    "[13, 0, 4]":"spend"
+                },
+                {
+                    "[13, 1, 67]":"borrow"
+                },
+                {
+                    "[13, 4, 143]":"be"
+                },
+                {
+                    "[13, 14, 504]":"put"
+                },
+                {
+                    "[13, 16, 588]":"take"
+                },
+                {
+                    "[13, 17, 601]":"flutter"
+                },
+                {
+                    "[14, 1, 41]":"wheel"
+                },
+                {
+                    "[15, 4, 146]":"queue"
+                },
+                {
+                    "[17, 5, 195]":"attract"
+                },
+                {
+                    "[17, 6, 246]":"be"
+                },
+                {
+                    "[17, 7, 279]":"be"
+                },
+                {
+                    "[17, 10, 382]":"be"
+                },
+                {
+                    "[18, 1, 17]":"be"
+                },
+                {
+                    "[19, 1, 42]":"breathe"
+                },
+                {
+                    "[20, 0, 6]":"seem"
+                },
+                {
+                    "[20, 1, 20]":"stand"
+                },
+                {
+                    "[20, 7, 296]":"throw"
+                },
+                {
+                    "[20, 9, 344]":"affirm"
+                },
+                {
+                    "[20, 10, 423]":"tell"
+                },
+                {
+                    "[20, 11, 465]":"repay"
+                },
+                {
+                    "[21, 1, 10]":"gather"
+                },
+                {
+                    "[21, 2, 40]":"mount"
+                },
+                {
+                    "[21, 12, 282]":"go"
+                },
+                {
+                    "[22, 2, 60]":"spread"
+                },
+                {
+                    "[23, 0, 16]":"crowd"
+                },
+                {
+                    "[23, 2, 51]":"feel"
+                },
+                {
+                    "[23, 3, 58]":"be"
+                },
+                {
+                    "[23, 1, 30]":"seem"
+                },
+                {
+                    "[25, 0, 13]":"summon"
+                },
+                {
+                    "[25, 2, 129]":"bestow"
+                },
+                {
+                    "[25, 4, 210]":"behold"
+                },
+                {
+                    "[26, 0, 6]":"rise"
+                },
+                {
+                    "[26, 3, 67]":"demand"
+                },
+                {
+                    "[26, 4, 79]":"receive"
+                },
+                {
+                    "[26, 5, 84]":"repeat"
+                },
+                {
+                    "[26, 7, 103]":"cudgel"
+                },
+                {
+                    "[26, 10, 179]":"appear"
+                },
+                {
+                    "[26, 11, 199]":"make"
+                },
+                {
+                    "[26, 8, 134]":"put"
+                },
+                {
+                    "[27, 9, 247]":"dash"
+                },
+                {
+                    "[27, 11, 295]":"reach"
+                },
+                {
+                    "[27, 12, 336]":"lead"
+                },
+                {
+                    "[27, 13, 384]":"give"
+                },
+                {
+                    "[27, 14, 425]":"seize"
+                },
+                {
+                    "[27, 17, 508]":"be"
+                },
+                {
+                    "[27, 18, 517]":"rider"
+                },
+                {
+                    "[27, 19, 524]":"have"
+                },
+                {
+                    "[28, 0, 6]":"cheer"
+                },
+                {
+                    "[30, 2, 37]":"consist"
+                },
+                {
+                    "[30, 3, 101]":"belong"
+                },
+                {
+                    "[31, 0, 4]":"give"
+                },
+                {
+                    "[31, 1, 77]":"make"
+                },
+                {
+                    "[31, 4, 173]":"be"
+                },
+                {
+                    "[31, 5, 216]":"lean"
+                },
+                {
+                    "[31, 8, 330]":"be"
+                },
+                {
+                    "[31, 11, 407]":"knit"
+                },
+                {
+                    "[31, 12, 450]":"observe"
+                }
+            ],
+            "patient":[
+                {
+                    "[1, 1, 89]":"give"
+                },
+                {
+                    "[1, 5, 235]":"recollect"
+                },
+                {
+                    "[2, 2, 75]":"say"
+                },
+                {
+                    "[2, 5, 164]":"give"
+                },
+                {
+                    "[3, 5, 234]":"mistake"
+                },
+                {
+                    "[4, 4, 217]":"say"
+                },
+                {
+                    "[4, 6, 287]":"administer"
+                },
+                {
+                    "[4, 8, 379]":"do"
+                },
+                {
+                    "[4, 10, 482]":"behoove"
+                },
+                {
+                    "[4, 11, 499]":"be"
+                },
+                {
+                    "[4, 13, 634]":"have"
+                },
+                {
+                    "[5, 3, 61]":"be"
+                },
+                {
+                    "[5, 5, 233]":"stream"
+                },
+                {
+                    "[5, 7, 361]":"be"
+                },
+                {
+                    "[5, 12, 617]":"appal"
+                },
+                {
+                    "[5, 14, 685]":"throw"
+                },
+                {
+                    "[5, 8, 442]":"delight"
+                },
+                {
+                    "[7, 7, 297]":"hang"
+                },
+                {
+                    "[7, 9, 471]":"give"
+                },
+                {
+                    "[13, 1, 67]":"borrow"
+                },
+                {
+                    "[20, 6, 210]":"be"
+                },
+                {
+                    "[20, 9, 344]":"affirm"
+                },
+                {
+                    "[20, 11, 465]":"repay"
+                },
+                {
+                    "[23, 1, 30]":"seem"
+                },
+                {
+                    "[23, 9, 274]":"pause"
+                },
+                {
+                    "[23, 11, 347]":"pass"
+                },
+                {
+                    "[26, 8, 134]":"put"
+                },
+                {
+                    "[27, 11, 295]":"reach"
+                },
+                {
+                    "[27, 14, 425]":"seize"
+                },
+                {
+                    "[27, 19, 524]":"have"
+                },
+                {
+                    "[28, 4, 82]":"be"
+                },
+                {
+                    "[29, 0, 7]":"find"
+                },
+                {
+                    "[31, 0, 4]":"give"
+                },
+                {
+                    "[31, 11, 407]":"knit"
+                }
+            ]
+        },
+        {
+            "mainName":"a small brook",
+            "mentions":[
+                "A small brook",
+                "it",
+                "a small brook",
+                "the brook"
+            ],
+            "aliases":[
+                "the brook",
+                "it",
+                "a small brook"
+            ],
+            "agent":[
+                {
+                    "[1, 4, 194]":"glide"
+                },
+                {
+                    "[24, 0, 11]":"cross"
+                },
+                {
+                    "[24, 2, 73]":"mat"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"this sequestered glen",
+            "mentions":[
+                "this sequestered glen",
+                "its",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "himself",
+                "his",
+                "his",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "him",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "He",
+                "his",
+                "he",
+                "his",
+                "he",
+                "He",
+                "his",
+                "his",
+                "he",
+                "him",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "himself",
+                "his",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "its",
+                "he",
+                "him",
+                "this sequestered glen"
+            ],
+            "agent":[
+                {
+                    "[2, 10, 426]":"ride"
+                },
+                {
+                    "[6, 10, 412]":"strut"
+                },
+                {
+                    "[6, 11, 479]":"water"
+                },
+                {
+                    "[6, 12, 547]":"swim"
+                },
+                {
+                    "[6, 13, 579]":"carve"
+                },
+                {
+                    "[6, 14, 598]":"beheld"
+                },
+                {
+                    "[6, 16, 659]":"fancy"
+                },
+                {
+                    "[9, 0, 16]":"be"
+                },
+                {
+                    "[9, 2, 62]":"make"
+                },
+                {
+                    "[13, 4, 143]":"be"
+                },
+                {
+                    "[13, 5, 194]":"lose"
+                },
+                {
+                    "[13, 6, 221]":"have"
+                },
+                {
+                    "[13, 7, 247]":"be"
+                },
+                {
+                    "[13, 8, 295]":"be"
+                },
+                {
+                    "[13, 20, 802]":"heap"
+                },
+                {
+                    "[13, 21, 816]":"beheld"
+                },
+                {
+                    "[14, 0, 15]":"journey"
+                },
+                {
+                    "[17, 8, 302]":"elapse"
+                },
+                {
+                    "[17, 10, 382]":"be"
+                },
+                {
+                    "[17, 11, 468]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[2, 0, 31]":"know"
+                },
+                {
+                    "[2, 10, 426]":"ride"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "the visionary propensity I have mentioned is not confined to the native inhabitants of the valley, but is unconsciously imbibed by every one who resides there for a time",
+                "they",
+                "they",
+                "they",
+                "her",
+                "her",
+                "the folks at a country gathering",
+                "they",
+                "This rantipole hero",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "he",
+                "He",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "jerk!--he",
+                "his",
+                "the motherly teapot",
+                "its",
+                "the admiration of all the negroes; who, having gathered, of all ages and sizes, from the farm and the neighborhood",
+                "their",
+                "an enormous tulip-tree, which towered like a giant above all the other trees of the neighborhood, and formed a kind of landmark",
+                "Its",
+                "It",
+                "it",
+                "its",
+                "it",
+                "it",
+                "others",
+                "they",
+                "them",
+                "they",
+                "their"
+            ],
+            "aliases":[
+                "this rantipole hero",
+                "her",
+                "their",
+                "the visionary propensity i have mentioned is not confined to the native inhabitants of the valley, but is unconsciously imbibed by every one who resides there for a time",
+                "others",
+                "jerk!--he",
+                "an enormous tulip-tree, which towered like a giant above all the other trees of the neighborhood, and formed a kind of landmark",
+                "they",
+                "the folks at a country gathering",
+                "it",
+                "them",
+                "his",
+                "the admiration of all the negroes; who, having gathered, of all ages and sizes, from the farm and the neighborhood",
+                "its",
+                "he",
+                "the motherly teapot"
+            ],
+            "agent":[
+                {
+                    "[2, 12, 527]":"be"
+                },
+                {
+                    "[2, 13, 567]":"be"
+                },
+                {
+                    "[2, 14, 576]":"be"
+                },
+                {
+                    "[8, 7, 268]":"distinguish"
+                },
+                {
+                    "[8, 10, 435]":"have"
+                },
+                {
+                    "[8, 13, 603]":"despair"
+                },
+                {
+                    "[8, 14, 622]":"be"
+                },
+                {
+                    "[8, 15, 660]":"be"
+                },
+                {
+                    "[8, 16, 664]":"be"
+                },
+                {
+                    "[16, 4, 214]":"bless"
+                },
+                {
+                    "[17, 2, 67]":"be"
+                },
+                {
+                    "[23, 4, 85]":"stand"
+                },
+                {
+                    "[23, 8, 240]":"be"
+                },
+                {
+                    "[30, 8, 306]":"call"
+                }
+            ],
+            "patient":[
+                {
+                    "[2, 12, 527]":"be"
+                },
+                {
+                    "[6, 0, 2]":"have"
+                },
+                {
+                    "[23, 4, 85]":"stand"
+                },
+                {
+                    "[23, 6, 145]":"connect"
+                },
+                {
+                    "[23, 7, 179]":"regard"
+                },
+                {
+                    "[30, 8, 306]":"call"
+                }
+            ]
+        },
+        {
+            "mainName":"this spectre",
+            "mentions":[
+                "this spectre",
+                "the spectre",
+                "no spectre",
+                "its",
+                "it",
+                "a bridge over this stream",
+                "this bridge",
+                "It"
+            ],
+            "aliases":[
+                "no spectre",
+                "a bridge over this stream",
+                "this bridge",
+                "it",
+                "its",
+                "this spectre",
+                "the spectre"
+            ],
+            "agent":[
+                {
+                    "[5, 9, 561]":"purchase"
+                },
+                {
+                    "[24, 4, 98]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[2, 10, 426]":"ride"
+                },
+                {
+                    "[2, 11, 480]":"be"
+                },
+                {
+                    "[5, 9, 561]":"purchase"
+                },
+                {
+                    "[24, 3, 92]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"manners, and customs",
+            "mentions":[
+                "manners, and customs",
+                "them",
+                "They",
+                "their",
+                "man",
+                "his",
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "their",
+                "they",
+                "them",
+                "his",
+                "man",
+                "he",
+                "manners, and customs"
+            ],
+            "agent":[
+                {
+                    "[2, 16, 679]":"be"
+                },
+                {
+                    "[10, 4, 105]":"entitled"
+                }
+            ],
+            "patient":[
+                {
+                    "[10, 4, 105]":"entitled"
+                }
+            ]
+        },
+        {
+            "mainName":"as well",
+            "mentions":[
+                "as well",
+                "its",
+                "his wealth",
+                "it"
+            ],
+            "aliases":[
+                "as well",
+                "its",
+                "it",
+                "his wealth"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"his schoolhouse",
+            "mentions":[
+                "His schoolhouse",
+                "It",
+                "The schoolhouse",
+                "house",
+                "house",
+                "the schoolhouse",
+                "its",
+                "his scholars",
+                "their",
+                "them",
+                "The scholars",
+                "their",
+                "the books and furniture of the schoolhouse",
+                "These magic books and the poetic scrawl"
+            ],
+            "aliases":[
+                "the scholars",
+                "his scholars",
+                "their",
+                "the schoolhouse",
+                "the books and furniture of the schoolhouse",
+                "it",
+                "them",
+                "his schoolhouse",
+                "its",
+                "house",
+                "these magic books and the poetic scrawl"
+            ],
+            "agent":[
+                {
+                    "[4, 0, 19]":"glaze"
+                },
+                {
+                    "[4, 2, 99]":"stand"
+                },
+                {
+                    "[30, 4, 171]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[4, 1, 34]":"secure"
+                },
+                {
+                    "[12, 7, 364]":"skip"
+                }
+            ]
+        },
+        {
+            "mainName":"his pupils'",
+            "mentions":[
+                "his pupils'",
+                "their"
+            ],
+            "aliases":[
+                "his pupils'",
+                "their"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"a chastisement",
+            "mentions":[
+                "a chastisement",
+                "it",
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it",
+                "a chastisement"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[4, 8, 379]":"do"
+                }
+            ]
+        },
+        {
+            "mainName":"he was a huge feeder, and, though lank, had the dilating powers of an anaconda; but to help out his maintenance, he was, according to country custom in those parts, boarded and lodged at the houses of the farmers whose children he instructed",
+            "mentions":[
+                "he was a huge feeder, and, though lank, had the dilating powers of an anaconda; but to help out his maintenance, he was, according to country custom in those parts, boarded and lodged at the houses of the farmers whose children he instructed",
+                "these",
+                "the farmers whose children he instructed",
+                "the farmers",
+                "their"
+            ],
+            "aliases":[
+                "their",
+                "the farmers whose children he instructed",
+                "the farmers",
+                "these",
+                "he was a huge feeder, and, though lank, had the dilating powers of an anaconda; but to help out his maintenance, he was, according to country custom in those parts, boarded and lodged at the houses of the farmers whose children he instructed"
+            ],
+            "agent":[
+                {
+                    "[4, 11, 499]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[4, 11, 499]":"be"
+                },
+                {
+                    "[4, 14, 646]":"assist"
+                }
+            ]
+        },
+        {
+            "mainName":"our man of letters",
+            "mentions":[
+                "Our man of letters",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "He",
+                "he",
+                "he",
+                "No tale",
+                "It"
+            ],
+            "aliases":[
+                "no tale",
+                "our man of letters",
+                "it",
+                "his",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[4, 23, 1081]":"be"
+                },
+                {
+                    "[4, 24, 1096]":"figure"
+                },
+                {
+                    "[4, 25, 1178]":"be"
+                },
+                {
+                    "[4, 26, 1208]":"be"
+                },
+                {
+                    "[5, 2, 50]":"be"
+                },
+                {
+                    "[5, 3, 61]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "She",
+                "her",
+                "bush",
+                "bush"
+            ],
+            "aliases":[
+                "bush",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[5, 17, 870]":"be"
+                },
+                {
+                    "[5, 18, 914]":"be"
+                },
+                {
+                    "[5, 19, 951]":"wear"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"ichabod crane",
+            "mentions":[
+                "Ichabod Crane",
+                "his",
+                "he",
+                "Ichabod",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "he",
+                "his",
+                "him",
+                "Ichabod",
+                "his",
+                "he",
+                "Ichabod",
+                "his",
+                "Ichabod Crane",
+                "his",
+                "his",
+                "him",
+                "Ichabod",
+                "his",
+                "him",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "him",
+                "his",
+                "his",
+                "Ichabod",
+                "his",
+                "his",
+                "his",
+                "Ichabod",
+                "Ichabod",
+                "he",
+                "his",
+                "his",
+                "he",
+                "him",
+                "Ichabod",
+                "He",
+                "his",
+                "his",
+                "he",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "his",
+                "Ichabod",
+                "his",
+                "Ichabod",
+                "he",
+                "Ichabod Crane",
+                "his",
+                "He",
+                "his",
+                "He",
+                "his",
+                "him",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "him",
+                "Ichabod",
+                "himself",
+                "his",
+                "his",
+                "him",
+                "his",
+                "He",
+                "his",
+                "his",
+                "his",
+                "himself",
+                "Ichabod",
+                "he",
+                "he",
+                "Ichabod",
+                "Ichabod",
+                "his",
+                "he",
+                "himself",
+                "him",
+                "he",
+                "his",
+                "his",
+                "him",
+                "his",
+                "Ichabod",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "He",
+                "him",
+                "Ichabod",
+                "His",
+                "him",
+                "he",
+                "his",
+                "his",
+                "his",
+                "he",
+                "his",
+                "Ichabod",
+                "he",
+                "his",
+                "his",
+                "him",
+                "his",
+                "His",
+                "he",
+                "his",
+                "him",
+                "he",
+                "his",
+                "his",
+                "his",
+                "Ichabod",
+                "Ichabod",
+                "Ichabod",
+                "It",
+                "his",
+                "Ichabod",
+                "his",
+                "no Ichabod",
+                "Ichabod",
+                "he",
+                "his",
+                "him",
+                "his",
+                "Ichabod Crane",
+                "he",
+                "he",
+                "his",
+                "his",
+                "he",
+                "he",
+                "Ichabod",
+                "Ichabod",
+                "it"
+            ],
+            "aliases":[
+                "no ichabod",
+                "ichabod",
+                "it",
+                "his",
+                "himself",
+                "he",
+                "him",
+                "ichabod crane"
+            ],
+            "agent":[
+                {
+                    "[6, 0, 2]":"have"
+                },
+                {
+                    "[7, 8, 344]":"be"
+                },
+                {
+                    "[7, 9, 471]":"give"
+                },
+                {
+                    "[7, 10, 487]":"have"
+                },
+                {
+                    "[9, 6, 259]":"carry"
+                },
+                {
+                    "[10, 5, 132]":"be"
+                },
+                {
+                    "[11, 0, 16]":"carry"
+                },
+                {
+                    "[11, 2, 151]":"become"
+                },
+                {
+                    "[12, 1, 36]":"sit"
+                },
+                {
+                    "[12, 2, 60]":"sway"
+                },
+                {
+                    "[13, 9, 313]":"be"
+                },
+                {
+                    "[13, 10, 351]":"carry"
+                },
+                {
+                    "[15, 0, 1]":"be"
+                },
+                {
+                    "[16, 6, 246]":"be"
+                },
+                {
+                    "[16, 7, 266]":"be"
+                },
+                {
+                    "[16, 8, 305]":"help"
+                },
+                {
+                    "[16, 9, 313]":"round"
+                },
+                {
+                    "[16, 10, 359]":"snap"
+                },
+                {
+                    "[17, 0, 1]":"pride"
+                },
+                {
+                    "[17, 2, 67]":"be"
+                },
+                {
+                    "[21, 3, 93]":"linger"
+                },
+                {
+                    "[21, 5, 154]":"fear"
+                },
+                {
+                    "[21, 11, 236]":"steal"
+                },
+                {
+                    "[22, 0, 1]":"be"
+                },
+                {
+                    "[22, 3, 98]":"hear"
+                },
+                {
+                    "[23, 8, 240]":"be"
+                },
+                {
+                    "[23, 9, 274]":"pause"
+                },
+                {
+                    "[23, 10, 326]":"be"
+                },
+                {
+                    "[23, 11, 347]":"pass"
+                },
+                {
+                    "[27, 2, 51]":"pull"
+                },
+                {
+                    "[27, 3, 78]":"endeavor"
+                },
+                {
+                    "[27, 6, 163]":"be"
+                },
+                {
+                    "[27, 8, 211]":"rain"
+                },
+                {
+                    "[27, 10, 266]":"flutter"
+                },
+                {
+                    "[28, 4, 82]":"be"
+                },
+                {
+                    "[28, 6, 133]":"gain"
+                },
+                {
+                    "[28, 8, 189]":"endeavor"
+                },
+                {
+                    "[28, 9, 201]":"encounter"
+                },
+                {
+                    "[29, 1, 42]":"come"
+                },
+                {
+                    "[30, 9, 353]":"be"
+                },
+                {
+                    "[30, 10, 393]":"be"
+                },
+                {
+                    "[30, 11, 535]":"conduct"
+                },
+                {
+                    "[30, 12, 607]":"maintain"
+                }
+            ],
+            "patient":[
+                {
+                    "[11, 0, 16]":"carry"
+                },
+                {
+                    "[12, 2, 60]":"sway"
+                },
+                {
+                    "[16, 9, 313]":"round"
+                },
+                {
+                    "[16, 10, 359]":"snap"
+                },
+                {
+                    "[17, 0, 1]":"pride"
+                },
+                {
+                    "[30, 8, 306]":"call"
+                },
+                {
+                    "[30, 12, 607]":"maintain"
+                }
+            ]
+        },
+        {
+            "mainName":"old baltus van tassel",
+            "mentions":[
+                "Old Baltus Van Tassel",
+                "He",
+                "his",
+                "his",
+                "his",
+                "He",
+                "his",
+                "himself",
+                "he",
+                "His",
+                "Balt Van Tassel",
+                "he",
+                "his",
+                "his",
+                "His",
+                "Old Baltus Van Tassel",
+                "his",
+                "His",
+                "The musician",
+                "His",
+                "himself",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "balt van tassel",
+                "old baltus van tassel",
+                "his",
+                "himself",
+                "the musician",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[6, 1, 48]":"be"
+                },
+                {
+                    "[6, 2, 67]":"be"
+                },
+                {
+                    "[6, 3, 99]":"be"
+                },
+                {
+                    "[9, 3, 107]":"love"
+                },
+                {
+                    "[16, 11, 396]":"move"
+                },
+                {
+                    "[16, 14, 483]":"be"
+                },
+                {
+                    "[16, 16, 519]":"part"
+                }
+            ],
+            "patient":[
+                {
+                    "[6, 3, 99]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"a great elm tree",
+            "mentions":[
+                "A great elm tree",
+                "its",
+                "it"
+            ],
+            "aliases":[
+                "its",
+                "a great elm tree",
+                "it"
+            ],
+            "agent":[
+                {
+                    "[6, 5, 164]":"spread"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"some with one eye",
+            "mentions":[
+                "some with one eye",
+                "their",
+                "their",
+                "their",
+                "their",
+                "one eye",
+                "its"
+            ],
+            "aliases":[
+                "one eye",
+                "its",
+                "some with one eye",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[6, 7, 267]":"skim"
+                },
+                {
+                    "[13, 5, 194]":"lose"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"sleek unwieldy porkers",
+            "mentions":[
+                "Sleek unwieldy porkers",
+                "their"
+            ],
+            "aliases":[
+                "sleek unwieldy porkers",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[6, 8, 329]":"grunt"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"ill-tempered housewives",
+            "mentions":[
+                "ill-tempered housewives",
+                "their"
+            ],
+            "aliases":[
+                "ill-tempered housewives",
+                "their"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"its",
+            "mentions":[
+                "its",
+                "its",
+                "its pupil",
+                "it",
+                "its",
+                "its"
+            ],
+            "aliases":[
+                "its pupil",
+                "its",
+                "it"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[13, 5, 194]":"lose"
+                }
+            ]
+        },
+        {
+            "mainName":"nay",
+            "mentions":[
+                "Nay",
+                "his",
+                "his",
+                "him",
+                "he",
+                "himself"
+            ],
+            "aliases":[
+                "his",
+                "himself",
+                "nay",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[6, 17, 764]":"realize"
+                }
+            ],
+            "patient":[
+                {
+                    "[6, 17, 764]":"realize"
+                }
+            ]
+        },
+        {
+            "mainName":"abraham",
+            "mentions":[
+                "Abraham",
+                "his",
+                "He",
+                "his",
+                "he",
+                "he",
+                "He",
+                "He",
+                "his",
+                "his",
+                "He",
+                "his",
+                "his",
+                "He",
+                "him",
+                "he",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "abraham",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[8, 1, 51]":"be"
+                },
+                {
+                    "[8, 2, 94]":"receive"
+                },
+                {
+                    "[8, 4, 129]":"be"
+                },
+                {
+                    "[8, 5, 184]":"be"
+                },
+                {
+                    "[8, 6, 227]":"have"
+                }
+            ],
+            "patient":[
+                {
+                    "[8, 2, 94]":"receive"
+                },
+                {
+                    "[8, 3, 110]":"fame"
+                },
+                {
+                    "[8, 6, 227]":"have"
+                },
+                {
+                    "[8, 7, 268]":"distinguish"
+                }
+            ]
+        },
+        {
+            "mainName":"his crew",
+            "mentions":[
+                "his crew",
+                "their",
+                "this church",
+                "the church",
+                "the church"
+            ],
+            "aliases":[
+                "this church",
+                "the church",
+                "his crew",
+                "their"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[8, 8, 322]":"hear"
+                }
+            ]
+        },
+        {
+            "mainName":"brom bones",
+            "mentions":[
+                "Brom Bones",
+                "his",
+                "him",
+                "Brom Bones",
+                "it",
+                "Brom",
+                "Brom",
+                "him",
+                "his",
+                "he",
+                "Brom Bones",
+                "his",
+                "himself",
+                "himself",
+                "He",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "brom bones",
+                "him",
+                "it",
+                "his",
+                "himself",
+                "he",
+                "brom"
+            ],
+            "agent":[
+                {
+                    "[8, 9, 386]":"look"
+                },
+                {
+                    "[11, 4, 237]":"take"
+                },
+                {
+                    "[15, 5, 188]":"be"
+                },
+                {
+                    "[15, 6, 233]":"note"
+                }
+            ],
+            "patient":[
+                {
+                    "[8, 8, 322]":"hear"
+                },
+                {
+                    "[11, 1, 122]":"leave"
+                },
+                {
+                    "[11, 4, 237]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"his daughter",
+            "mentions":[
+                "his daughter",
+                "her",
+                "her",
+                "the daughter"
+            ],
+            "aliases":[
+                "his daughter",
+                "the daughter",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[9, 3, 107]":"love"
+                }
+            ],
+            "patient":[
+                {
+                    "[9, 3, 107]":"love"
+                }
+            ]
+        },
+        {
+            "mainName":"his notable little wife",
+            "mentions":[
+                "His notable little wife",
+                "her",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "his notable little wife",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[9, 4, 166]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"girls",
+            "mentions":[
+                "girls",
+                "themselves",
+                "that girl",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "themselves",
+                "that girl",
+                "girls",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[9, 4, 166]":"be"
+                },
+                {
+                    "[21, 8, 195]":"play"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"honest balt",
+            "mentions":[
+                "honest Balt",
+                "his"
+            ],
+            "aliases":[
+                "honest balt",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[9, 5, 211]":"sit"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"women's hearts",
+            "mentions":[
+                "women's hearts",
+                "they"
+            ],
+            "aliases":[
+                "women's hearts",
+                "they"
+            ],
+            "agent":[
+                {
+                    "[10, 0, 1]":"profess"
+                },
+                {
+                    "[10, 1, 19]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"warfare",
+            "mentions":[
+                "warfare",
+                "their"
+            ],
+            "aliases":[
+                "their",
+                "warfare"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[11, 0, 16]":"carry"
+                }
+            ]
+        },
+        {
+            "mainName":"justice",
+            "mentions":[
+                "justice",
+                "his"
+            ],
+            "aliases":[
+                "justice",
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"those who were tardy",
+            "mentions":[
+                "those who were tardy",
+                "their",
+                "them"
+            ],
+            "aliases":[
+                "them",
+                "those who were tardy",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[12, 7, 364]":"skip"
+                }
+            ],
+            "patient":[
+                {
+                    "[12, 7, 364]":"skip"
+                }
+            ]
+        },
+        {
+            "mainName":"files of wild ducks",
+            "mentions":[
+                "files of wild ducks",
+                "their"
+            ],
+            "aliases":[
+                "files of wild ducks",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[13, 15, 558]":"hear"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"indian corn",
+            "mentions":[
+                "Indian corn",
+                "its"
+            ],
+            "aliases":[
+                "indian corn",
+                "its"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"a sloop",
+            "mentions":[
+                "A sloop",
+                "her",
+                "the vessel",
+                "A gentle slope",
+                "it"
+            ],
+            "aliases":[
+                "her",
+                "a sloop",
+                "the vessel",
+                "it",
+                "a gentle slope"
+            ],
+            "agent":[
+                {
+                    "[14, 6, 165]":"loiter"
+                },
+                {
+                    "[20, 2, 59]":"descend"
+                }
+            ],
+            "patient":[
+                {
+                    "[14, 6, 165]":"loiter"
+                }
+            ]
+        },
+        {
+            "mainName":"buxom",
+            "mentions":[
+                "Buxom",
+                "their"
+            ],
+            "aliases":[
+                "buxom",
+                "their"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"fain",
+            "mentions":[
+                "Fain",
+                "he"
+            ],
+            "aliases":[
+                "fain",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[16, 0, 3]":"pause"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"dutch",
+            "mentions":[
+                "Dutch",
+                "Dutch"
+            ],
+            "aliases":[
+                "dutch"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"higgledy-piggledy",
+            "mentions":[
+                "higgledy-piggledy",
+                "them"
+            ],
+            "aliases":[
+                "higgledy-piggledy",
+                "them"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[16, 4, 214]":"bless"
+                }
+            ]
+        },
+        {
+            "mainName":"his hospitable attentions",
+            "mentions":[
+                "His hospitable attentions",
+                "themselves"
+            ],
+            "aliases":[
+                "themselves",
+                "his hospitable attentions"
+            ],
+            "agent":[
+                {
+                    "[16, 12, 422]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[16, 12, 422]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"no encouragement for ghosts in most of our villages",
+            "mentions":[
+                "no encouragement for ghosts in most of our villages",
+                "they",
+                "their",
+                "themselves",
+                "their",
+                "their",
+                "they",
+                "their",
+                "they"
+            ],
+            "aliases":[
+                "themselves",
+                "no encouragement for ghosts in most of our villages",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[18, 3, 64]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[18, 3, 64]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"a wooden bridge",
+            "mentions":[
+                "a wooden bridge",
+                "the bridge",
+                "the bridge",
+                "the bridge",
+                "the bridge"
+            ],
+            "aliases":[
+                "a wooden bridge",
+                "the bridge"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[20, 5, 184]":"shade"
+                },
+                {
+                    "[20, 7, 296]":"throw"
+                }
+            ]
+        },
+        {
+            "mainName":"wild grape-vines",
+            "mentions":[
+                "wild grape-vines",
+                "it"
+            ],
+            "aliases":[
+                "wild grape-vines",
+                "it"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"himself",
+            "mentions":[
+                "himself",
+                "his",
+                "him",
+                "his",
+                "him",
+                "him",
+                "he",
+                "He",
+                "He",
+                "he",
+                "him",
+                "he",
+                "he",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[28, 1, 32]":"tell"
+                },
+                {
+                    "[28, 2, 41]":"see"
+                },
+                {
+                    "[28, 3, 55]":"recollect"
+                },
+                {
+                    "[28, 5, 102]":"fancy"
+                },
+                {
+                    "[28, 6, 133]":"gain"
+                },
+                {
+                    "[28, 7, 168]":"see"
+                }
+            ],
+            "patient":[
+                {
+                    "[27, 0, 27]":"quicken"
+                },
+                {
+                    "[28, 0, 6]":"cheer"
+                },
+                {
+                    "[28, 1, 32]":"tell"
+                }
+            ]
+        },
+        {
+            "mainName":"hans van ripper's",
+            "mentions":[
+                "Hans Van Ripper's",
+                "his",
+                "his",
+                "Hans Van Ripper",
+                "his",
+                "his",
+                "Hans Van Ripper",
+                "his",
+                "Hans Van Ripper as executor of his estate",
+                "his",
+                "Hans Van Ripper",
+                "his",
+                "he",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "hans van ripper",
+                "hans van ripper as executor of his estate",
+                "his",
+                "hans van ripper's",
+                "he"
+            ],
+            "agent":[
+                {
+                    "[29, 3, 73]":"begin"
+                },
+                {
+                    "[30, 1, 26]":"examine"
+                },
+                {
+                    "[30, 4, 171]":"be"
+                },
+                {
+                    "[30, 5, 218]":"possess"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his saddle",
+            "mentions":[
+                "his saddle",
+                "his saddle",
+                "the saddle"
+            ],
+            "aliases":[
+                "the saddle",
+                "his saddle"
+            ],
+            "agent":[
+                {
+                    "[29, 5, 132]":"dent"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his story",
+            "mentions":[
+                "his story",
+                "the story",
+                "the story",
+                "the story-teller",
+                "it"
+            ],
+            "aliases":[
+                "the story",
+                "the story-teller",
+                "it",
+                "his story"
+            ],
+            "agent":[
+                {
+                    "[31, 13, 489]":"reply"
+                }
+            ],
+            "patient":[
+                {
+                    "[31, 2, 91]":"be"
+                },
+                {
+                    "[31, 6, 296]":"look"
+                }
+            ]
+        },
+        {
+            "mainName":"your wary men, who never laugh",
+            "mentions":[
+                "your wary men, who never laugh",
+                "they",
+                "their"
+            ],
+            "aliases":[
+                "your wary men, who never laugh",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[31, 4, 173]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"a glass of wine",
+            "mentions":[
+                "a glass of wine",
+                "the glass"
+            ],
+            "aliases":[
+                "a glass of wine",
+                "the glass"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[31, 6, 296]":"look"
+                }
+            ]
+        }
+    ]
+}

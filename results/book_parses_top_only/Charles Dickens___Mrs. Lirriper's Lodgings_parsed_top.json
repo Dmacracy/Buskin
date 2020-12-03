@@ -1,0 +1,456 @@
+{
+    "fileName":"Charles Dickens___Mrs. Lirriper's Lodgings.txt",
+    "numPars":15,
+    "characters":[
+        {
+            "mainName":"the major",
+            "mentions":[
+                "the Major",
+                "the Major",
+                "the Major",
+                "the Major",
+                "the Major",
+                "The Major",
+                "the Major",
+                "the Major",
+                "the Major",
+                "they",
+                "their",
+                "their",
+                "the Major",
+                "The Major",
+                "the Major",
+                "the Major",
+                "they",
+                "the Major",
+                "it",
+                "the Major"
+            ],
+            "aliases":[
+                "it",
+                "the major",
+                "they",
+                "their"
+            ],
+            "agent":[
+                {
+                    "[12, 26, 544]":"fall"
+                },
+                {
+                    "[12, 27, 554]":"take"
+                },
+                {
+                    "[12, 29, 608]":"come"
+                },
+                {
+                    "[12, 31, 682]":"shake"
+                },
+                {
+                    "[12, 34, 734]":"be"
+                },
+                {
+                    "[12, 37, 758]":"make"
+                },
+                {
+                    "[12, 45, 843]":"say"
+                },
+                {
+                    "[12, 50, 952]":"move"
+                },
+                {
+                    "[12, 60, 1091]":"be"
+                },
+                {
+                    "[12, 65, 1214]":"write"
+                },
+                {
+                    "[12, 69, 1264]":"say"
+                },
+                {
+                    "[12, 70, 1310]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[12, 46, 863]":"\""
+                },
+                {
+                    "[12, 65, 1214]":"write"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "Madam",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "She",
+                "she",
+                "her",
+                "She",
+                "she",
+                "She",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "She",
+                "her",
+                "her",
+                "She",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "she",
+                "me",
+                "her",
+                "her",
+                "me"
+            ],
+            "aliases":[
+                "madam",
+                "she",
+                "me",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[7, 31, 674]":"sound"
+                },
+                {
+                    "[7, 34, 811]":"slip"
+                },
+                {
+                    "[7, 37, 866]":"say"
+                },
+                {
+                    "[7, 38, 888]":"bless"
+                },
+                {
+                    "[7, 39, 892]":"say"
+                },
+                {
+                    "[7, 43, 949]":"be"
+                },
+                {
+                    "[7, 51, 1184]":"see"
+                },
+                {
+                    "[7, 55, 1270]":"make"
+                },
+                {
+                    "[7, 58, 1313]":"see"
+                },
+                {
+                    "[7, 59, 1319]":"be"
+                },
+                {
+                    "[7, 60, 1376]":"keep"
+                },
+                {
+                    "[7, 62, 1425]":"be"
+                },
+                {
+                    "[7, 63, 1443]":"strike"
+                },
+                {
+                    "[7, 64, 1467]":"go"
+                },
+                {
+                    "[7, 66, 1523]":"look"
+                },
+                {
+                    "[7, 68, 1565]":"follow"
+                },
+                {
+                    "[7, 69, 1573]":"be"
+                },
+                {
+                    "[7, 70, 1588]":"be"
+                },
+                {
+                    "[7, 71, 1618]":"arch"
+                },
+                {
+                    "[7, 72, 1639]":"fly"
+                },
+                {
+                    "[7, 73, 1645]":"be"
+                },
+                {
+                    "[7, 76, 1695]":"feel"
+                }
+            ],
+            "patient":[
+                {
+                    "[7, 31, 674]":"sound"
+                },
+                {
+                    "[7, 33, 779]":"know"
+                },
+                {
+                    "[7, 45, 975]":"leave"
+                },
+                {
+                    "[7, 54, 1265]":"go"
+                },
+                {
+                    "[7, 60, 1376]":"keep"
+                },
+                {
+                    "[7, 68, 1565]":"follow"
+                },
+                {
+                    "[7, 75, 1659]":"see"
+                },
+                {
+                    "[7, 77, 1715]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"mrs. edson major\" i says",
+            "mentions":[
+                "Mrs. Edson Major\" I says",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "She",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "She",
+                "her",
+                "She",
+                "her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "She",
+                "her",
+                "mine",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "She",
+                "She",
+                "her",
+                "She",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "me",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "her",
+                "mine",
+                "me",
+                "mrs. edson major\" i says",
+                "she"
+            ],
+            "agent":[
+                {
+                    "[8, 22, 236]":"miss"
+                },
+                {
+                    "[8, 30, 321]":"know"
+                },
+                {
+                    "[8, 33, 351]":"be"
+                },
+                {
+                    "[8, 35, 454]":"know"
+                },
+                {
+                    "[8, 36, 474]":"lay"
+                },
+                {
+                    "[8, 38, 522]":"give"
+                },
+                {
+                    "[8, 43, 573]":"lay"
+                },
+                {
+                    "[8, 44, 614]":"say"
+                },
+                {
+                    "[8, 51, 656]":"have"
+                },
+                {
+                    "[8, 53, 729]":"use"
+                },
+                {
+                    "[8, 54, 778]":"have"
+                },
+                {
+                    "[8, 55, 818]":"meet"
+                },
+                {
+                    "[8, 56, 862]":"be"
+                },
+                {
+                    "[8, 60, 952]":"nod"
+                },
+                {
+                    "[8, 63, 995]":"look"
+                },
+                {
+                    "[8, 65, 1011]":"shake"
+                },
+                {
+                    "[8, 68, 1025]":"shake"
+                },
+                {
+                    "[8, 74, 1136]":"say"
+                },
+                {
+                    "[8, 77, 1190]":"take"
+                }
+            ],
+            "patient":[
+                {
+                    "[8, 31, 340]":"get"
+                },
+                {
+                    "[8, 33, 351]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "his",
+                "his",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[13, 96, 1720]":"Bobbo"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"caroline",
+            "mentions":[
+                "Caroline",
+                "Caroline",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "Caroline",
+                "she",
+                "she",
+                "her",
+                "she",
+                "she",
+                "she",
+                "Caroline"
+            ],
+            "aliases":[
+                "she",
+                "her",
+                "caroline"
+            ],
+            "agent":[
+                {
+                    "[3, 30, 852]":"come"
+                },
+                {
+                    "[3, 31, 856]":"say"
+                },
+                {
+                    "[3, 33, 920]":"say"
+                },
+                {
+                    "[3, 34, 958]":"laugh"
+                },
+                {
+                    "[3, 37, 1011]":"get"
+                }
+            ],
+            "patient":[
+                {
+                    "[3, 34, 958]":"laugh"
+                }
+            ]
+        }
+    ]
+}

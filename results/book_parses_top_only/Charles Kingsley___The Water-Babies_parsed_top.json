@@ -1,0 +1,94 @@
+{
+    "fileName":"Charles Kingsley___The Water-Babies.txt",
+    "numPars":79,
+    "characters":[
+        {
+            "mainName":"tom",
+            "mentions":[
+                "Tom",
+                "Tom",
+                "Tom",
+                "Tom"
+            ],
+            "aliases":[
+                "tom"
+            ],
+            "agent":[
+                {
+                    "[78, 42, 854]":"go"
+                },
+                {
+                    "[78, 44, 964]":"marry"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[78, 10, 279]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "they",
+                "they"
+            ],
+            "aliases":[
+                "they"
+            ],
+            "agent":[
+                {
+                    "[78, 63, 1594]":"with"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[78, 67, 1750]":"remember"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"ellie",
+            "mentions":[
+                "Ellie",
+                "Ellie",
+                "Ellie",
+                "Ellie"
+            ],
+            "aliases":[
+                "ellie"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[78, 44, 964]":"marry"
+                }
+            ]
+        }
+    ]
+}

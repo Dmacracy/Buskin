@@ -1,0 +1,156 @@
+{
+    "fileName":"Wilkie Collins___The Law and the Lady.txt",
+    "numPars":557,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "him",
+                "his",
+                "him",
+                "He",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[541, 0, 1]":"start"
+                },
+                {
+                    "[541, 3, 23]":"return"
+                },
+                {
+                    "[541, 5, 48]":"consent"
+                }
+            ],
+            "patient":[
+                {
+                    "[541, 1, 5]":"take"
+                }
+            ]
+        },
+        {
+            "mainName":"eustace",
+            "mentions":[
+                "Eustace",
+                "He",
+                "his",
+                "he",
+                "himself",
+                "his",
+                "him",
+                "him",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "eustace",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[556, 44, 661]":"go"
+                },
+                {
+                    "[556, 45, 687]":"wait"
+                },
+                {
+                    "[556, 48, 733]":"lay"
+                }
+            ],
+            "patient":[
+                {
+                    "[556, 46, 699]":"see"
+                }
+            ]
+        },
+        {
+            "mainName":"miserrimus dexter",
+            "mentions":[
+                "Miserrimus Dexter",
+                "his"
+            ],
+            "aliases":[
+                "miserrimus dexter",
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"me",
+            "mentions":[
+                "me",
+                "me",
+                "me",
+                "myself"
+            ],
+            "aliases":[
+                "me",
+                "myself"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[552, 30, 637]":"know"
+                }
+            ]
+        },
+        {
+            "mainName":"my husband",
+            "mentions":[
+                "my husband",
+                "He",
+                "his",
+                "He",
+                "he",
+                "his",
+                "he",
+                "him",
+                "his",
+                "his",
+                "my husband",
+                "him",
+                "his",
+                "He",
+                "him",
+                "his",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "my husband",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[555, 2, 40]":"know"
+                },
+                {
+                    "[555, 3, 84]":"be"
+                },
+                {
+                    "[555, 5, 187]":"have"
+                },
+                {
+                    "[555, 6, 215]":"wait"
+                }
+            ],
+            "patient":[
+                {
+                    "[555, 1, 25]":"inform"
+                }
+            ]
+        }
+    ]
+}

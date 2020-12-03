@@ -1,0 +1,193 @@
+{
+    "fileName":"Jack London___The Sea-Wolf.txt",
+    "numPars":443,
+    "characters":[
+        {
+            "mainName":"wolf larsen",
+            "mentions":[
+                "Wolf Larsen",
+                "Wolf Larsen",
+                "Wolf Larsen"
+            ],
+            "aliases":[
+                "wolf larsen"
+            ],
+            "agent":[
+                {
+                    "[442, 6, 154]":"look"
+                }
+            ],
+            "patient":[
+                {
+                    "[442, 1, 43]":"blow"
+                }
+            ]
+        },
+        {
+            "mainName":"maud",
+            "mentions":[
+                "she",
+                "her",
+                "her",
+                "Maud",
+                "me",
+                "me",
+                "Maud",
+                "her",
+                "Maud",
+                "her",
+                "Maud",
+                "her",
+                "her",
+                "she",
+                "Her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "maud",
+                "me",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[442, 3, 75]":"smote"
+                },
+                {
+                    "[442, 6, 154]":"look"
+                },
+                {
+                    "[442, 10, 243]":"whisper"
+                },
+                {
+                    "[442, 17, 426]":"say"
+                },
+                {
+                    "[442, 26, 515]":"answer"
+                },
+                {
+                    "[442, 27, 538]":"meet"
+                },
+                {
+                    "[442, 29, 627]":"say"
+                },
+                {
+                    "[442, 35, 701]":"rescue"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "us",
+                "We"
+            ],
+            "aliases":[
+                "we",
+                "us"
+            ],
+            "agent":[
+                {
+                    "[442, 17, 426]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[442, 18, 431]":"have"
+                },
+                {
+                    "[442, 19, 441]":"save"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "He",
+                "his",
+                "he",
+                "He",
+                "he",
+                "he",
+                "him",
+                "He",
+                "his",
+                "he",
+                "him",
+                "his",
+                "him",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[422, 0, 2]":"receive"
+                },
+                {
+                    "[422, 1, 9]":"lose"
+                },
+                {
+                    "[422, 2, 21]":"have"
+                },
+                {
+                    "[422, 3, 36]":"be"
+                },
+                {
+                    "[422, 4, 52]":"be"
+                },
+                {
+                    "[422, 6, 103]":"complain"
+                },
+                {
+                    "[422, 8, 178]":"answer"
+                }
+            ],
+            "patient":[
+                {
+                    "[422, 5, 72]":"desert"
+                },
+                {
+                    "[422, 6, 103]":"complain"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[442, 35, 701]":"rescue"
+                }
+            ],
+            "patient":[
+                {
+                    "[442, 35, 701]":"rescue"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "fileName":"Mark Twain___A Horse's Tale.txt",
+    "numPars":51,
+    "characters":[
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[50, 0, 11]":"be"
+                },
+                {
+                    "[50, 2, 21]":"murmur"
+                },
+                {
+                    "[50, 7, 55]":"lie"
+                },
+                {
+                    "[50, 8, 81]":"say"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[41, 4, 79]":"think"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"cathy",
+            "mentions":[
+                "Cathy",
+                "she",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "cathy",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[48, 19, 530]":"clear"
+                }
+            ],
+            "patient":[
+                {
+                    "[48, 20, 588]":"reach"
+                }
+            ]
+        },
+        {
+            "mainName":"a raven but that child",
+            "mentions":[
+                "a raven but that child",
+                "the raven",
+                "it",
+                "it",
+                "she",
+                "it",
+                "her",
+                "She",
+                "her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "the raven",
+                "Her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "the raven",
+                "she",
+                "she",
+                "her",
+                "she",
+                "her",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "she",
+                "herself",
+                "Miss Cathy",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "Miss Cathy",
+                "Cathy",
+                "Miss Cathy",
+                "Miss Cathy",
+                "Cathy",
+                "she",
+                "me",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "She",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "her",
+                "her",
+                "her",
+                "her",
+                "She",
+                "her",
+                "She",
+                "her",
+                "she",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "She",
+                "she"
+            ],
+            "aliases":[
+                "her",
+                "the raven",
+                "me",
+                "miss cathy",
+                "it",
+                "herself",
+                "cathy",
+                "she",
+                "a raven but that child"
+            ],
+            "agent":[
+                {
+                    "[19, 3, 37]":"have"
+                },
+                {
+                    "[19, 5, 122]":"offer"
+                },
+                {
+                    "[19, 8, 172]":"blaze"
+                },
+                {
+                    "[19, 15, 300]":"sound"
+                },
+                {
+                    "[19, 17, 328]":"untie"
+                },
+                {
+                    "[19, 18, 352]":"pet"
+                },
+                {
+                    "[19, 19, 370]":"have"
+                },
+                {
+                    "[19, 23, 465]":"begin"
+                },
+                {
+                    "[19, 24, 492]":"be"
+                },
+                {
+                    "[19, 25, 506]":"be"
+                },
+                {
+                    "[19, 26, 544]":"be"
+                },
+                {
+                    "[19, 27, 587]":"let"
+                },
+                {
+                    "[19, 31, 766]":"brush"
+                },
+                {
+                    "[19, 34, 798]":"be"
+                },
+                {
+                    "[19, 35, 827]":"be"
+                },
+                {
+                    "[19, 36, 839]":"ease"
+                },
+                {
+                    "[19, 37, 852]":"make"
+                },
+                {
+                    "[19, 40, 940]":"change"
+                },
+                {
+                    "[19, 41, 954]":"score"
+                },
+                {
+                    "[19, 42, 974]":"proceed"
+                },
+                {
+                    "[19, 43, 999]":"turn"
+                },
+                {
+                    "[19, 44, 1042]":"have"
+                },
+                {
+                    "[19, 46, 1094]":"say"
+                },
+                {
+                    "[19, 50, 1160]":"say"
+                },
+                {
+                    "[19, 51, 1166]":"talk"
+                },
+                {
+                    "[19, 52, 1199]":"stand"
+                }
+            ],
+            "patient":[
+                {
+                    "[19, 1, 12]":"befriend"
+                },
+                {
+                    "[19, 3, 37]":"have"
+                },
+                {
+                    "[19, 8, 172]":"blaze"
+                },
+                {
+                    "[19, 17, 328]":"untie"
+                },
+                {
+                    "[19, 19, 370]":"have"
+                },
+                {
+                    "[19, 29, 689]":"grab"
+                },
+                {
+                    "[19, 33, 793]":"spoil"
+                },
+                {
+                    "[19, 34, 798]":"be"
+                },
+                {
+                    "[19, 39, 929]":"punish"
+                },
+                {
+                    "[19, 44, 1042]":"have"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "she",
+                "she",
+                "her",
+                "She",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[47, 5, 93]":"know"
+                },
+                {
+                    "[47, 7, 146]":"know"
+                },
+                {
+                    "[47, 8, 167]":"see"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

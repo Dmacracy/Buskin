@@ -1,0 +1,100 @@
+{
+    "fileName":"Wilkie Collins___The New Magdalen.txt",
+    "numPars":336,
+    "characters":[
+        {
+            "mainName":"lady janet",
+            "mentions":[
+                "Lady Janet",
+                "Lady Janet",
+                "Lady Janet's",
+                "she",
+                "Lady Janet"
+            ],
+            "aliases":[
+                "lady janet",
+                "she",
+                "lady janet's"
+            ],
+            "agent":[
+                {
+                    "[333, 10, 151]":"show"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"julian",
+            "mentions":[
+                "Julian",
+                "myself",
+                "me"
+            ],
+            "aliases":[
+                "julian",
+                "me",
+                "myself"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[305, 0, 1]":"kneel"
+                },
+                {
+                    "[305, 1, 26]":"whisper"
+                },
+                {
+                    "[305, 2, 40]":"rise"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[322, 0, 7]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"horace",
+            "mentions":[
+                "Horace",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "horace"
+            ],
+            "agent":[
+                {
+                    "[309, 0, 13]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

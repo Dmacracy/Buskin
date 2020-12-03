@@ -1,0 +1,159 @@
+{
+    "fileName":"Henry James___The Death of the Lion.txt",
+    "numPars":43,
+    "characters":[
+        {
+            "mainName":"mr. paraday",
+            "mentions":[
+                "Mr. Paraday",
+                "he",
+                "he",
+                "his",
+                "himself",
+                "he"
+            ],
+            "aliases":[
+                "himself",
+                "he",
+                "mr. paraday",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[35, 14, 253]":"say"
+                },
+                {
+                    "[35, 16, 285]":"that"
+                },
+                {
+                    "[35, 17, 315]":"happen"
+                },
+                {
+                    "[35, 20, 380]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "me",
+                "his",
+                "him",
+                "myself"
+            ],
+            "aliases":[
+                "myself",
+                "me",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[42, 0, 3]":"imagine"
+                },
+                {
+                    "[42, 2, 23]":"convinced"
+                }
+            ],
+            "patient":[
+                {
+                    "[42, 9, 168]":"believe"
+                }
+            ]
+        },
+        {
+            "mainName":"the princess",
+            "mentions":[
+                "the Princess",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "the princess",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[41, 5, 114]":"depart"
+                }
+            ],
+            "patient":[
+                {
+                    "[41, 4, 107]":"pack"
+                }
+            ]
+        },
+        {
+            "mainName":"mrs. wimbush",
+            "mentions":[
+                "Mrs. Wimbush",
+                "her",
+                "She",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "mrs. wimbush",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[41, 21, 513]":"signify"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mr. morrow",
+            "mentions":[
+                "Mr. Morrow",
+                "Mr. Morrow",
+                "he",
+                "him",
+                "his",
+                "He",
+                "he",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "he",
+                "Mr. Morrow"
+            ],
+            "aliases":[
+                "mr. morrow",
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[21, 1, 7]":"be"
+                },
+                {
+                    "[21, 4, 106]":"quit"
+                },
+                {
+                    "[21, 6, 142]":"go"
+                },
+                {
+                    "[21, 7, 174]":"pass"
+                },
+                {
+                    "[21, 9, 221]":"hasten"
+                }
+            ],
+            "patient":[
+                {
+                    "[21, 11, 246]":"publish"
+                }
+            ]
+        }
+    ]
+}

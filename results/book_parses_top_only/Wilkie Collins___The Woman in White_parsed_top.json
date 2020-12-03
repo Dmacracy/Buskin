@@ -1,0 +1,126 @@
+{
+    "fileName":"Wilkie Collins___The Woman in White.txt",
+    "numPars":841,
+    "characters":[
+        {
+            "mainName":"sir percival",
+            "mentions":[
+                "Sir Percival",
+                "Sir Percival",
+                "his",
+                "Sir Percival"
+            ],
+            "aliases":[
+                "sir percival",
+                "his"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"laura",
+            "mentions":[
+                "Laura",
+                "She",
+                "she",
+                "She",
+                "her",
+                "she",
+                "her",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her",
+                "laura"
+            ],
+            "agent":[
+                {
+                    "[839, 4, 67]":"speak"
+                },
+                {
+                    "[839, 5, 77]":"steal"
+                },
+                {
+                    "[839, 7, 106]":"account"
+                },
+                {
+                    "[839, 11, 178]":"rise"
+                },
+                {
+                    "[839, 13, 204]":"ask"
+                },
+                {
+                    "[839, 17, 248]":"exclaim"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[829, 3, 86]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[829, 4, 93]":"bless"
+                }
+            ]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "me",
+                "myself"
+            ],
+            "aliases":[
+                "he",
+                "me",
+                "myself"
+            ],
+            "agent":[
+                {
+                    "[835, 0, 2]":"lie"
+                }
+            ],
+            "patient":[
+                {
+                    "[835, 6, 198]":"force"
+                }
+            ]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "HER",
+                "She",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[832, 18, 482]":"take"
+                },
+                {
+                    "[832, 19, 506]":"say"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

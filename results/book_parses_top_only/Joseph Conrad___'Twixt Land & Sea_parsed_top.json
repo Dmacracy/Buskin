@@ -1,0 +1,118 @@
+{
+    "fileName":"Joseph Conrad___'Twixt Land & Sea.txt",
+    "numPars":342,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "he"
+            ],
+            "aliases":[
+                "he"
+            ],
+            "agent":[
+                {
+                    "[341, 0, 1]":"get"
+                },
+                {
+                    "[341, 2, 13]":"stammer"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"freya",
+            "mentions":[
+                "Freya",
+                "Freya",
+                "Freya"
+            ],
+            "aliases":[
+                "freya"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "His",
+                "His",
+                "his",
+                "his",
+                "he",
+                "He",
+                "his",
+                "his",
+                "his",
+                "me",
+                "me"
+            ],
+            "aliases":[
+                "he",
+                "me",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[331, 3, 57]":"look"
+                },
+                {
+                    "[331, 4, 64]":"show"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her",
+                "her"
+            ],
+            "aliases":[
+                "her"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[324, 6, 241]":"leave"
+                },
+                {
+                    "[324, 8, 295]":"move"
+                },
+                {
+                    "[324, 9, 301]":"nothing"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "She",
+                "She"
+            ],
+            "aliases":[
+                "she"
+            ],
+            "agent":[
+                {
+                    "[340, 1, 19]":"have"
+                },
+                {
+                    "[340, 3, 25]":"mention"
+                },
+                {
+                    "[340, 10, 67]":"be"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

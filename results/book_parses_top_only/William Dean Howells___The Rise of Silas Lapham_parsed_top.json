@@ -1,0 +1,122 @@
+{
+    "fileName":"William Dean Howells___The Rise of Silas Lapham.txt",
+    "numPars":422,
+    "characters":[
+        {
+            "mainName":"lapham",
+            "mentions":[
+                "Lapham",
+                "Lapham"
+            ],
+            "aliases":[
+                "lapham"
+            ],
+            "agent":[
+                {
+                    "[421, 17, 355]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "me"
+            ],
+            "aliases":[
+                "he",
+                "me"
+            ],
+            "agent":[
+                {
+                    "[421, 0, 9]":"get"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[421, 4, 94]":"talk"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. lapham",
+            "mentions":[
+                "Mrs. Lapham",
+                "her",
+                "she",
+                "her",
+                "her",
+                "herself",
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "mrs. lapham",
+                "herself",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[417, 0, 1]":"be"
+                },
+                {
+                    "[417, 1, 47]":"think"
+                },
+                {
+                    "[417, 3, 154]":"fail"
+                }
+            ],
+            "patient":[
+                {
+                    "[417, 2, 137]":"admit"
+                }
+            ]
+        },
+        {
+            "mainName":"irene",
+            "mentions":[
+                "Irene",
+                "she",
+                "she",
+                "she",
+                "her",
+                "the girl"
+            ],
+            "aliases":[
+                "irene",
+                "she",
+                "the girl",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[419, 1, 40]":"see"
+                },
+                {
+                    "[419, 2, 64]":"be"
+                },
+                {
+                    "[419, 3, 90]":"be"
+                },
+                {
+                    "[419, 5, 116]":"vary"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

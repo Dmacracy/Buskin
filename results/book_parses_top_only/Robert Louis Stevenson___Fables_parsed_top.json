@@ -1,0 +1,526 @@
+{
+    "fileName":"Robert Louis Stevenson___Fables.txt",
+    "numPars":13,
+    "characters":[
+        {
+            "mainName":"jack",
+            "mentions":[
+                "Jack",
+                "Jack",
+                "Jack",
+                "he",
+                "he",
+                "he",
+                "Jack",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his",
+                "his",
+                "Jack",
+                "him",
+                "he",
+                "his",
+                "he",
+                "he",
+                "Jack",
+                "Jack",
+                "Jack",
+                "He",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "he",
+                "his",
+                "Jack",
+                "he",
+                "his",
+                "him",
+                "he",
+                "Jack",
+                "Jack",
+                "his",
+                "Jack",
+                "Jack",
+                "Jack",
+                "his",
+                "him",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "his",
+                "his",
+                "him",
+                "him",
+                "his",
+                "him",
+                "he",
+                "Jack",
+                "his",
+                "Jack",
+                "his",
+                "his",
+                "him",
+                "he",
+                "his",
+                "he",
+                "his",
+                "Jack",
+                "his",
+                "him",
+                "he",
+                "Jack",
+                "Jack",
+                "Jack",
+                "he",
+                "Jack",
+                "he",
+                "his",
+                "his",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "jack",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[6, 9, 228]":"ask"
+                },
+                {
+                    "[6, 10, 241]":"put"
+                },
+                {
+                    "[6, 18, 383]":"rise"
+                },
+                {
+                    "[6, 19, 407]":"walk"
+                },
+                {
+                    "[6, 20, 428]":"ask"
+                },
+                {
+                    "[6, 21, 471]":"show"
+                },
+                {
+                    "[6, 22, 508]":"man"
+                },
+                {
+                    "[6, 23, 540]":"come"
+                },
+                {
+                    "[6, 26, 649]":"go"
+                },
+                {
+                    "[6, 27, 708]":"see"
+                },
+                {
+                    "[6, 28, 729]":"say"
+                },
+                {
+                    "[6, 30, 752]":"go"
+                },
+                {
+                    "[6, 31, 769]":"look"
+                },
+                {
+                    "[6, 32, 805]":"take"
+                },
+                {
+                    "[6, 33, 829]":"think"
+                },
+                {
+                    "[6, 35, 854]":"come"
+                },
+                {
+                    "[6, 36, 879]":"be"
+                },
+                {
+                    "[6, 37, 904]":"have"
+                },
+                {
+                    "[6, 40, 983]":"say"
+                },
+                {
+                    "[6, 45, 1032]":"say"
+                },
+                {
+                    "[6, 50, 1192]":"say"
+                },
+                {
+                    "[6, 52, 1218]":"go"
+                },
+                {
+                    "[6, 53, 1231]":"meet"
+                },
+                {
+                    "[6, 54, 1281]":"be"
+                },
+                {
+                    "[6, 55, 1299]":"say"
+                },
+                {
+                    "[6, 59, 1358]":"run"
+                },
+                {
+                    "[6, 61, 1458]":"say"
+                },
+                {
+                    "[6, 70, 1604]":"be"
+                },
+                {
+                    "[6, 84, 1892]":"ask"
+                },
+                {
+                    "[6, 85, 1923]":"look"
+                },
+                {
+                    "[6, 88, 1980]":"lie"
+                },
+                {
+                    "[6, 89, 2007]":"sit"
+                }
+            ],
+            "patient":[
+                {
+                    "[6, 20, 428]":"ask"
+                },
+                {
+                    "[6, 32, 805]":"take"
+                },
+                {
+                    "[6, 47, 1076]":"be"
+                },
+                {
+                    "[6, 49, 1144]":"ring"
+                },
+                {
+                    "[6, 53, 1231]":"meet"
+                },
+                {
+                    "[6, 58, 1347]":"cry"
+                },
+                {
+                    "[6, 86, 1960]":"cry"
+                }
+            ]
+        },
+        {
+            "mainName":"a man in the islands who fished for his bare bellyful",
+            "mentions":[
+                "a man in the islands who fished for his bare bellyful",
+                "his",
+                "his",
+                "his",
+                "he",
+                "he",
+                "him",
+                "him",
+                "he",
+                "he",
+                "his",
+                "he",
+                "He",
+                "he",
+                "the man",
+                "his",
+                "the man",
+                "his",
+                "the man",
+                "he",
+                "his",
+                "His",
+                "me",
+                "me",
+                "the man",
+                "the man",
+                "you",
+                "the man",
+                "his",
+                "his",
+                "his",
+                "him",
+                "the man",
+                "me",
+                "the man",
+                "him",
+                "the man",
+                "the man",
+                "his",
+                "he",
+                "he",
+                "his",
+                "the man",
+                "he",
+                "he",
+                "his",
+                "the poor man",
+                "the man",
+                "the man",
+                "he",
+                "the man",
+                "the man",
+                "the man",
+                "the man",
+                "the man",
+                "the man",
+                "the man",
+                "the man",
+                "him",
+                "the man",
+                "the man",
+                "the man",
+                "me",
+                "the man",
+                "the man",
+                "the man",
+                "he",
+                "the man",
+                "he",
+                "me",
+                "him",
+                "he",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "you",
+                "me",
+                "the poor man",
+                "the man",
+                "his",
+                "a man in the islands who fished for his bare bellyful",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[11, 37, 926]":"be"
+                },
+                {
+                    "[11, 38, 965]":"be"
+                },
+                {
+                    "[11, 39, 991]":"be"
+                },
+                {
+                    "[11, 40, 1018]":"be"
+                },
+                {
+                    "[11, 41, 1036]":"fall"
+                },
+                {
+                    "[11, 43, 1083]":"be"
+                },
+                {
+                    "[11, 44, 1105]":"say"
+                },
+                {
+                    "[11, 45, 1123]":"say"
+                },
+                {
+                    "[11, 48, 1208]":"say"
+                },
+                {
+                    "[11, 53, 1355]":"say"
+                },
+                {
+                    "[11, 57, 1477]":"rise"
+                },
+                {
+                    "[11, 58, 1540]":"say"
+                },
+                {
+                    "[11, 62, 1634]":"run"
+                },
+                {
+                    "[11, 67, 1792]":"say"
+                },
+                {
+                    "[11, 82, 2057]":"stoop"
+                },
+                {
+                    "[11, 87, 2226]":"set"
+                },
+                {
+                    "[11, 90, 2311]":"befall"
+                },
+                {
+                    "[11, 94, 2383]":"say"
+                },
+                {
+                    "[11, 97, 2411]":"say"
+                },
+                {
+                    "[11, 98, 2441]":"say"
+                },
+                {
+                    "[11, 103, 2513]":"say"
+                },
+                {
+                    "[11, 106, 2566]":"say"
+                },
+                {
+                    "[11, 110, 2633]":"be"
+                },
+                {
+                    "[11, 115, 2755]":"be"
+                },
+                {
+                    "[11, 117, 2801]":"look"
+                },
+                {
+                    "[11, 134, 3106]":"say"
+                },
+                {
+                    "[11, 138, 3164]":"say"
+                },
+                {
+                    "[11, 142, 3281]":"say"
+                },
+                {
+                    "[11, 145, 3347]":"say"
+                },
+                {
+                    "[11, 148, 3414]":"say"
+                },
+                {
+                    "[11, 151, 3450]":"say"
+                },
+                {
+                    "[11, 152, 3472]":"come"
+                },
+                {
+                    "[11, 153, 3506]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[11, 38, 965]":"be"
+                },
+                {
+                    "[11, 110, 2633]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"the elder son",
+            "mentions":[
+                "the elder son",
+                "his",
+                "he",
+                "he",
+                "him",
+                "he",
+                "his",
+                "he",
+                "he",
+                "he",
+                "himself",
+                "the elder son",
+                "he",
+                "he",
+                "him",
+                "his",
+                "he",
+                "his",
+                "he",
+                "his",
+                "him",
+                "his",
+                "he",
+                "his",
+                "me",
+                "his"
+            ],
+            "aliases":[
+                "the elder son",
+                "me",
+                "his",
+                "himself",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[11, 3, 109]":"smote"
+                },
+                {
+                    "[11, 4, 125]":"cry"
+                },
+                {
+                    "[11, 5, 139]":"take"
+                },
+                {
+                    "[11, 6, 229]":"say"
+                },
+                {
+                    "[11, 7, 283]":"see"
+                },
+                {
+                    "[11, 8, 334]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[11, 7, 283]":"see"
+                }
+            ]
+        },
+        {
+            "mainName":"it",
+            "mentions":[
+                "it",
+                "it"
+            ],
+            "aliases":[
+                "it"
+            ],
+            "agent":[
+                {
+                    "[12, 31, 692]":"pipe"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"a man",
+            "mentions":[
+                "a man",
+                "the man",
+                "the man",
+                "the man",
+                "the man"
+            ],
+            "aliases":[
+                "the man",
+                "a man"
+            ],
+            "agent":[
+                {
+                    "[12, 29, 656]":"say"
+                },
+                {
+                    "[12, 34, 778]":"say"
+                },
+                {
+                    "[12, 42, 890]":"go"
+                },
+                {
+                    "[12, 44, 953]":"sit"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

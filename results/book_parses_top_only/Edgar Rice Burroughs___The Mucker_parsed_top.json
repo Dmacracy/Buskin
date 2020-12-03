@@ -1,0 +1,177 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Mucker.txt",
+    "numPars":248,
+    "characters":[
+        {
+            "mainName":"billy",
+            "mentions":[
+                "Billy",
+                "Billy",
+                "his",
+                "him",
+                "He",
+                "his",
+                "Billy",
+                "Billy",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "billy",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[247, 22, 380]":"say"
+                },
+                {
+                    "[247, 35, 568]":"draw"
+                },
+                {
+                    "[247, 36, 595]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[247, 32, 525]":"ask"
+                },
+                {
+                    "[247, 33, 542]":"assure"
+                }
+            ]
+        },
+        {
+            "mainName":"billy byrne",
+            "mentions":[
+                "Billy Byrne",
+                "his",
+                "his",
+                "Billy Byrne",
+                "Billy Byrne",
+                "Byrne",
+                "he",
+                "Byrne",
+                "he",
+                "Byrne",
+                "Billy Byrne",
+                "his",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "billy byrne",
+                "byrne",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[247, 18, 295]":"happen"
+                },
+                {
+                    "[247, 20, 348]":"admonish"
+                },
+                {
+                    "[247, 36, 595]":"say"
+                },
+                {
+                    "[247, 37, 632]":"venture"
+                },
+                {
+                    "[247, 38, 656]":"be"
+                },
+                {
+                    "[247, 39, 694]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[247, 13, 154]":"cry"
+                },
+                {
+                    "[247, 36, 595]":"say"
+                }
+            ]
+        },
+        {
+            "mainName":"barbara harding",
+            "mentions":[
+                "Barbara Harding",
+                "she",
+                "her",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "barbara harding",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[245, 42, 780]":"turn"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"byrne",
+            "mentions":[
+                "Byrne",
+                "Billy Byrne",
+                "him",
+                "his",
+                "Billy Byrne",
+                "his",
+                "his",
+                "His",
+                "Billy Byrne",
+                "Billy",
+                "his",
+                "him",
+                "his"
+            ],
+            "aliases":[
+                "billy byrne",
+                "byrne",
+                "billy",
+                "his",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[221, 16, 345]":"step"
+                },
+                {
+                    "[221, 20, 482]":"turn"
+                }
+            ],
+            "patient":[
+                {
+                    "[221, 17, 354]":"call"
+                },
+                {
+                    "[221, 18, 388]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"they",
+            "mentions":[
+                "they",
+                "them"
+            ],
+            "aliases":[
+                "them",
+                "they"
+            ],
+            "agent":[
+                {
+                    "[245, 47, 894]":"see"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

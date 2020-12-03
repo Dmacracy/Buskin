@@ -1,0 +1,155 @@
+{
+    "fileName":"Rudyard Kipling___Plain Tales from the Hills.txt",
+    "numPars":332,
+    "characters":[
+        {
+            "mainName":"he",
+            "mentions":[
+                "He",
+                "his",
+                "he",
+                "He",
+                "he",
+                "His",
+                "he",
+                "his",
+                "his",
+                "He",
+                "His",
+                "he",
+                "his",
+                "he",
+                "his"
+            ],
+            "aliases":[
+                "he",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[329, 0, 1]":"refer"
+                },
+                {
+                    "[329, 1, 26]":"be"
+                },
+                {
+                    "[329, 2, 39]":"be"
+                },
+                {
+                    "[329, 3, 83]":"say"
+                },
+                {
+                    "[329, 4, 115]":"know"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"strickland",
+            "mentions":[
+                "Strickland",
+                "he",
+                "He"
+            ],
+            "aliases":[
+                "he",
+                "strickland"
+            ],
+            "agent":[
+                {
+                    "[331, 16, 220]":"help"
+                },
+                {
+                    "[331, 17, 244]":"think"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"his",
+            "mentions":[
+                "His",
+                "he",
+                "he",
+                "he",
+                "him",
+                "he",
+                "him",
+                "his",
+                "McIntosh",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "mcintosh",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[331, 8, 86]":"stop"
+                },
+                {
+                    "[331, 10, 116]":"rise"
+                },
+                {
+                    "[331, 12, 134]":"fall"
+                },
+                {
+                    "[331, 14, 197]":"be"
+                }
+            ],
+            "patient":[
+                {
+                    "[331, 12, 134]":"fall"
+                },
+                {
+                    "[331, 13, 166]":"love"
+                }
+            ]
+        },
+        {
+            "mainName":"we",
+            "mentions":[
+                "We",
+                "we",
+                "we"
+            ],
+            "aliases":[
+                "we"
+            ],
+            "agent":[
+                {
+                    "[317, 6, 220]":"feel"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"mrs. hauksbee",
+            "mentions":[
+                "Mrs. Hauksbee",
+                "Mrs. Hauksbee",
+                "her"
+            ],
+            "aliases":[
+                "mrs. hauksbee",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[140, 3, 44]":"believe"
+                },
+                {
+                    "[140, 12, 190]":"compel"
+                }
+            ],
+            "patient":[
+                {
+                    "[140, 12, 190]":"compel"
+                }
+            ]
+        }
+    ]
+}

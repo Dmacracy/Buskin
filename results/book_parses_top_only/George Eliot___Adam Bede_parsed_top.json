@@ -1,0 +1,169 @@
+{
+    "fileName":"George Eliot___Adam Bede.txt",
+    "numPars":615,
+    "characters":[
+        {
+            "mainName":"adam",
+            "mentions":[
+                "Adam",
+                "He",
+                "him",
+                "him",
+                "his",
+                "he",
+                "me",
+                "Adam",
+                "me",
+                "Adam"
+            ],
+            "aliases":[
+                "adam",
+                "me",
+                "his",
+                "he",
+                "him"
+            ],
+            "agent":[
+                {
+                    "[614, 0, 1]":"be"
+                },
+                {
+                    "[614, 1, 26]":"hear"
+                },
+                {
+                    "[614, 2, 49]":"thing"
+                }
+            ],
+            "patient":[
+                {
+                    "[614, 1, 26]":"hear"
+                }
+            ]
+        },
+        {
+            "mainName":"hetty",
+            "mentions":[
+                "Hetty",
+                "it"
+            ],
+            "aliases":[
+                "it",
+                "hetty"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"dinah",
+            "mentions":[
+                "Dinah",
+                "Dinah",
+                "she",
+                "Dinah",
+                "her",
+                "she",
+                "she",
+                "she",
+                "her",
+                "she",
+                "Dinah"
+            ],
+            "aliases":[
+                "she",
+                "dinah",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[612, 7, 147]":"say"
+                },
+                {
+                    "[612, 11, 249]":"say"
+                },
+                {
+                    "[612, 12, 312]":"say"
+                },
+                {
+                    "[612, 17, 373]":"think"
+                },
+                {
+                    "[612, 20, 399]":"agree"
+                }
+            ],
+            "patient":[
+                {
+                    "[612, 16, 357]":"get"
+                },
+                {
+                    "[612, 18, 389]":"hold"
+                }
+            ]
+        },
+        {
+            "mainName":"arthur",
+            "mentions":[
+                "Arthur",
+                "him",
+                "him"
+            ],
+            "aliases":[
+                "arthur",
+                "him"
+            ],
+            "agent":[],
+            "patient":[
+                {
+                    "[554, 11, 273]":"lose"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "she",
+                "she",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[606, 0, 4]":"come"
+                },
+                {
+                    "[606, 4, 81]":"begin"
+                },
+                {
+                    "[606, 6, 150]":"be"
+                },
+                {
+                    "[606, 7, 169]":"think"
+                },
+                {
+                    "[606, 8, 181]":"find"
+                }
+            ],
+            "patient":[
+                {
+                    "[606, 4, 81]":"begin"
+                },
+                {
+                    "[606, 5, 122]":"begin"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "fileName":"Charles Dickens___Dombey and Son.txt",
+    "numPars":487,
+    "characters":[
+        {
+            "mainName":"mr dombey",
+            "mentions":[
+                "Mr Dombey",
+                "his",
+                "him",
+                "he",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "mr dombey",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[486, 28, 567]":"undergo"
+                },
+                {
+                    "[486, 30, 605]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"florence",
+            "mentions":[
+                "Florence",
+                "Florence",
+                "Florence"
+            ],
+            "aliases":[
+                "florence"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"the captain",
+            "mentions":[
+                "the Captain",
+                "the Captain",
+                "his",
+                "his"
+            ],
+            "aliases":[
+                "the captain",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[485, 11, 216]":"do"
+                },
+                {
+                    "[485, 17, 341]":"tell"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"walter",
+            "mentions":[
+                "Walter",
+                "he",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his",
+                "walter"
+            ],
+            "agent":[
+                {
+                    "[483, 11, 264]":"see"
+                },
+                {
+                    "[483, 13, 312]":"be"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"edith",
+            "mentions":[
+                "Edith",
+                "her",
+                "her",
+                "her",
+                "she",
+                "her",
+                "her",
+                "Her",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "edith",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[480, 41, 876]":"sit"
+                }
+            ],
+            "patient":[]
+        }
+    ]
+}

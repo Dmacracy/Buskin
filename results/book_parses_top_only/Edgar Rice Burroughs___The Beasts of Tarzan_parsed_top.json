@@ -1,0 +1,116 @@
+{
+    "fileName":"Edgar Rice Burroughs___The Beasts of Tarzan.txt",
+    "numPars":27,
+    "characters":[
+        {
+            "mainName":"tarzan",
+            "mentions":[
+                "Tarzan",
+                "Tarzan",
+                "Tarzan"
+            ],
+            "aliases":[
+                "tarzan"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"jane clayton",
+            "mentions":[
+                "Jane Clayton",
+                "her",
+                "Jane Clayton",
+                "her"
+            ],
+            "aliases":[
+                "jane clayton",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[25, 66, 1327]":"seize"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"the ape-man",
+            "mentions":[
+                "The ape-man",
+                "his",
+                "his",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "him",
+                "the ape-man",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[25, 25, 353]":"turn"
+                }
+            ],
+            "patient":[
+                {
+                    "[25, 28, 414]":"throw"
+                }
+            ]
+        },
+        {
+            "mainName":"jane",
+            "mentions":[
+                "Jane",
+                "she"
+            ],
+            "aliases":[
+                "she",
+                "jane"
+            ],
+            "agent":[
+                {
+                    "[15, 0, 1]":"laugh"
+                },
+                {
+                    "[15, 1, 17]":"retort"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "him",
+                "his",
+                "him",
+                "he",
+                "his",
+                "he"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[26, 22, 867]":"be"
+                },
+                {
+                    "[26, 24, 921]":"be"
+                },
+                {
+                    "[26, 26, 995]":"accompany"
+                }
+            ],
+            "patient":[
+                {
+                    "[26, 23, 899]":"see"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "fileName":"Thomas Hardy___The Return of the Native.txt",
+    "numPars":363,
+    "characters":[
+        {
+            "mainName":"eustacia",
+            "mentions":[
+                "Eustacia",
+                "Eustacia"
+            ],
+            "aliases":[
+                "eustacia"
+            ],
+            "agent":[],
+            "patient":[]
+        },
+        {
+            "mainName":"he",
+            "mentions":[
+                "he",
+                "his",
+                "him"
+            ],
+            "aliases":[
+                "he",
+                "him",
+                "his"
+            ],
+            "agent":[
+                {
+                    "[362, 7, 227]":"see"
+                }
+            ],
+            "patient":[]
+        },
+        {
+            "mainName":"her",
+            "mentions":[
+                "her",
+                "her",
+                "she",
+                "she",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[362, 11, 380]":"be"
+                },
+                {
+                    "[362, 12, 434]":"say"
+                }
+            ],
+            "patient":[
+                {
+                    "[362, 11, 380]":"be"
+                }
+            ]
+        },
+        {
+            "mainName":"wildeve",
+            "mentions":[
+                "Wildeve",
+                "she",
+                "her",
+                "her",
+                "her",
+                "she",
+                "she",
+                "her",
+                "her",
+                "she",
+                "she"
+            ],
+            "aliases":[
+                "wildeve",
+                "she",
+                "her"
+            ],
+            "agent":[
+                {
+                    "[342, 9, 181]":"die"
+                },
+                {
+                    "[342, 11, 250]":"live"
+                },
+                {
+                    "[342, 13, 329]":"be"
+                },
+                {
+                    "[342, 14, 349]":"admit"
+                }
+            ],
+            "patient":[
+                {
+                    "[342, 14, 349]":"admit"
+                }
+            ]
+        },
+        {
+            "mainName":"she",
+            "mentions":[
+                "She",
+                "her"
+            ],
+            "aliases":[
+                "she",
+                "her"
+            ],
+            "agent":[],
+            "patient":[]
+        }
+    ]
+}
