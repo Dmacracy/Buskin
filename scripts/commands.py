@@ -114,7 +114,7 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
     for dict_ in coref_dicts:
         for k,v in dict_.items():
             if k in main_coref:
-                main_coref[k]+=v
+                main_coref[k].update(v)
             else:
                 main_coref[k] = v
     
@@ -123,7 +123,7 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
         added = 0
         for merged_char in merged_coref.keys():
             if fuzz.partial_ratio(merged_char, k) > max_fuzz:
-                merged_coref[merged_char] += v
+                merged_coref[merged_char].update(v)
                 added = 1
                 break
         if added==0:
