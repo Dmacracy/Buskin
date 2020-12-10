@@ -32,6 +32,51 @@ reduced_emotions = { 'admiration' : 'pos', 'amusement' : 'pos', 'anger' : 'neg',
             'joy' : 'pos', 'love' : 'pos', 'nervousness' : 'neg', 'optimism' : 'pos','pride' : 'pos', 'realization' : 'amb',
             'relief' : 'pos', 'remorse' : 'neg', 'sadness' : 'neg', 'surprise' : 'amb', 'neutral' : 'amb'}
 
+'''
+Parse a mention and the sentence in which it occurs
+in order to extract the patient, agent, and predicative
+words used in relation to the entity mentioned.
+'''
+def parse_sent_and_mention(sent, mention):
+    agents = []
+    patients = []
+    predicatives = []
+    # Iterate over tokens in the mention
+    for token in mention:
+        token_tag = sent.token_tags[token.i - sent.global_token_start]
+        # If the token's dependency tag is nsubj, find it's parent and set the lemma of this word to
+        # be an agent of this entity.
+        if token_tag.dep == 'nsubj':
+            agent_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
+            agents.append((agent_verb, sent.sentence_id))
+            #print(" mention: ", mention, " token: ", token, " id ", token.i, "agent : ", agent_verb)
+            
+        # If the token's dependency tag is dobj or nsubjpass, find it's parent and set the lemma of this word to
+        # be an patient of this entity.
+        if (token_tag.dep ==  'dobj') or (token_tag.dep == 'nsubjpass'):
+            patient_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
+            patients.append((patient_verb, sent.sentence_id))
+            #print(" mention: ", mention, " token: ", token, " id ", token.i, "patient : ", patient_verb)
+
+    # Now we handle dependencies in the other direction to get predicatives.
+    # 'man' is the predicative of 'Tim' in the sentence "Tim is a man."
+    # Iterate over sentence tokens
+    for token_tag in sent.token_tags:
+        # Only consider tokens not in the mention:
+        if not ((token_tag.token_global_id >= mention.start) and (token_tag.token_global_id <= mention.end)):
+            # ignore punctuation
+            if token_tag.pos != 'PUNCT':
+                # Check if the parent of the word is a "be" verb (is, are, be, etc.)
+                if sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma == "be":
+                    to_be_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start]
+                    # Check if the parent of the "be" verb is part of the mention
+                    if (to_be_verb.head_global_id >= mention.start) and (to_be_verb.head_global_id <= mention.end):
+                        pred_word = sent.token_tags[token_tag.token_global_id - sent.global_token_start].lemma
+                        predicatives.append((pred_word, sent.sentence_id))
+                        #print(" mention: ", mention, " token: ", token, " id ", token_tag.token_global_id,  "predicative : ", pred_word)
+
+    return agents, patients, predicatives
+        
 
 def parse_into_sents_corefs(inp):
     text, par_id = inp
@@ -42,17 +87,24 @@ def parse_into_sents_corefs(inp):
     for s, sent in enumerate(doc.sents):
         tokens = doc[sent.start:sent.end]
         sentence_id_for_tokens += [s] * len(tokens)
-        token_tags = [TOKEN_TAGS(i, token.text, token.lemma_, token.pos_, token.pos_, token.dep_) for i, token in enumerate(tokens)]
+        token_tags = [TOKEN_TAGS(i, token.i, token.text, token.lemma_, token.pos_, token.pos_, token.dep_, token.head.i) for i, token in enumerate(tokens)]
         emotion_tags = Emotion(None,None,None)
-        sentences.append(Sentence(s, par_id, sent.text, token_tags, emotion_tags))
+        sentences.append(Sentence(s, par_id, sent.start, sent.text, token_tags, emotion_tags))
     
     if doc._.has_coref:
         corefs = {}
         for cluster in doc._.coref_clusters:
-            if cluster.main.text.lower() in corefs:
-                corefs[cluster.main.text.lower()]+=[(mention.text.lower(),sentence_id_for_tokens[mention.start]) for mention in cluster.mentions]
-            else:
-                corefs[cluster.main.text.lower()]=[(mention.text.lower(),sentence_id_for_tokens[mention.start]) for mention in cluster.mentions]
+            # If an entry for this coref doesn't yet exist, create one
+            if not (cluster.main.text.lower() in corefs):
+                corefs[cluster.main.text.lower()] = {"mentions" : [], "agents" : [], "patients" : [], "preds" : []}
+            # Update the entry with new mention and any parsed verbs or predicatives
+            for mention in cluster.mentions:
+                mention_sent = sentence_id_for_tokens[mention.start]
+                corefs[cluster.main.text.lower()]["mentions"].append((mention.text.lower(), mention_sent))
+                agents, patients, preds = parse_sent_and_mention(sentences[mention_sent], mention)
+                corefs[cluster.main.text.lower()]["agents"] += agents
+                corefs[cluster.main.text.lower()]["patients"] += patients
+                corefs[cluster.main.text.lower()]["preds"] += preds
     return sentences, corefs
 
 
@@ -143,6 +195,9 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
         sentences[i].emotion_tags = Emotion(emotions[i], mini_emotions[i], float(probs[i])) 
     return sentences
 
+def get_verbs(character):
+    print(character)
+
 def parse_book(book_path, verbose = False):
     if verbose:
         print(f'===================Begin Parsing======================')
@@ -152,10 +207,11 @@ def parse_book(book_path, verbose = False):
         
     chunks = convert_text_to_chunks(text)
     
-    with Pool(10) as p:
+    with Pool(5) as p:
         pooled_opt = p.map(parse_into_sents_corefs,chunks)
         sentences = [ sentence for par,_ in pooled_opt for sentence in par]
         corefs = get_merged_corefs([ coref_dict for _,coref_dict in pooled_opt])
+        #get_verbs(corefs)
 
     if verbose:
         ckpt1 = time.time()

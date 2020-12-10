@@ -6,11 +6,13 @@ from dataclasses_json import dataclass_json
 @dataclass
 class TOKEN_TAGS():
     token_id : int
+    token_global_id : int
     token : str
     lemma : str
     pos : str
     tag : str
     dep : str
+    head_global_id : int
 
 @dataclass_json
 @dataclass
@@ -24,6 +26,7 @@ class Emotion():
 class Sentence():
     sentence_id : int
     cluster_id : int
+    global_token_start : int
     text : str
     token_tags : List[TOKEN_TAGS]
     emotion_tags : Emotion
