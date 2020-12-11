@@ -126,13 +126,10 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
         added = 0
         for merged_char in merged_coref.keys():
             if fuzz.partial_ratio(merged_char, k) > max_fuzz:
-                print("before merge ", merged_coref[merged_char])
                 merged_coref[merged_char]["mentions"] += v["mentions"]
                 merged_coref[merged_char]["agents"] += v["agents"]
                 merged_coref[merged_char]["patients"] += v["patients"]
                 merged_coref[merged_char]["preds"] += v["preds"]
-                
-                print("after merge ", merged_coref[merged_char])
                 added = 1
                 break
         if added==0:
