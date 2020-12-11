@@ -37,8 +37,26 @@ class Book():
     book_path : str
     text : str
     sentences : List[Sentence]
-    corefs : Dict
+    characters : Dict
 
-    
+@dataclass_json
+@dataclass
+class Occurrence():
+    text : str
+    sentence_id : int
+    cluster_id : int
+    start : int
+    end : int
+
+@dataclass_json
+@dataclass
+class Character():
+    rank : int
+    name : str
+    mentions : List[Occurrence]
+    agents : List[Occurrence]
+    patients : List[Occurrence]
+    predicatives : List[Occurrence]
+
 
 

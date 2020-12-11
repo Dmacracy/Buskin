@@ -1,6 +1,7 @@
 from entities import *
 import time, os, sys, re, json, collections
 from multiprocessing import Pool
+import string 
 
 from fuzzywuzzy import fuzz
 import pandas as pd
@@ -37,7 +38,7 @@ Parse a mention and the sentence in which it occurs
 in order to extract the patient, agent, and predicative
 words used in relation to the entity mentioned.
 '''
-def parse_sent_and_mention(sent, mention):
+def parse_sent_and_mention(sent, mention, par_id):
     agents = []
     patients = []
     predicatives = []
@@ -47,15 +48,17 @@ def parse_sent_and_mention(sent, mention):
         # If the token's dependency tag is nsubj, find it's parent and set the lemma of this word to
         # be an agent of this entity.
         if token_tag.dep == 'nsubj':
-            agent_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
-            agents.append((agent_verb, sent.sentence_id))
+            idx = token_tag.head_global_id - sent.global_token_start
+            agent_verb = sent.token_tags[idx].lemma
+            agents.append(Occurrence(agent_verb, sent.sentence_id, par_id, idx, idx+1))
             #print(" mention: ", mention, " token: ", token, " id ", token.i, "agent : ", agent_verb)
             
         # If the token's dependency tag is dobj or nsubjpass, find it's parent and set the lemma of this word to
         # be an patient of this entity.
         if (token_tag.dep ==  'dobj') or (token_tag.dep == 'nsubjpass'):
-            patient_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
-            patients.append((patient_verb, sent.sentence_id))
+            idx = token_tag.head_global_id - sent.global_token_start
+            patient_verb = sent.token_tags[idx].lemma
+            patients.append(Occurrence(patient_verb, sent.sentence_id, par_id, idx, idx+1))
             #print(" mention: ", mention, " token: ", token, " id ", token.i, "patient : ", patient_verb)
 
     # Now we handle dependencies in the other direction to get predicatives.
@@ -71,14 +74,16 @@ def parse_sent_and_mention(sent, mention):
                     to_be_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start]
                     # Check if the parent of the "be" verb is part of the mention
                     if (to_be_verb.head_global_id >= mention.start) and (to_be_verb.head_global_id <= mention.end):
-                        pred_word = sent.token_tags[token_tag.token_global_id - sent.global_token_start].lemma
-                        predicatives.append((pred_word, sent.sentence_id))
+                        idx = token_tag.token_global_id - sent.global_token_start
+                        pred_word = sent.token_tags[idx].lemma
+                        predicatives.append(Occurrence(pred_word, sent.sentence_id, par_id, idx, idx+1))
                         #print(" mention: ", mention, " token: ", token, " id ", token_tag.token_global_id,  "predicative : ", pred_word)
                     
     return agents, patients, predicatives
         
 
-def parse_into_sents_corefs(inp):
+def parse_into_sentences_characters(inp):
+    exclude = set(string.punctuation)
     text, par_id = inp
     doc = nlp(text)
     # parse into sentences
@@ -95,21 +100,28 @@ def parse_into_sents_corefs(inp):
         corefs = {}
         for cluster in doc._.coref_clusters:
             # If an entry for this coref doesn't yet exist, create one
-            if not (cluster.main.text.lower() in corefs):
-                corefs[cluster.main.text.lower()] = {"mentions" : [], "agents" : [], "patients" : [], "preds" : []}
+            main_name = cluster.main.text.lower()
+            main_name = ''.join(ch for ch in main_name if ch not in exclude).strip()
+    
+            if not ( main_name in corefs):
+                corefs[main_name] = {"mentions" : [], "agents" : [], "patients" : [], "preds" : []}
             # Update the entry with new mention and any parsed verbs or predicatives
             for mention in cluster.mentions:
+                mention_name = mention.text.lower()
+                mention_name = ''.join(ch for ch in main_name if ch not in exclude).strip()    
                 mention_sent = sentence_id_for_tokens[mention.start]
-                corefs[cluster.main.text.lower()]["mentions"].append((mention.text.lower(), mention_sent))
-                agents, patients, preds = parse_sent_and_mention(sentences[mention_sent], mention)
-                corefs[cluster.main.text.lower()]["agents"] += agents
-                corefs[cluster.main.text.lower()]["patients"] += patients
-                corefs[cluster.main.text.lower()]["preds"] += preds
+                corefs[main_name]["mentions"].append(Occurrence(mention_name, mention_sent, par_id, mention.start, mention.end))
+                agents, patients, preds = parse_sent_and_mention(sentences[mention_sent], mention, par_id)
+                corefs[main_name]["agents"] += agents
+                corefs[main_name]["patients"] += patients
+                corefs[main_name]["preds"] += preds    
+
     return sentences, corefs
 
 
 
-def get_merged_corefs(coref_dicts, max_fuzz = 70):
+def get_merged_characters(coref_dicts, max_fuzz = 70):
+    characters = []
     main_coref = {}
     for dict_ in coref_dicts:
         for k,v in dict_.items():
@@ -119,17 +131,27 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
                 main_coref[k] = v
     
     merged_coref = {}
+    char_counts = {}
     for k,v in main_coref.items():
         added = 0
         for merged_char in merged_coref.keys():
             if fuzz.partial_ratio(merged_char, k) > max_fuzz:
                 merged_coref[merged_char].update(v)
                 added = 1
+                char_counts[merged_char]+=len(v)
                 break
         if added==0:
             merged_coref[k] = v
-
-    return merged_coref
+            char_counts[k]=len(v)
+            
+    
+    ranked_chars = sorted(char_counts, key=char_counts.get, reverse=True)
+    for char in merged_coref:
+        rank = ranked_chars.index(char) + 1
+        character = Character(rank, char, merged_coref[char]['mentions'], merged_coref[char]['agents'], merged_coref[char]['patients'], merged_coref[char]['preds'])
+        characters.append(character)
+    
+    return characters
 
 def convert_text_to_chunks(text):
     # split on newlines followed by space
@@ -196,6 +218,7 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
     return sentences
 
 
+<<<<<<< HEAD
 def parse_book(book_path, verbose = False, poolNum=5):
     try:
         if verbose:
@@ -243,4 +266,43 @@ def parse_book(book_path, verbose = False, poolNum=5):
             print(f'Processing_time : {end-start}')
             print(f'===================End Parsing======================')
         return p, None
+=======
+def parse_book(book_path, verbose = False, threads=5, batch_size=8):
+    if verbose:
+        print(f'===================Begin Parsing======================')
+        start = time.time()
+    with open(book_path, "r") as txtFile:
+        text = txtFile.read()
+        
+    chunks = convert_text_to_chunks(text)
+    
+    with Pool(threads) as p:
+        pooled_opt = p.map(parse_into_sentences_characters,chunks)
+        sentences = [ sentence for par,_ in pooled_opt for sentence in par]
+        characters = get_merged_characters([ coref_dict for _,coref_dict in pooled_opt])
+        #get_verbs(corefs)
+
+    if verbose:
+        ckpt1 = time.time()
+        print(f'Sentences and Coref obtained : {ckpt1-start}')
+        
+    batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=batch_size)
+
+    emotion_batches = []
+    for batch in batch_generator:
+        emotion_batches.append(get_emotion_per_batch(batch))
+    
+    
+    sentences = merge_emotions_to_sentences(sentences, emotion_batches)
+    if verbose:
+        ckpt2 = time.time()
+        print(f'Emotions obtained : {ckpt2-ckpt1}')
+    
+    if verbose:
+        print(f"\nSentences : {len(sentences)}, characters : {len(characters)}")
+        end = time.time()
+        print(f'Processing_time : {end-start}')
+        print(f'===================End Parsing======================')
+    return Book(book_path, text, sentences, characters)
+>>>>>>> refactor corefs into characters
     
