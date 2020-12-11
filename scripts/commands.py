@@ -114,7 +114,10 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
     for dict_ in coref_dicts:
         for k,v in dict_.items():
             if k in main_coref:
-                main_coref[k].update(v)
+                main_coref[k]["mentions"] += v["mentions"]
+                main_coref[k]["agents"] += v["agents"]
+                main_coref[k]["patients"] += v["patients"]
+                main_coref[k]["preds"] += v["preds"]
             else:
                 main_coref[k] = v
     
@@ -123,7 +126,13 @@ def get_merged_corefs(coref_dicts, max_fuzz = 70):
         added = 0
         for merged_char in merged_coref.keys():
             if fuzz.partial_ratio(merged_char, k) > max_fuzz:
-                merged_coref[merged_char].update(v)
+                print("before merge ", merged_coref[merged_char])
+                merged_coref[merged_char]["mentions"] += v["mentions"]
+                merged_coref[merged_char]["agents"] += v["agents"]
+                merged_coref[merged_char]["patients"] += v["patients"]
+                merged_coref[merged_char]["preds"] += v["preds"]
+                
+                print("after merge ", merged_coref[merged_char])
                 added = 1
                 break
         if added==0:
@@ -196,7 +205,7 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
     return sentences
 
 
-def parse_book(book_path, verbose = False, poolNum=5):
+def parse_book(book_path, verbose = False, poolNum=2):
     try:
         if verbose:
             print(f'===================Begin Parsing======================')
