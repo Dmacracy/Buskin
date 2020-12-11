@@ -74,7 +74,7 @@ def parse_sent_and_mention(sent, mention):
                         pred_word = sent.token_tags[token_tag.token_global_id - sent.global_token_start].lemma
                         predicatives.append((pred_word, sent.sentence_id))
                         #print(" mention: ", mention, " token: ", token, " id ", token_tag.token_global_id,  "predicative : ", pred_word)
-
+                    
     return agents, patients, predicatives
         
 
@@ -195,44 +195,52 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
         sentences[i].emotion_tags = Emotion(emotions[i], mini_emotions[i], float(probs[i])) 
     return sentences
 
-def get_verbs(character):
-    print(character)
 
-def parse_book(book_path, verbose = False):
-    if verbose:
-        print(f'===================Begin Parsing======================')
-        start = time.time()
-    with open(book_path, "r") as txtFile:
-        text = txtFile.read()
-        
-    chunks = convert_text_to_chunks(text)
-    
-    with Pool(5) as p:
+def parse_book(book_path, verbose = False, poolNum=5):
+    try:
+        if verbose:
+            print(f'===================Begin Parsing======================')
+            print(book_path+"\n")
+            start = time.time()
+        with open(book_path, "r") as txtFile:
+            text = txtFile.read()
+
+        chunks = convert_text_to_chunks(text)
+
+        p = Pool(poolNum)
         pooled_opt = p.map(parse_into_sents_corefs,chunks)
         sentences = [ sentence for par,_ in pooled_opt for sentence in par]
         corefs = get_merged_corefs([ coref_dict for _,coref_dict in pooled_opt])
-        #get_verbs(corefs)
 
-    if verbose:
-        ckpt1 = time.time()
-        print(f'Sentences and Coref obtained : {ckpt1-start}')
-        
-    batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=8)
 
-    emotion_batches = []
-    for batch in batch_generator:
-        emotion_batches.append(get_emotion_per_batch(batch))
-    
-    
-    sentences = merge_emotions_to_sentences(sentences, emotion_batches)
-    if verbose:
-        ckpt2 = time.time()
-        print(f'Emotions obtained : {ckpt2-ckpt1}')
-    
-    if verbose:
-        print(f"\nSentences : {len(sentences)}, characters : {len(corefs.keys())}")
-        end = time.time()
-        print(f'Processing_time : {end-start}')
-        print(f'===================End Parsing======================')
-    return Book(book_path, text, sentences, corefs)
+        if verbose:
+            ckpt1 = time.time()
+            print(f'Sentences and Coref obtained : {ckpt1-start}')
+
+        batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=8)
+
+        emotion_batches = []
+        for batch in batch_generator:
+            emotion_batches.append(get_emotion_per_batch(batch))
+
+
+        sentences = merge_emotions_to_sentences(sentences, emotion_batches)
+        if verbose:
+            ckpt2 = time.time()
+            print(f'Emotions obtained : {ckpt2-ckpt1}')
+
+        if verbose:
+            print(f"\nSentences : {len(sentences)}, characters : {len(corefs.keys())}")
+            end = time.time()
+            print(f'Processing_time : {end-start}')
+            print(f'===================End Parsing======================')
+        return p, Book(book_path, text, sentences, corefs)
+    except Exception as e:
+        if verbose:
+            print(e)
+            end = time.time()
+            print("Error Parsing, Skipping")
+            print(f'Processing_time : {end-start}')
+            print(f'===================End Parsing======================')
+        return p, None
     
