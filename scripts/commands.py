@@ -35,9 +35,10 @@ reduced_emotions = { 'admiration' : 'pos', 'amusement' : 'pos', 'anger' : 'neg',
 '''
 Parse a mention and the sentence in which it occurs
 in order to extract the patient, agent, and predicative
-words used in relation to the entity mentioned.
+words used in relation to the entity mentioned. Par_id is the 
+index of the 'chunk' of text that the sentence was included in.
 '''
-def parse_sent_and_mention(sent, mention):
+def parse_sent_and_mention(par_id, sent, mention):
     agents = []
     patients = []
     predicatives = []
@@ -49,14 +50,12 @@ def parse_sent_and_mention(sent, mention):
         if token_tag.dep == 'nsubj':
             agent_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
             agents.append((agent_verb, sent.sentence_id))
-            #print(" mention: ", mention, " token: ", token, " id ", token.i, "agent : ", agent_verb)
             
         # If the token's dependency tag is dobj or nsubjpass, find it's parent and set the lemma of this word to
         # be an patient of this entity.
         if (token_tag.dep ==  'dobj') or (token_tag.dep == 'nsubjpass'):
             patient_verb = sent.token_tags[token_tag.head_global_id - sent.global_token_start].lemma
-            patients.append((patient_verb, sent.sentence_id))
-            #print(" mention: ", mention, " token: ", token, " id ", token.i, "patient : ", patient_verb)
+            patients.append((patient_verb, par_id, sent.sentence_id))
 
     # Now we handle dependencies in the other direction to get predicatives.
     # 'man' is the predicative of 'Tim' in the sentence "Tim is a man."
@@ -72,11 +71,11 @@ def parse_sent_and_mention(sent, mention):
                     # Check if the parent of the "be" verb is part of the mention
                     if (to_be_verb.head_global_id >= mention.start) and (to_be_verb.head_global_id <= mention.end):
                         pred_word = sent.token_tags[token_tag.token_global_id - sent.global_token_start].lemma
-                        predicatives.append((pred_word, sent.sentence_id))
-                        #print(" mention: ", mention, " token: ", token, " id ", token_tag.token_global_id,  "predicative : ", pred_word)
+                        predicatives.append((pred_word, par_id, sent.sentence_id))
                     
     return agents, patients, predicatives
         
+
 
 def parse_into_sents_corefs(inp):
     text, par_id = inp
@@ -100,8 +99,8 @@ def parse_into_sents_corefs(inp):
             # Update the entry with new mention and any parsed verbs or predicatives
             for mention in cluster.mentions:
                 mention_sent = sentence_id_for_tokens[mention.start]
-                corefs[cluster.main.text.lower()]["mentions"].append((mention.text.lower(), mention_sent))
-                agents, patients, preds = parse_sent_and_mention(sentences[mention_sent], mention)
+                corefs[cluster.main.text.lower()]["mentions"].append((mention.text.lower(), par_id, mention_sent))
+                agents, patients, preds = parse_sent_and_mention(par_id, sentences[mention_sent], mention)
                 corefs[cluster.main.text.lower()]["agents"] += agents
                 corefs[cluster.main.text.lower()]["patients"] += patients
                 corefs[cluster.main.text.lower()]["preds"] += preds
@@ -215,7 +214,7 @@ def parse_book(book_path, verbose = False, poolNum=2):
 
         p = Pool(poolNum)
         pooled_opt = p.map(parse_into_sents_corefs,chunks)
-        sentences = [ sentence for par,_ in pooled_opt for sentence in par]
+        sentences = [ par for par,_ in pooled_opt]
         corefs = get_merged_corefs([ coref_dict for _,coref_dict in pooled_opt])
 
 
@@ -223,20 +222,25 @@ def parse_book(book_path, verbose = False, poolNum=2):
             ckpt1 = time.time()
             print(f'Sentences and Coref obtained : {ckpt1-start}')
 
-        batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=8)
+        for i in range(len(sentences)):
 
-        emotion_batches = []
-        for batch in batch_generator:
-            emotion_batches.append(get_emotion_per_batch(batch))
+            batch_generator = generate_sentence_batches(sentences[i], BATCH_SIZE=8)
 
+            emotion_batches = []
+            for batch in batch_generator:
+                emotion_batches.append(get_emotion_per_batch(batch))
+            
+            sentences[i] = merge_emotions_to_sentences(sentences[i], emotion_batches)
 
-        sentences = merge_emotions_to_sentences(sentences, emotion_batches)
+                
         if verbose:
             ckpt2 = time.time()
             print(f'Emotions obtained : {ckpt2-ckpt1}')
-
+            
+        
         if verbose:
-            print(f"\nSentences : {len(sentences)}, characters : {len(corefs.keys())}")
+            num_sents = sum(len(sentence_clust) for sentence_clust in sentences)
+            print(f"\nSentences : {num_sents}, characters : {len(corefs.keys())}")
             end = time.time()
             print(f'Processing_time : {end-start}')
             print(f'===================End Parsing======================')
