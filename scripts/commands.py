@@ -218,55 +218,6 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
     return sentences
 
 
-<<<<<<< HEAD
-def parse_book(book_path, verbose = False, poolNum=5):
-    try:
-        if verbose:
-            print(f'===================Begin Parsing======================')
-            print(book_path+"\n")
-            start = time.time()
-        with open(book_path, "r") as txtFile:
-            text = txtFile.read()
-
-        chunks = convert_text_to_chunks(text)
-
-        p = Pool(poolNum)
-        pooled_opt = p.map(parse_into_sents_corefs,chunks)
-        sentences = [ sentence for par,_ in pooled_opt for sentence in par]
-        corefs = get_merged_corefs([ coref_dict for _,coref_dict in pooled_opt])
-
-
-        if verbose:
-            ckpt1 = time.time()
-            print(f'Sentences and Coref obtained : {ckpt1-start}')
-
-        batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=8)
-
-        emotion_batches = []
-        for batch in batch_generator:
-            emotion_batches.append(get_emotion_per_batch(batch))
-
-
-        sentences = merge_emotions_to_sentences(sentences, emotion_batches)
-        if verbose:
-            ckpt2 = time.time()
-            print(f'Emotions obtained : {ckpt2-ckpt1}')
-
-        if verbose:
-            print(f"\nSentences : {len(sentences)}, characters : {len(corefs.keys())}")
-            end = time.time()
-            print(f'Processing_time : {end-start}')
-            print(f'===================End Parsing======================')
-        return p, Book(book_path, text, sentences, corefs)
-    except Exception as e:
-        if verbose:
-            print(e)
-            end = time.time()
-            print("Error Parsing, Skipping")
-            print(f'Processing_time : {end-start}')
-            print(f'===================End Parsing======================')
-        return p, None
-=======
 def parse_book(book_path, verbose = False, threads=5, batch_size=8):
     if verbose:
         print(f'===================Begin Parsing======================')
@@ -278,10 +229,13 @@ def parse_book(book_path, verbose = False, threads=5, batch_size=8):
     
     with Pool(threads) as p:
         pooled_opt = p.map(parse_into_sentences_characters,chunks)
+        # pooled_opt = p.map_async(parse_into_sentences_characters,chunks)
         sentences = [ sentence for par,_ in pooled_opt for sentence in par]
         characters = get_merged_characters([ coref_dict for _,coref_dict in pooled_opt])
         #get_verbs(corefs)
-
+    del chunks 
+    del pooled_opt
+    
     if verbose:
         ckpt1 = time.time()
         print(f'Sentences and Coref obtained : {ckpt1-start}')
@@ -304,5 +258,4 @@ def parse_book(book_path, verbose = False, threads=5, batch_size=8):
         print(f'Processing_time : {end-start}')
         print(f'===================End Parsing======================')
     return Book(book_path, text, sentences, characters)
->>>>>>> refactor corefs into characters
     
