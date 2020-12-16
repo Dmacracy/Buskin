@@ -7,22 +7,44 @@ from fuzzywuzzy import fuzz
 import pandas as pd
 # Load your usual SpaCy model (one of SpaCy English models)
 import spacy
-nlp = spacy.load('en_core_web_sm')
 
 # Add neural coref to SpaCy's pipe
 import neuralcoref
-neuralcoref.add_to_pipe(nlp, blacklist=True)
-
 
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 import torch.nn.functional as nnf
-tokenizer = BertTokenizer.from_pretrained("monologg/bert-base-cased-goemotions-original")
-model = BertForSequenceClassification.from_pretrained("monologg/bert-base-cased-goemotions-original", return_dict=True).to('cuda')
-model.eval()
-
 import numpy as np
+from functools import wraps
+import errno
+import os
+import signal
 
+class TimeoutError(Exception):
+    pass
+
+def timeout(seconds=10, error_message=os.strerror(errno.ETIME)):
+    def decorator(func):
+        def _handle_timeout(signum, frame):
+            raise TimeoutError(error_message)
+
+        def wrapper(*args, **kwargs):
+            signal.signal(signal.SIGALRM, _handle_timeout)
+            signal.alarm(seconds)
+            try:
+                result = func(*args, **kwargs)
+            finally:
+                signal.alarm(0)
+            return result
+
+        return wraps(func)(wrapper)
+
+    return decorator
+
+
+
+
+stop_words = spacy.lang.en.stop_words.STOP_WORDS
 emotions = ['admiration','amusement','anger','annoyance','approval','caring','confusion','curiosity',\
             'desire','disappointment','disapproval','disgust','embarrassment','excitement','fear',\
             'gratitude','grief','joy','love','nervousness','optimism','pride','realization','relief',\
@@ -82,9 +104,18 @@ def parse_sent_and_mention(sent, mention, par_id):
                     
     return agents, patients, predicatives
         
+def denoise_string(s):
+    exclude = set(string.punctuation)
+    s = s.lower()
+    s = ''.join(ch for ch in s if ch not in exclude).strip()
+    s = ' '.join([x for x in s.split(' ') if x not in stop_words])
+    if s =='':
+        s = 'STOP_WORD'
+    return s
+
+
 
 def parse_into_sentences_characters(inp):
-    exclude = set(string.punctuation)
     text, par_id = inp
     doc = nlp(text)
     # parse into sentences
@@ -96,20 +127,21 @@ def parse_into_sentences_characters(inp):
         token_tags = [TOKEN_TAGS(i, token.i, token.text, token.lemma_, token.pos_, token.pos_, token.dep_, token.head.i) for i, token in enumerate(tokens)]
         emotion_tags = Emotion(None,None,None)
         sentences.append(Sentence(s, par_id, sent.start, sent.text, token_tags, emotion_tags))
-    
+    corefs = {}
     if doc._.has_coref:
-        corefs = {}
+        
         for cluster in doc._.coref_clusters:
             # If an entry for this coref doesn't yet exist, create one
-            main_name = cluster.main.text.lower()
-            main_name = ''.join(ch for ch in main_name if ch not in exclude).strip()
-    
+            main_name = denoise_string(cluster.main.text)
+
+            if main_name in stop_words or main_name=='STOP_WORD':
+                continue
+
             if not ( main_name in corefs):
                 corefs[main_name] = {"mentions" : [], "agents" : [], "patients" : [], "preds" : []}
             # Update the entry with new mention and any parsed verbs or predicatives
             for mention in cluster.mentions:
-                mention_name = mention.text.lower()
-                mention_name = ''.join(ch for ch in main_name if ch not in exclude).strip()    
+                mention_name = denoise_string(mention.text)
                 mention_sent = sentence_id_for_tokens[mention.start]
                 corefs[main_name]["mentions"].append(Occurrence(mention_name, mention_sent, par_id, mention.start, mention.end))
                 agents, patients, preds = parse_sent_and_mention(sentences[mention_sent], mention, par_id)
@@ -139,20 +171,23 @@ def get_merged_characters(coref_dicts, max_fuzz = 70):
     for k,v in main_coref.items():
         added = 0
         for merged_char in merged_coref.keys():
-            if fuzz.partial_ratio(merged_char, k) > max_fuzz:
+            if fuzz.ratio(merged_char, k) > max_fuzz:
                 merged_coref[merged_char]["mentions"] += v["mentions"]
                 merged_coref[merged_char]["agents"] += v["agents"]
                 merged_coref[merged_char]["patients"] += v["patients"]
                 merged_coref[merged_char]["preds"] += v["preds"]
                 added = 1
-                char_counts[merged_char]+=len(v)
+                char_counts[merged_char]+=len(v['mentions'])
                 break
         if added==0:
             merged_coref[k] = v
-            char_counts[k]=len(v)
+            char_counts[k]=len(v['mentions'])
             
     
-    ranked_chars = sorted(char_counts, key=char_counts.get, reverse=True)
+    char_counts = [[k,char_counts[k]] for k in char_counts]
+    char_counts = sorted(char_counts, key=lambda x: x[1], reverse=True)
+    # print(char_counts)
+    ranked_chars = [x[0] for x in char_counts]
     for char in merged_coref:
         rank = ranked_chars.index(char) + 1
         character = Character(rank, char, merged_coref[char]['mentions'], merged_coref[char]['agents'], merged_coref[char]['patients'], merged_coref[char]['preds'])
@@ -160,7 +195,7 @@ def get_merged_characters(coref_dicts, max_fuzz = 70):
     
     return characters
 
-def convert_text_to_chunks(text):
+def convert_text_to_chunks(text, max_chunk_size):
     # split on newlines followed by space
     pars = re.split('\n\s', text)   
     # Replace newline chars
@@ -180,16 +215,26 @@ def convert_text_to_chunks(text):
         else:
             final_pars.append(paragraph)
     
-    TOTAL_CHUNKS = 5
-    final_chunks = []
+    # TOTAL_CHUNKS = 5
+    # pars_per_chunk = round(len(final_pars)/TOTAL_CHUNKS) 
+    MAX_CHUNK_LENGTH = max_chunk_size
+    final_chunks = ['']
     chunk_id = 0
-    pars_per_chunk = round(len(final_pars)/TOTAL_CHUNKS) 
-    while chunk_id * pars_per_chunk < len(final_pars):
-        final_chunks.append((' '.join(final_pars[chunk_id * pars_per_chunk : min((chunk_id + 1 ) * pars_per_chunk,len(final_pars))]), chunk_id))
-        chunk_id+=1
+    par_id = 0
+    # while chunk_id * pars_per_chunk < len(final_pars):
+    #     final_chunks.append((' '.join(final_pars[chunk_id * pars_per_chunk : min((chunk_id + 1 ) * pars_per_chunk,len(final_pars))]), chunk_id))
+    #     chunk_id+=1
+    # return final_chunks
+    while par_id < len(final_pars):
+        if len(final_chunks[chunk_id])>MAX_CHUNK_LENGTH:
+            chunk_id+=1
+            final_chunks.append('')
+        final_chunks[chunk_id]  = final_chunks[chunk_id] + ' ' + final_pars[par_id]
+        par_id+=1
+    final_chunks = [(chunk,ch) for ch,chunk in enumerate(final_chunks)]
     return final_chunks
 
-def get_emotion_per_batch(batch):
+def get_emotion_per_batch(batch, tokenizer, model):
     inputs = tokenizer(batch, is_split_into_words=True, return_tensors='pt', padding=True).to('cuda')
     outputs = model(**inputs)
     logits = outputs.logits
@@ -225,14 +270,23 @@ def merge_emotions_to_sentences(sentences, emotion_batches):
     return sentences
 
 
-def parse_book(book_path, verbose = False, threads=5, batch_size=8):
+tokenizer = BertTokenizer.from_pretrained("monologg/bert-base-cased-goemotions-original")
+model = BertForSequenceClassification.from_pretrained("monologg/bert-base-cased-goemotions-original", return_dict=True).to('cuda')
+model.eval()
+nlp = spacy.load('en_core_web_sm')
+neuralcoref.add_to_pipe(nlp, blacklist=True)
+  
+
+
+@timeout(300)
+def parse_book(book_path, verbose = False, threads=5, batch_size=8, max_chunk_size=50000):
     if verbose:
         print(f'===================Begin Parsing======================')
         start = time.time()
     with open(book_path, "r") as txtFile:
         text = txtFile.read()
         
-    chunks = convert_text_to_chunks(text)
+    chunks = convert_text_to_chunks(text,max_chunk_size)
     
     with Pool(threads) as p:
         pooled_opt = p.map(parse_into_sentences_characters,chunks)
@@ -248,10 +302,10 @@ def parse_book(book_path, verbose = False, threads=5, batch_size=8):
         print(f'Sentences and Coref obtained : {ckpt1-start}')
         
     batch_generator = generate_sentence_batches(sentences, BATCH_SIZE=batch_size)
-
+    
     emotion_batches = []
     for batch in batch_generator:
-        emotion_batches.append(get_emotion_per_batch(batch))
+        emotion_batches.append(get_emotion_per_batch(batch, tokenizer, model))
     
     
     sentences = merge_emotions_to_sentences(sentences, emotion_batches)
