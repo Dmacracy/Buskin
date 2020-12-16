@@ -36,7 +36,8 @@ reduced_emotions = { 'admiration' : 'pos', 'amusement' : 'pos', 'anger' : 'neg',
 '''
 Parse a mention and the sentence in which it occurs
 in order to extract the patient, agent, and predicative
-words used in relation to the entity mentioned.
+words used in relation to the entity mentioned. Par_id is the 
+index of the 'chunk' of text that the sentence was included in.
 '''
 def parse_sent_and_mention(sent, mention, par_id):
     agents = []
@@ -126,7 +127,10 @@ def get_merged_characters(coref_dicts, max_fuzz = 70):
     for dict_ in coref_dicts:
         for k,v in dict_.items():
             if k in main_coref:
-                main_coref[k].update(v)
+                main_coref[k]["mentions"] += v["mentions"]
+                main_coref[k]["agents"] += v["agents"]
+                main_coref[k]["patients"] += v["patients"]
+                main_coref[k]["preds"] += v["preds"]
             else:
                 main_coref[k] = v
     
@@ -136,7 +140,10 @@ def get_merged_characters(coref_dicts, max_fuzz = 70):
         added = 0
         for merged_char in merged_coref.keys():
             if fuzz.partial_ratio(merged_char, k) > max_fuzz:
-                merged_coref[merged_char].update(v)
+                merged_coref[merged_char]["mentions"] += v["mentions"]
+                merged_coref[merged_char]["agents"] += v["agents"]
+                merged_coref[merged_char]["patients"] += v["patients"]
+                merged_coref[merged_char]["preds"] += v["preds"]
                 added = 1
                 char_counts[merged_char]+=len(v)
                 break
